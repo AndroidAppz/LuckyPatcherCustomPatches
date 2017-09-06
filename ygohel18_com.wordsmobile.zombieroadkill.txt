@@ -1,0 +1,37 @@
+[BEGIN]
+custom patch for Zombie Road Kill
+custom patch created by
+  @Ygohel18
+
+       --- Features ---
++Unlimited money
++Ads free
+
+      --- Instructions ---
+
+1. Install Zombie Road Kill Frovm Play Store;
+2. Open The Game And Play The Tutorials
+3. Close The Game.
+4. Open Lucky Patcher, Apply Custom Patch.
+5. If Any Problem,Reinstall The Game And Patch it Again.
+
+[COPY_FILE]
+{"file_name":"ygohel18.zombieroadkill.1.xml"}
+
+{"to":"/data/data/com.wordsmobile.zombieroadkill/shared_prefs/SponsorPayAdvertiserState.xml"}
+
+[COPY_FILE]
+{"file_name":"ygohel18.zombieroadkill.2.xml"}
+
+{"to":"/data/data/com.wordsmobile.zombieroadkill/shared_prefs/Zombie.xml"}
+
+[END]
+
+ Patched!!!!
+Cheers!!!!
+By @ygohel18
+Ygohel18.wordpress.com
+  
+
+
+

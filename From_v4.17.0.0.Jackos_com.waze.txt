@@ -1,0 +1,20 @@
+[BEGIN]
+Affichage des radars en France.
+A partir de Waze 4.16.0.901
+
+[LIB]
+{"name":"libwaze.so"}
+
+{"group":"1"}
+{"original":"0C 00 9F E5 0C 10 9F E5 00 00 8F E0 01 10 8F E0 ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? 00 48 2D E9 60 00 9F E5"}
+{"replaced":"0C 00 9F E5 0C 10 9F E5 00 00 8F E0 01 00 A0 E3 1E FF 2f E1 ?? ?? ?? ?? ?? ?? ?? ?? 01 00 e0 e3 1E FF 2F E1"}
+
+{"group":"2"}
+{"original":"38 00 00 1A 1C 01 9F E5"}
+{"replaced":"FF FF FF EA 1C 01 9F E5"}
+
+[END]
+!!! PATCH DE WAZE EFFECTUE !!!
+Cree par Jackos
+Merci a HpNoTiQ pour le patch
+des versions anterieures

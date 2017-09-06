@@ -1,0 +1,45 @@
+[BEGIN]
+
+Patch by EyeSoftBD Dev's
+Author: Md.Nayan Chowdhury
+Email: info@eyesoftbd.ml
+
+Custom Patch for Shadow Fight 2 v1.9.24 +Up
+
+Caution: If you patch before 1.9.24 version, it won't work good. So, you must have to version 1.9.24 or later.
+
+Features:
+
+-Unlimited Energy
+-Unlimited Coins And Germs
+-Unlimited Shadow Orbs
+-Max. Levels bypassed ( Provides  Max. Weapon Upgrade )
+
+<<< Instructions >>>
+1. Install Shadow Fight 2  v1.9.24  From Play Store;
+2. Open The Game And Play The First Two Tutorials
+3. Close The Game.
+4. Open Lucky Patcher, Apply Custom Patch And Guess What "ALL DONE";
+5. If Any Problem,Reinstall The Game And Patch it Again.
+
+[COPY_FILE]
+{"file_name":"EyeSoftBD_Shadow.bin"}
+{"to":"/data/data/com.nekki.shadowfight/files/assets/users.xml"}
+
+[COPY_FILE]
+{"file_name":"EyeSoftBD_Shadow_hash.bin"}
+{"to":"/data/data/com.nekki.shadowfight/files/assets/users.xml.hash"}
+
+[COPY_FILE]
+{"file_name":"EyeSoftBD_Shadow_Backup.bin"}
+{"to":"/data/data/com.nekki.shadowfight/files/assets/users_backup.xml"}
+
+[COPY_FILE]
+{"file_name":"EyeSoftBD_Shadow_Backup_hash.bin"}
+{"to":"/data/data/com.nekki.shadowfight/files/assets/users_backup.xml.hash"}
+
+[END]
+Patched!!!!
+Cheers!!!!
+By *EyeSoftBD Dev's*
+

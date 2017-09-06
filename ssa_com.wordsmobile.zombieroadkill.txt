@@ -1,0 +1,37 @@
+[BEGIN]
+custom patch for Zombie Road Kill
+ safe custom patch created by
+  Abhijith SS Kallara
+
+       ♦ Features ♦
+→Unlimited money
+→Ads free
+
+      ♠ Instructions ♠
+
+1. Install Zombie Road Kill Frovm Play Store;
+2. Open The Game And Play The Tutorials
+3. Close The Game.
+4. Open Lucky Patcher, Apply Custom Patch And Guess What "ALL DONE";
+5. If Any Problem,Reinstall The Game And Patch it Again.
+
+[COPY_FILE]
+{"file_name":"ssa.zombieroadkill.a1"}
+
+{"to":"/data/data/com.wordsmobile.zombieroadkill/shared_prefs/SponsorPayAdvertiserState.xml"}
+
+[COPY_FILE]
+{"file_name":"ssa.zombieroadkill.a2"}
+
+{"to":"/data/data/com.wordsmobile.zombieroadkill/shared_prefs/Zombie.xml"}
+
+[END]
+
+ Patched!!!!
+Cheers!!!!
+By Abhijith SS Kallara
+  • Find me on fb
+  
+
+
+

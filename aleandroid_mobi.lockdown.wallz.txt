@@ -1,6 +1,6 @@
 [BEGIN]
 Author: AleX @ www.aleandroid.com
-Target: Wallz Wallpaper App v1.2.2
+Target: Wallz Wallpaper App v1.3.6
 Crack: Classes modification
 ------------------------------------------------
 Effect: 
@@ -12,7 +12,7 @@ or rebuild the app with it.
 ------------------------------------------------
 [PACKAGE]
 [CLASSES]
-{"original":"95 00 00 0A 00 38 00 04 00 12 10 0F 00 12 00"}
+{"original":"A9 02 00 0A 00 38 00 04 00 12 10 0F 00 12 00"}
 {"replaced":"** ** ** ** ** ** ** ** ** ** ** ** ** 12 10"}
 [END]
 ------------------------------------------------

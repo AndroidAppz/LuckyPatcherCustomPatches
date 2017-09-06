@@ -1,0 +1,43 @@
+[BEGIN]
+patch for Archery Master 3D_©
+ Safe custom patch created by,
+   Abhijith SS Kallara
+
+             ♦Features♦
+→Unlimited coins
+→Unlocked All scenes
+→Unlocked All bows
+→Unlocked All levels
+→Unlocked All Archery
+→Unlocked All items
+→Ads free
+
+           ♠Instructions♠
+1. Install Archery Master 3D from Play Store;
+2. Open The Game and play a bit
+3. Close The Game.
+4. Open Lucky Patcher, Apply Custom Patch And Guess What "ALL DONE";
+5. If Any Problem,Reinstall The Game And Patch it Again.
+
+
+[COPY_FILE]
+{"file_name":"ssa.archerymaster3d.a1"}
+
+{"to":"/data/data/com.junerking.archery/shared_prefs/adsFree.xml"}
+
+[COPY_FILE]
+{"file_name":"ssa.archerymaster3d.a2"}
+
+{"to":"/data/data/com.junerking.archery/shared_prefs/com.junerking.archery.xml"}
+
+[ADD-BOOT]
+
+[END]
+Patched!!!!
+Cheers!!!!
+By Abhijith SS Kallara
+  • Find me on fb
+  
+
+
+

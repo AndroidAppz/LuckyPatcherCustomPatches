@@ -1,0 +1,77 @@
+[BEGIN]
+
+Kuldip Patel(KP7742) Reveals Mod Of DA2-Mini Militia.
+
+-> DA2-Mini Militia v2.2.86 <-
+
+~Features~
+- Unlimited Health.
+- One Shot Kill.
+- Unlock Pro Pack.
+- Unlimited Flying Power.
+- Anti Gravity.
+- No Reload.
+- All Store Item Unlocked.
+- All Weapons Have LaserSight.
+- Instant Respawn.
+- Robots Can't See You In Solo Play.
+- GHOST Mod - Became Ghost In Gameplay.
+
+<<< Instructions >>>
+For Rooted Users:
+1. Install DA2-Mini Militia From Play Store.
+2. Patch It  With Lucky Patcher And Guess What "ALL DONE".
+3. If Any Problem,Reinstall The Game And Patch it Again.
+For Non-Rooted Users:
+1. Install DA2-Mini Militia From Play Store.
+2. Create New Modified Apk With This Patch.
+3. Remove Old Apk And Install New.
+
+#WebSite# -~> https://da2m.blogspot.in/
+
+[LIB]
+{"name":"libcocos2dcpp.so"}
+
+{"original":"54 4F 55 43 48 20 20 20 20 53 54 41 52 54 00 00 4C 4F 41 44 49 4E 47"}
+{"replaced":"4B 55 4C 44 49 50 20 20 20 4B 4D 4F 44 53 00 00 4B 55 4C 44 49 50 50"}
+
+{"original":"93 F8 5B 31 00 2B 00 D0 D8 E0"}
+{"replaced":"93 F8 5B 31 01 20 07 90 D8 E0"}
+
+{"original":"FF E7 AC F3 9C E8 18 46 06 B0 10 BD 32 C9 42 00"}
+{"replaced":"FF E7 AC F3 9C E8 01 20 06 B0 10 BD 32 C9 42 00"}
+
+{"original":"00 23 01 23 DB B2 00 2B D7 D1 00 23 18 46 06 B0"}
+{"replaced":"00 23 01 23 DB B2 00 2B D7 D1 00 23 01 20 06 B0"}
+
+{"original":"10 FA D4 BF 00 23 01 23 DB B2 18 46 02 B0 70 47"}
+{"replaced":"10 FA D4 BF 00 23 01 23 DB B2 01 20 02 B0 70 47"}
+
+{"original":"18 46 02 B0 70 47 00 BF 82 B0 01 90 00 91 01 9B"}
+{"replaced":"00 20 02 B0 70 47 00 BF 82 B0 01 90 00 91 01 9B"}
+
+{"original":"0F 30 00 E0 00 BF 9D F8 0F 30 18 46 04 B0 70 47"}
+{"replaced":"0F 30 00 E0 00 BF 9D F8 0F 30 01 20 04 B0 70 47"}
+
+{"original":"02 B0 70 47 82 B0 01 90 01 9B D3 F8 B4 31 18 46"}
+{"replaced":"02 B0 70 47 82 B0 01 90 01 9B D3 F8 B4 31 04 20"}
+
+{"original":"82 B0 01 90 01 9B 9B 69 18 46 02 B0 70 47 00 BF"}
+{"replaced":"82 B0 01 90 01 9B 01 20 98 61 02 B0 70 47 00 BF"}
+
+{"original":"03 E0 01 23 01 E0 2A F1 9A E2 18 46 2B B0 30 BD"}             
+{"replaced":"03 E0 01 23 01 E0 2A F1 9A E2 00 20 2B B0 30 BD"}
+
+{"original":"18 46 0D B0 5D F8 04 FB 00 00 2F 44 00 B5 83 B0"}
+{"replaced":"00 20 0D B0 5D F8 04 FB 00 00 2F 44 00 B5 83 B0"}
+
+{"original":"10 40 02 B0 70 47 00 BF F0 B5 2D ED 02 8B AD F6"}
+{"replaced":"10 40 02 B0 70 47 00 BF 70 47 2D ED 02 8B AD F6"}
+
+{"original":"18 46 02 B0 70 47 00 BF 10 B5 82 B0 01 90 1F 4C"}
+{"replaced":"00 20 02 B0 70 47 00 BF 10 B5 82 B0 01 90 1F 4C"}
+
+[END]
+Patched..!!
+Cheers..!!
+Patch By kp7742 (Find Me On G+)

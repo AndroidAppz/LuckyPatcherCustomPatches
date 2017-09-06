@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+<int name="maxEnemgy" value="90" />
+<int name="isAdFree" value="1" />
+<long name="enemyTime" value="1473502850" />
+<int name="money_amounts" value="999999999" />
+<long name="clockTime" value="5360" />
+<int name="gold_amounts" value="999999999" />
+<int name="goldDouble" value="1" />
+</map>

@@ -1,0 +1,14 @@
+[BEGIN]
+Version: 2.5.1
+
+Description: patch will unlock XNotifications 2.5.1 (no guarantees that it will work on newest versions)
+
+Investigator: Kirlif
+
+Creator: Daimonium
+
+[PACKAGE]
+[CLASSES]
+{"original":"12 ** 54 ** ** ** 1A ** ** ** 6E ** ** ** ** ** 22 ** ** ** 1A ** ** ** 70 ** ** ** ** ** 12 ** 71 ** ** ** ** ** 0C ** 6E ** ** ** ** ** 0A ** 59 ** ** ** 5B ** ** ** 70 ** ** ** ** ** 6E ** ** ** ** ** 0A ** 38 ** 2E 00"}
+{"replaced":"** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** 12 S0 ** ** 27 01"}
+[END]

@@ -1,0 +1,15 @@
+[BEGIN]
+by sun1000 (Mohamadreza Nakhleh)mobogram unlock
+Telegram SDK do  not check integrity of .XML files thus  processing  unhealthy file leads to malicious behaviour
+Iran 2016
+------------------------------------------------
+[OTHER FILES]
+{"name":"/shared_prefs/userconfing.xml"}
+{"original":"22 74 72 75 65 22"}
+{"insert":"22 66 61 6c 73 65 22"}
+{"original":"3c 69 6e 74 20 6e 61 6d 65 3d 22 61 75 74 6f 4c 6f 63 6b 49 6e 22 20 76 61 6c 75 65 3d"}
+{"replace":"2a 21"}
+{"original":"3c 2f 6d 61 70 3e"}
+{"replace":"3c 69 6e 74 20 6e 61 6d 65 3d 22 61 75 74 6f 4c 6f 63 6b 49 6e 22 20 76 61 6c 75 65 3d 22 30 22 20 2f 3e"}
+[END]
+done !

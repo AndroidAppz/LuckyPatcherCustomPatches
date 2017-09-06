@@ -1,0 +1,11 @@
+[BEGIN]
+Version: 2.7
+
+Description: patch will upgrade Monospace 2.7 to Pro Edition (no guarantees that it will work on newest versions)
+
+Creator: Daimonium
+[PACKAGE]
+[CLASSES]
+{"original":"71 ** ** ** ** ** 0A ** 38 ** ** ** 12 ** 0F ** 1A ** ** ** 12 ** 72 ** ** ** ** ** 0A ** 28 **"}
+{"replaced":"** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** 12 S1 ** **"}
+[END]

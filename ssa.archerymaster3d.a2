@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+<string name="timeOnSale">636093149387772920</string>
+<int name="BuyBow5" value="1" />
+<int name="BuyBow4" value="1" />
+<int name="BuyBow6" value="1" />
+<int name="notice0" value="1" />
+<int name="BowDefault" value="6" />
+<int name="UserCoins" value="999999999" />
+<int name="BuyBow1" value="1" />
+<int name="BuyBow2" value="1" />
+<int name="BuyBow3" value="1" />
+<int name="LevelCount0" value="30" />
+<int name="LevelCount1" value="30" />
+<int name="LevelCount2" value="30" />
+<int name="LevelCount3" value="30" />
+<int name="LevelCount4" value="30" />
+<int name="Score100" value="100" />
+<int name="BuyPart0" value="5" />
+<int name="IsSnowOn" value="0" />
+<int name="BuyPart2" value="2" />
+<int name="BuyArrow8" value="1" />
+<int name="BuyPart1" value="0" />
+<int name="BuyArrow7" value="1" />
+<int name="BuyPart4" value="1" />
+<int name="BuyPart3" value="1" />
+<int name="BuyArrow9" value="0" />
+<int name="BuyArrow4" value="1" />
+<int name="BuyPart5" value="2" />
+<int name="BuyArrow3" value="1" />
+<int name="StarCount100" value="3" />
+<int name="BuyArrow6" value="1" />
+<int name="BuyArrow5" value="1" />
+<int name="Screenmanager Is Fullscreen mode" value="0" />
+<int name="CharacterDefault" value="0" />
+<int name="BuyArrow1" value="1" />
+<int name="Screenmanager Resolution Width" value="480" />
+<int name="BuyArrow2" value="1" />
+<int name="Screenmanager Resolution Height" value="800" />
+<int name="LevelBig4" value="1" />
+<int name="firstOpen" value="0" />
+<int name="LevelBig3" value="1" />
+<int name="LevelBig2" value="1" />
+<int name="BuyCharacter1" value="1" />
+<int name="LevelBig1" value="1" />
+</map>

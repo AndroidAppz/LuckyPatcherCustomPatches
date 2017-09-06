@@ -1,0 +1,91 @@
+
+[BEGIN]
+
+Author:  (Optimize Prime) 
+App Name: Android Assistant.                
+Crack: Licence Verification Removed      
+Required Version: 23.20 (And Up) 
+
+Instruction:
+1)Just Patch The App
+2) Enjoy :)    
+
+[PACKAGE]
+
+[CLASSES]
+ 
+{"original":"64 65 78 0A 30 33 35 00"}
+{"replaced":"32 31 11 2A 20 3E 44 12"}
+
+{"original":"6D 05 00 00"}
+{"replaced":"1E AF AA 6E"}
+
+{"original":"A8 11 00 00"}
+{"replaced":"A7 20 11 12"}
+
+{"original":"CD 02 6E 10"}
+{"replaced":"11 43 D9 12"}
+
+{"original":"53 6D 61 6C"}
+{"replaced":"11 A7 ?? E9"}
+
+{"original":"4D 6F 64 65"}
+{"replaced":"3B 22 00 ??"}
+
+{"original":"74 53 79 73 74 65 6D 55 69 56 69 73 69 62 69 6C"}
+{"replaced":" 20 33 44 1A 2D 3D 00 ?? 11 06 12 09 23 20 00 ??"}
+
+{"original":"36 3B 00 1B 4C 63 6F 6D"}
+{"replaced":"11 20 ?? ?? ?? 00 12 E6"}
+
+{"original":"69 6F 2F 46"}
+{"replaced":"B2 A1 40 00"}
+
+{"original":"76 61 2F 6C"}
+{"replaced":"12 67 0D 57"}
+
+{"original":"69 6F 6E 3B 00 12 4C 6A"}
+{"replaced":"12 ?? ?? 1E AA 43 57 34"}
+
+{"original":"6D 1A 00 00"}
+{"replaced":"A2 B2 ?? 3F"}
+
+{"original":"54 50 F9 ?? 6E 20 38 02 50 00 54 50 F9 04 62 03 E5 04 1A 04 83 0F 72 30 EE"}
+{"replaced":"10 20 30 40 50 10 40 90 E6 F9 6D DD D3 D9 CC C6 6C F2 F1 A1 A2 AA BB CC 22"}
+ 
+[END]
+
+[BEGIN]
+Second Patch 
+Patch For APK Assest!
+[PACKAGE]
+[FILE_IN_APK]
+{"name":"res/layout/a_l.xml"}
+{"original":"74 70 3A 2F"}
+{"replaced":"32 10 E6 3D"}
+[PACKAGE]
+[FILE_IN_APK]
+{"name":"/res/layout-v13/main_status_old.xml"}
+{"original":"5F 6D 61 72"}
+{"replaced":"1D 3A 32 00"}
+[PACKAGE]
+[FILE_IN_APK]
+{"name":"/res/layout-v13/ad_content.xml"}
+{"original":"61 73 2E 61"}
+{"replaced":"1E 32 10 E6"}
+[PACKAGE]
+[FILE_IN_APK]
+{"name":"/res/layout/systemclear_main.xml"}
+{"original":"70 6B 2F 72"}
+{"replaced":"12 01 2D ??"}
+[BEGIN]
+Third Patch
+Patch for Disable Permission
+[COMPONENT]
+{"disable":"com.android.vending.CHECK_LICENSE"}
+[END]
+All Successfully Patched!
+Good Luck :)
+[END]
+Patched 
+Enjoy :)

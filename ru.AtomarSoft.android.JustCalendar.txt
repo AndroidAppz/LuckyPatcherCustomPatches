@@ -1,0 +1,16 @@
+[BEGIN]
+
+Patch by namok o95 (4pda.ru)
+For YourCalendar v.(?-)1.4.4/0930_8r(+?)
+
+ - Для разблокировки всех платных возможностей / Unlock all the paid features
+
+[PACKAGE]
+[CLASSES]
+
+{"original":"54 ** ** ** 72 ** ** ** ** ** 0A ** 0F ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** 22 ** ** ** 70"}
+{"replaced":"** ** ** ** ** ** ** ** ** ** 12 S1 ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** **"}
+
+[END]
+Congratulations, you now have a cracked app!
+Enjoy:)

@@ -1,0 +1,18 @@
+[BEGIN]
+
+Grand Theft Auto: Vice City Only Money!
+
+♥ 999999999 Money Only.
+
+👌 Help:
+ 
+If you want to play Full game without Any save mission, You need to load "in the begnning " on load game option!
+ 
+© JAR Patch Engine.
+
+[COPY_FILE]
+{"file_name":"JAR_gtavc_money.bin"}
+
+{"to":"mnt/sdcard/Android/data/com.rockstargames.gtavc/files/GTA3sf8.b"}
+
+[END]

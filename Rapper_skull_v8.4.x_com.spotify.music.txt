@@ -1,0 +1,55 @@
+[BEGIN]
+Patch for Spotify 8.4.x by Rapper_skull
+Tested with versions 8.4.9.271, 8.4.11.1283, 8.4.14.439 and 8.4.16.781
+Only for armv7
+May not completely remove ads
+
+[PACKAGE]
+
+[CLASSES]
+{"original":"00 08 00 00 00 62 00 ?? ?? 33 10 04 00 12 10 0F 00 12 00 28 FE"}
+{"replaced":"00 08 00 00 00 62 00 ?? ?? 33 10 04 00 12 10 0F 00 12 10 28 FE"}
+
+{"original":"00 00 0A 00 1E 02 0F 00 01 10 28 EC 12 00 28 EF"}
+{"replaced":"00 00 0A 00 1E 02 0F 00 01 10 28 EC 12 10 28 EF"}
+
+{"original":"6E 10 ?? ?? 00 00 0A 06 62 00"}
+{"replaced":"6E 10 ?? ?? 00 00 12 16 62 00"}
+
+{"group":"1"}
+{"original":"0B 00 00 0A 00 5C 60 63 0B 54 60"}
+{"replaced":"0B 00 00 12 10 5C 60 63 0B 54 60"}
+
+{"group":"1"}
+{"original":"0D 00 00 0A 00 5C 60 FE 10 54 60"}
+{"replaced":"0D 00 00 12 10 5C 60 FE 10 54 60"}
+
+{"group":"1"}
+{"original":"0D 00 00 0A 00 5C A0 25 12 54 A0"}
+{"replaced":"0D 00 00 12 10 5C A0 25 12 54 A0"}
+
+{"group":"1"}
+{"original":"0E 00 00 0A 00 5C A0 A3 17 54 A0"}
+{"replaced":"0E 00 00 12 10 5C A0 A3 17 54 A0"}
+
+[ADD-BOOT]
+
+[LIB]
+{"name":"liborbit-jni-spotify.so"}
+
+{"original":"73 68 75 66 66 6C 65 2D 6D 6F 64 65 00"}
+{"replaced":"73 68 75 66 66 6C 65 2D 6D 6F 64 65 2E"}
+
+{"apk_build":"21237514-"}
+{"original":"F0 4F 2D E9 1C B0 8D E2 4C D0 4D E2 01 DB 4D E2 00 40"}
+{"replaced":"1E FF 2F E1 1C B0 8D E2 4C D0 4D E2 01 DB 4D E2 00 40"}
+
+{"apk_build":"20972334"}
+{"original":"54 2B 47 01 F0 4B 2D E9"}
+{"replaced":"54 2B 47 01 1E FF 2F E1"}
+
+{"apk_build":"21237514"}
+{"original":"AC 5D 48 01 F0 4B 2D E9"}
+{"replaced":"AC 5D 48 01 1E FF 2F E1"}
+
+[END]

@@ -1,0 +1,16 @@
+[BEGIN]
+Change opera mini server to unblock any website.
+Create modified apk from this custom patch.
+By nxp1024
+
+[LIB]
+{"name":"libom.so"}
+{"original":"73 6F 63 6B 65 74 3A 2F 2F 6D 69 6E 69 35 2E 6F 70 65 72 61 2D 6D 69 6E 69 2E 6E 65 74 3A 31 30 38 30"}
+{"replaced":"73 6F 63 6B 65 74 3A 2F 2F 31 34 31 2E 30 2E 31 33 2E 31 34 35 3A 31 30 38 30 00 00 00 00 00 00 00 00"}
+{"original":"68 74 74 70 3A 2F 2F 6D 69 6E 69 35 2E 6F 70 65 72 61 2D 6D 69 6E 69 2E 6E 65 74 3A 38 30"}
+{"replaced":"68 74 74 70 3A 2F 2F 31 34 31 2E 30 2E 31 33 2E 31 34 35 3A 38 30 00 00 00 00 00 00 00 00"}
+
+[ADD-BOOT]
+
+[END]
+Thanks to Steve Day!

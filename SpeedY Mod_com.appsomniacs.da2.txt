@@ -1,0 +1,134 @@
+[BEGIN]
+
+Kuldip Patel(KP7742) Reveals Mod Of DA2-Mini Militia.
+
+-> DA2-Mini Militia v3.0.87 SpeedY Mod<-
+
+~Features~
+- 4x Health Regeration
+- Unlock Pro Pack.
+- All Store Item Unlocked.
+- One Shot Kill.
+- Unlimited Flying Power.
+- Unlimited Ammo
+- No Reload.
+- All Weapons Have LaserSight.
+- Robots Can't See You In Solo Play.
+- IOS Symbol
+- Radar Everywhere
+- Infinite Bullet Range
+- No Bullet Spread
+- Infinite Proxy Granade Throw
+- Show Enemy Health All Time
+- First Gun AK47
+- Time Bomb Default(Proxy Granade)
+- 28 Skill Fixed
+- 6x Zoom For All Guns
+- Die by Gun Only
+- 4x Speed Hack
+- Instant Respawn
+
+
+<<< Instructions >>>
+For Rooted Users:
+1. Install DA2-Mini Militia From Play Store.
+2. Patch It  With Lucky Patcher And Guess What "ALL DONE".
+3. If Any Problem,Reinstall The Game And Patch it Again.
+For Non-Rooted Users:
+1. Install DA2-Mini Militia From Play Store.
+2. Create New Modified Apk With This Patch.
+3. Remove Old Apk And Install New.
+
+#WebSite# -~> https://www.facebook.com/minimilitiamods/ And https://da2mm.wordpress.com/
+
+[LIB]
+{"name":"libcocos2dcpp.so"}
+
+{"original":"54 4F 55 43 48 20 20 20 20 53 54 41 52 54 00 00 4C 4F 41 44 49 4E 47"}
+{"replaced":"4B 55 4C 44 49 50 20 20 20 4B 4D 4F 44 53 00 00 4B 55 4C 44 49 50 50"}
+
+{"original":"CC D4 FF FF 52 A3 5C 00 10 B5 86 B0 01 90 FB F7"} 
+{"replaced":"CC D4 FF FF 52 A3 5C 00 01 20 70 47 01 90 FB F7"}
+
+{"original":"7E 90 56 00 52 90 56 00 10 B5 86 B0 01 90 FF F7"} 
+{"replaced":"7E 90 56 00 52 90 56 00 01 20 70 47 01 90 FF F7"}
+
+{"original":"02 B0 70 47 82 B0 01 90 01 9B D3 F8 B4 31 18 46"}
+{"replaced":"02 B0 70 47 82 B0 01 90 01 9B D3 F8 B4 31 04 20"}
+
+{"original":"00 B5 83 B0 01 90 01 9B 1B 68 03 F5 28 73 1B 68"}
+{"replaced":"01 20 70 47 01 90 01 9B 1B 68 03 F5 28 73 1B 68"}
+
+{"original":"00 23 01 23 DB B2 00 2B D6 D1 03 9B 18 46 06 B0"}
+{"replaced":"00 23 01 23 DB B2 00 2B D6 D1 03 9B 02 20 06 B0"}
+
+{"original":"B3 F8 E8 31 1B B2 03 93 02 AA 03 AB 10 46 19 46 C7 F6 5C F8 03 46 1B 68 9B B2 1B B2 01 E0 EC F3 F0 ED 18 46"}
+{"replaced":"32 20 A3 F8 E8 01 C0 46 C0 46 C0 46 C0 46 C0 46 C0 46 C0 46 C0 46 C0 46 C0 46 C0 46 01 E0 EC F3 F0 ED 01 20"}
+
+{"original":"18 46 02 B0 70 47 00 BF 82 B0 01 90 00 91 01 9B"}
+{"replaced":"00 20 02 B0 70 47 00 BF 82 B0 01 90 00 91 01 9B"}
+
+{"original":"00 BF 9D F8 0F 30 18 46 04 B0 70 47 84 B0 01 90"}
+{"replaced":"00 BF 9D F8 0F 30 01 20 04 B0 70 47 84 B0 01 90"}
+
+{"original":"70 47 00 BF 00 00 00 00 30 B5 AB B0 0B 90 44 4C"}
+{"replaced":"70 47 00 BF 00 00 00 00 00 20 70 47 0B 90 44 4C"}
+
+{"original":"04 FB 00 BF 00 B5 8D B0 01 90 01 9B 1B 68 03 F5"}            
+{"replaced":"04 FB 00 BF 00 20 70 47 01 90 01 9B 1B 68 03 F5"}
+
+{"original":"01 23 18 46 70 47 00 BF 00 B5 85 B0 01 AB 18 46"}
+{"replaced":"01 23 00 20 70 47 00 BF 00 B5 85 B0 01 AB 18 46"}
+
+{"original":"B4 EE C7 6B F1 EE 10 FA 4C DD 18 AB 0F CB D2 F2"}
+{"replaced":"B4 EE C7 6B F1 EE 10 FA C0 46 18 AB 0F CB D2 F2"}
+
+{"original":"09 AB 1B 68 D3 ED 73 7A 77 EE 27 7A FD EE E7 7A"}
+{"replaced":"F1 EE 00 7A 67 EE A7 7A 77 EE 27 7A FD EE E7 7A"}
+
+{"original":"82 B0 01 90 01 9B D3 F8 A4 31 18 46 02 B0 70 47"}
+{"replaced":"4C F6 CD 40 C3 F6 CC 60 70 47 18 46 02 B0 70 47"}
+
+{"original":"18 46 04 B0 70 47 00 BF 00 00 24 42 00 00 14 42"}
+{"replaced":"00 20 04 B0 70 47 00 BF 00 00 24 42 00 00 14 42"}
+
+{"original":"44 7A DD ED 0C 7A 77 EE 27 7A 0D 9B C3 ED 44 7A"}
+{"replaced":"44 7A DD ED 0C 7A 77 EE 67 7A 0D 9B C3 ED 44 7A"}
+
+{"original":"D2 F8 E4 20 11 46 00 9A D2 B2 08 46 11 46 98 47"}
+{"replaced":"D2 F8 E4 20 11 46 00 9A D2 B2 08 46 FF 21 98 47"}
+
+{"original":"03 46 03 93 03 98 63 F6 F3 FA 03 46 01 98 19 46"}
+{"replaced":"03 46 03 93 03 98 63 F6 F3 FA 03 46 01 98 07 21"}
+
+{"original":"02 21 39 F0 E9 FD 03 46 10 93 10 9B 1B 68 03 F5"}
+{"replaced":"17 21 39 F0 E9 FD 03 46 10 93 10 9B 1B 68 03 F5"}
+
+{"original":"04 4B E3 58 1B 68 D3 F8 E8 30 18 46 07 B0 30 BD"}
+{"replaced":"04 4B E3 58 1B 68 D3 F8 E8 30 26 32 07 B0 30 BD"}
+
+{"original":"04 4A 7A 44 04 4B D3 58 1B 68 D3 F8 E8 30 18 46"}
+{"replaced":"04 4A 7A 44 04 4B D3 58 1B 68 D3 F8 E8 30 26 32"}
+
+{"original":"82 B0 01 90 01 9B D3 F8 48 31 18 46 02 B0 70 47"}
+{"replaced":"40 F2 00 00 C3 F6 00 70 70 47 18 46 02 B0 70 47"}
+
+{"original":"BD E8 10 40 02 B0 70 47 70 B5 2D ED 02 8B D0 B0"}
+{"replaced":"BD E8 10 40 02 B0 70 47 70 47 2D ED 02 8B D0 B0"}
+
+{"original":"30 B5 2D ED 02 8B 93 B0 05 90 04 91 77 4C 7C 44"}
+{"replaced":"70 47 2D ED 02 8B 93 B0 05 90 04 91 77 4C 7C 44"}
+
+{"original":"00 00 BE 42 30 B5 89 B0 05 90 04 91 3F 4C 7C 44"}
+{"replaced":"00 00 BE 42 70 47 89 B0 05 90 04 91 3F 4C 7C 44"}
+
+{"original":"10 68 98 47 07 EE 10 0A 10 AB F7 EE 08 7A 67 EE"}
+{"replaced":"10 68 98 47 07 EE 10 0A 10 AB F1 EE 08 7A 67 EE"}
+
+{"original":"82 B0 01 90 01 9B 9B 69 18 46 02 B0 70 47 00 BF"}
+{"replaced":"82 B0 01 90 01 9B 01 20 98 61 02 B0 70 47 00 BF"}
+
+[END]
+Patched..!!
+Cheers..!!
+Patch By KP7742 (Find Me On G+)

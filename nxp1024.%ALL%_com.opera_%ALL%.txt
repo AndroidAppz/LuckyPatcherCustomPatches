@@ -1,0 +1,32 @@
+[BEGIN]
+Custom Patch Updated on: 
+26-Jan-2017
+
+Description:
+Change opera server to improve speed and unblock any website.
+This patch make for Opera Mini & Opera Browser
+
+Patch by:
+nxp1024
+
+[LIB]
+{"name":"libom.so"}
+
+{"original":"73 6F 63 6B 65 74 3A 2F 2F 6D 69 6E 69 35 2E 6F 70 65 72 61 2D 6D 69 6E 69 2E 6E 65 74 3A 31 30 38 30"}
+{"replaced":"73 6F 63 6B 65 74 3A 2F 2F 31 34 31 2E 30 2E 31 33 2E 31 34 35 3A 31 30 38 30 00 00 00 00 00 00 00 00"}
+
+{"original":"68 74 74 70 3A 2F 2F 6D 69 6E 69 35 2E 6F 70 65 72 61 2D 6D 69 6E 69 2E 6E 65 74 3A 38 30"}
+{"replaced":"68 74 74 70 3A 2F 2F 31 34 31 2E 30 2E 31 33 2E 31 34 35 3A 38 30 00 00 00 00 00 00 00 00"}
+
+{"original":"73 6F 63 6B 65 74 3A 2F 2F 73 65 72 76 65 72 34 2E 6F 70 65 72 61 6D 69 6E 69 2E 63 6F 6D 3A 31 30 38 30"}
+{"replaced":"73 6F 63 6B 65 74 3A 2F 2F 31 34 31 2E 30 2E 31 33 2E 31 34 35 3A 31 30 38 30 00 00 00 00 00 00 00 00 00"}
+
+{"original":"68 74 74 70 3A 2F 2F 73 65 72 76 65 72 34 2E 6F 70 65 72 61 6D 69 6E 69 2E 63 6F 6D 3A 38 30"}
+{"replaced":"68 74 74 70 3A 2F 2F 31 34 31 2E 30 2E 31 33 2E 31 34 35 3A 38 30 00 00 00 00 00 00 00 00 00"}
+
+[ADD-BOOT]
+
+[END]
+Congratulations! 
+ * If the text is magenta, then you have succeeded.
+ * If Custom patch fails then patch it again.

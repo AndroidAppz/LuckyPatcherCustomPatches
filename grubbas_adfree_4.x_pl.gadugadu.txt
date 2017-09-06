@@ -1,0 +1,13 @@
+﻿[BEGIN]
+GG 4.x
+Ad Free Patch
+Gadu-Gadu bez reklam.
+by grubbas
+Tested with GG 4.8.12
+[PACKAGE]
+[CLASSES]
+{"original":"76 65 6E 64 69 6D 6F 62 2E 70 6C"}
+{"replaced":"76 65 6E 64 69 7A 7A 7A 2E 7A 7A"}
+[ADD-BOOT]
+[END]
+Done!

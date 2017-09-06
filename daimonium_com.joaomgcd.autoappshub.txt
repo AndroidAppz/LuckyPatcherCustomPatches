@@ -1,0 +1,23 @@
+[BEGIN]
+Version: 1.5.7
+
+Description: patch for João Dias' hub — AutoApps 1.5.7 (no guarantees that it will work on newest versions)
+
+• All plug-ins will receive licensed state from the hub, there is no need to patch every plug-in separately (pattern #1)
+
+• You will be able to get unreleased (alpha) plug-ins (pattern #2)
+
+Warning: you should be accepted to the alpha community in Google+, then you can select any plug-in, tap on «Join Testing» and download it
+
+• All projects will be unlocked (pattern #2)
+
+Creator: Daimonium
+
+[PACKAGE]
+[CLASSES]
+{"original":"22 ** ** ** 6E ** ** ** ** ** 0A ** 70 ** ** ** ** ** 22 ** ** ** 70 ** ** ** ** ** 1A ** ** **"}
+{"replaced":"** ** ** ** ** ** ** ** ** ** 12 S1 ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** **"}
+
+{"original":"54 ** ** ** 22 ** ** ** 70 ** ** ** ** ** 1A ** ** ** 6E ** ** ** ** ** 0C ** 6E ** ** ** ** ** 0C ** 6E ** ** ** ** ** 0C ** 12 ** 71 ** ** ** ** ** 0A ** 0F **"}
+{"replaced":"** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** 12 S1 ** **"}
+[END]

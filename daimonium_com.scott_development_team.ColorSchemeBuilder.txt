@@ -1,0 +1,12 @@
+[BEGIN]
+Version: 1.6
+
+Description: patch will upgrade Color Scheme Builder 1.6 to Pro Edition (no guarantees that it will work on newest versions)
+
+Creator: Daimonium
+
+[PACKAGE]
+[CLASSES]
+{"original":"12 ** 12 ** 6E ** ** ** ** ** 0B ** 6E ** ** ** ** ** 0B ** 31 ** ** ** 39 ** ** ** 01 ** 38 ** ** ** 16 ** ** ** 31 ** ** ** 3D ** ** ** 0F **"}
+{"replaced":"12 S1 12 S1 ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** **"}
+[END]

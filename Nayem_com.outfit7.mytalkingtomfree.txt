@@ -1,0 +1,33 @@
+
+[BEGIN]
+Features.. 
+
+
+1~ Total Cash 1000.0M
+2~ Ads Removed
+3~ Sleeping Time Boosted
+
+by Nayem
+
+Find Me
+nayemmir4@gmail.com
+FB:love.you.sn.nayem
+
+~~~ Instructions ~~~
+Install "My Talking Tom" from play store.
+
+Open and close it .
+
+Now patch it or create modified app.
+
+If patch does not work,then reinstall the game and retry.
+
+
+Nayem
+
+[SQLITE]
+{"database":"vca.db"}
+{"execute":"UPDATE state SET value = '{\"balance\":\"999999999\", \"totalPurchased\":\"100\", \"newsletterRewarded\":\"true\", \"pushRewarded\":\"true\", \"facebookLikeRewarded\":\"true\", \"facebookLoginRewarded\":\"true\", \"twitterFollowRewarded\":\"true\"}' WHERE key = 'account'"}
+{"database":"vca.db"}
+{"execute":"UPDATE state SET redherring = 'adf65f213665410106a00bd65769f2af3ec85243' WHERE key = 'account'"}
+[END]

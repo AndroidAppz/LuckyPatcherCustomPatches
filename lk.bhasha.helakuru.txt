@@ -1,0 +1,22 @@
+[BEGIN]
+
+Patch by REZOR KENWAY
+
+Subcription Extender  Patch for Helakuru Pro 4.0.10 + Up(MAY BE)
+
+Features:
+
+-Subcription Untill 2284!
+
+<<< Instructions >>>
+install from Any source then apply this patch!
+(Unsubcribe First if already  subcribed)
+
+[COPY_FILE]
+{"file_name":"myAppPrefs.xml"}
+
+{"to":"/data/data/lk.bhasha.helakuru/shared_prefs/myAppPrefs.xml"}
+
+[END]
+If Like this App Consider Make Donations to the Original  Developer!!!
+

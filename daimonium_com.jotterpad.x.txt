@@ -1,0 +1,12 @@
+[BEGIN]
+Version: 12.0.5
+
+Description: patch will upgrade Jotter Pad 12.0.5 to Creative (no guarantees that it will work on newest versions)
+
+Creator: Daimonium
+
+[PACKAGE]
+[CLASSES]
+{"original":"22 ** ** ** 71 ** ** ** ** ** 0B ** 70 ** ** ** ** ** 62 ** ** ** 71 ** ** ** ** ** 0C ** 6E ** ** ** ** ** 0A ** 39 ** ** ** 62 ** ** ** 71 ** ** ** ** ** 0C ** 6E ** ** ** ** ** 0A ** 38 ** ** ** 12 ** 0F ** 12 ** 28 **"}
+{"replaced":"** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** 12 S1 ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** **"}
+[END]

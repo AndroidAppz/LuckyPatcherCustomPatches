@@ -1,0 +1,24 @@
+[BEGIN]
+Author: AleX @ www.aleandroid.com
+Target: Brick Breaker Star Space King v1.xx
+Crack: Database modification
+------------------------------------------------
+Effect: 
++666666666 gold coins
+------------------------------------------------
+Instructions:
+Run the game at least once,
+then use this custom patch.
+Rebuilding won't work.
+Block ADS with Lucky Patcher (optional).
+------------------------------------------------
+[SQLITE]
+{"database":"/data/data/com.lt.latte.brick/files/lt_brick_game.db"}
+{"execute":"UPDATE tbl_setting SET value='666666666' WHERE rowid=1"}
+[END]
+------------------------------------------------
+Patched!
+Enjoy ;)
+------------------------------------------------
+AleX
+------------------------------------------------

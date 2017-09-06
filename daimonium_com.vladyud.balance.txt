@@ -1,18 +1,24 @@
 [BEGIN]
-Version: 6.0.204
+Version: 6.0.207
 
-Description: patch will register a free version of Balance BY 6.0.204 (no guarantees that it will work on newest versions)
+Description: patch will register a free version of Balance BY 6.0.207 (no guarantees that it will work on newest versions)
 
-Warning: you should enter anything as registration code by yourself
+Warning: activation code should be removed, if you tried to enter it, because you will get crash of «About» activity
 
 Creator: Daimonium
 
 [PACKAGE]
 [CLASSES]
+{"group":"1"}
 {"original":"1A ** ** ** 1A ** ** ** 6E ** ** ** ** ** 0C ** 6E ** ** ** ** ** 0C ** 6E ** ** ** ** ** 0A ** 13 ** ** ** 35 ** ** ** 12 ** 0F **"}
 {"replaced":"** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** 33 11 ** ** 12 S1 ** **"}
 
-{"search":"6E ** ** ** ** ** 22 ** ** ** 70 ** ** ** ** ** 14 ** ** ** ** ** 6E ** ** ** ** ** 0C ** 6E ** ** ** ** ** 0C ** 1A ** ** ** 6E ** ** ** ** ** 0C ** 71 ** ** ** ** ** 0C R0 6E ** ** ** ** ** 0C ** 6E ** ** ** ** ** 0C ** 6E ** ** ** ** **"}
-{"original":"6E ** ** ** ** ** 22 ** ** ** 70 ** ** ** ** ** 14 ** ** ** ** ** 6E ** ** ** ** ** 0C ** 6E ** ** ** ** ** 0C ** 1A ** ** ** 6E ** ** ** ** ** 0C ** 71 ** ** ** ** ** 0C ** 6E ** ** ** ** ** 0C ** 6E ** ** ** ** ** 0C ** 6E ** ** ** ** **"}
-{"replaced":"** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** 1A W0 8A C8 00 00 00 00 ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** **"}
+{"group":"1"}
+{"search":"12 ** 12 ** 69 ** ** ** 6A ** ** ** 6A ** R0 R1 6A ** ** ** 16 ** ** ** 68 ** ** ** 6A ** ** ** 67 ** ** ** 0E **"}
+{"original":"63 ** W0 W1 0F **"}
+{"replaced":"12 10 00 00 0F 00"}
+
+{"group":"1"}
+{"original":"63 ** ** ** 0F ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** 63 ** ** ** 0F ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** 63 ** ** ** 0F ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** 61 ** ** ** 10 **"}
+{"replaced":"** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** 12 10 00 00 0F 00 ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** **"}
 [END]

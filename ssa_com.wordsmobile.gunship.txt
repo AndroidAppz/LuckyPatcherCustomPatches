@@ -1,0 +1,60 @@
+[BEGIN]
+
+Patch by Abhijith SS Kallara
+(SSA)
+
+Custom Patch for Gunship Strike
+©
+
+Features:
+
+-Unlimited coins
+-Unlimited diamonds
+-Unlimited Items
+-Unlimited bullets, rockets, shells, etc...
+-Unlimited stamina
+-Unlimited health packs
+-Unlimited target zoom packs
+-Unlimited clips
+-Unlocked almost all in app purchases
+-All levels unlocked
+-All weapons unlocked and and fully upgraded
+-All Helicopters unlocked and fully upgraded
+-Energy increased that 60 to 90
+-Double coins in each play
+-Ad free
+-Radar coverage area increased
+  ★★Anyway, the game is fully cracked★★
+
+
+<<< Instructions >>>
+1. Install Gunship Strike From Play Store;
+2. Open The Game And Play The First Two Tutorials
+3. Close The Game.
+4. Open Lucky Patcher, Apply Custom Patch And Guess What "ALL DONE";
+5. If Any Problem,Reinstall The Game And Patch it Again.
+
+              <<Tips>>
+1.Do not buy clips for keeping the infinite of clips.
+2.If you buy a clip, patch it again to recover the infinite (If do you like)
+
+
+[COPY_FILE]
+{"file_name":"ssa.gunshipstrike.a1"}
+
+{"to":"/data/data/com.wordsmobile.gunship/shared_prefs/com.wordsmobile.gunship.xml"}
+
+[COPY_FILE]
+{"file_name":"ssa.gunshipstrike.a2"}
+
+{"to":"/data/data/com.wordsmobile.gunship/shared_prefs/Gunship.xml"}
+
+
+[END]
+Patched!!!!
+Cheers!!!!
+By Abhijith SS Kallara
+  • Find me on fb
+  
+
+

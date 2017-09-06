@@ -1,0 +1,28 @@
+[BEGIN]
+
+Patch by EyeSoftBD Dev's
+Author: Md.Nayan Chowdhury
+Email: info@eyesoftbd.ml
+
+Custom Patch for Death Moto 2 1.16 +Up
+
+Features:
+
+-All Power Unlocked
+-Unlimited Coins And Germs
+
+<<< Instructions >>>
+1. Install Death Moto 2 1.16 From Play Store;
+2. Open The Game And Play a little bit
+3. Close The Game.
+4. Open Lucky Patcher, Apply Custom Patch And Guess What "ALL DONE";
+5. If Any Problem,Reinstall The Game And Patch it Again.
+
+[COPY_FILE]
+{"file_name":"EyeSoftBD_DeathMoto2.bin"}
+{"to":"/data/data/com.icloudzone.DeathMoto2/user.dat"}
+
+[END]
+Patched!!!!
+Cheers!!!!
+By *EyeSoftBD Dev's*

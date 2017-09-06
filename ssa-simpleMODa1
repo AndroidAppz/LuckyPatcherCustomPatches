@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+<int name="isMoreGameTips" value="1" />
+<string name="planeLoadAllStr">101|201||||</string>
+<int name="weaponType9" value="0" />
+<int name="daimond" value="999999999" />
+<int name="levelStar0" value="7" />
+<int name="weaponTypeNowClip9" value="-1" />
+<int name="weaponType18" value="0" />
+<int name="teachHelp" value="1" />
+<int name="dailyMissionProgressDta0" value="7" />
+<int name="planeHealthLevel0" value="0" />
+<int name="choosePlaneIndex" value="0" />
+<int name="isOverDisplayView" value="1" />
+<int name="isFirstTimeLoading" value="1" />
+<string name="enmeyPurchaseTime">09/10/2016 17:04:42</string>
+<string name="firstLoadTime">09/12/2016 17:04:42</string>
+<int name="levelPass" value="2" />
+<int name="passBattle" value="1" />
+<int name="weaponTypeNowClip18" value="240" />
+<int name="pieceType0" value="1" />
+<int name="achProgress5" value="3" />
+<int name="enemy" value="51" />
+<int name="achProgress1" value="6" />
+<int name="achProgress2" value="3" />
+<int name="coin" value="999999999" />
+<int name="isTouchStart" value="1" />
+<int name="achProgress13" value="1" />
+<string name="lastAddEnemyTime">09/10/2016 17:04:42</string>
+<int name="Screenmanager Is Fullscreen mode" value="0" />
+<int name="dailyMissionProgressDta4" value="6" />
+<int name="dailyMissionProgressDta1" value="1" />
+<int name="Screenmanager Resolution Width" value="800" />
+<int name="lastLoadTime" value="17054" />
+<int name="passLevel" value="1" />
+<int name="dailyMissionProgressDta5" value="6" />
+<int name="Screenmanager Resolution Height" value="480" />
+<string name="planeLoadStr0">101|201||||</string>
+</map>

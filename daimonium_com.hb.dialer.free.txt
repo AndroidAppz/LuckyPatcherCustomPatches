@@ -1,13 +1,13 @@
 [BEGIN]
-Version: 1.6.5
+Version: 1.6.6
 
-Description: patch will bring a permanent donation for advertisements removal from True Phone 1.6.5 (no guarantees that it will work on newest versions)
+Description: patch will bring a permanent donation for advertisements removal from True Phone 1.6.6 (no guarantees that it will work on newest versions)
 
 Creator: Daimonium
 
 [PACKAGE]
 [CLASSES]
-{"original":"10 00 54 C0 ** 1C 62 01 ** ** 32 10"}
-{"replaced":"** ** ** ** ** ** ** ** ** ** 33 00"}
+{"original":"16 ** ** ** 10 ** 54 ** ** ** 62 ** ** ** 32 10 ** **"}
+{"replaced":"** ** ** ** ** ** ** ** ** ** ** ** ** ** 33 00 ** **"}
 
 [END]

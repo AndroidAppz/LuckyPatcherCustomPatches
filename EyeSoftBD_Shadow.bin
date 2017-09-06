@@ -1,0 +1,354 @@
+<?xml version="1.0"?>
+<CurrentUser ID="1" Token="1" UseNewHash="1" />
+<Warriors>
+	<Warrior ID="1" IsFake="True" />
+	<Warrior ID="1" FirstName="NAME_SHADOW" Avatar="avatar_hero" Voice="Male" Money="999999997499" Bonus="9999999218" Strength="3" Stamina="3" Level="52" Experience="88000000" Power="5" PowerSyncTime="1378445901" Difficulty="0" LastLotteryEnterTime="0" LastLotteryPlayTime="0" LotteryDaysMax="6" LotteryDays="0" RateTime="0" Skeleton="Skeleton" Armor="ARMOR_QUILTED" Helm="HELM_SUPER_MASK" Weapon="WEAPON_NINJA_SWORD" Ranged="NoRanged" Magic="NoMagic" ShowUpgrades="0" ArenaRating="0" ArenaRank="0" Tutorial="STEP_BOSS_FIGHT_WIN" Tactic="Player" CurrentZone="ZONE_1" ServerUserID="" AskedForDumps="0" InstallID="222358352" IndexSlider="0" CoinIcon="gold.png" PaidBonus="0" PaidMoney="0" DenominationDigits="0" LotteryLevel="0" LotteryExperience="0" LastDailyTimeOffset="0" LastEnergyTimeOffset="0" LastDumpTime="1664896868" LotteryPlayedToday="0" FightID="0" MapFocus="ZONE_1|Tournament" Language="eng" ShowForge="0" TrySocialLogin="1" DailyProgress="0" DailyPlayTime="0" PeriodicPlayTime="0" StarterPackTimerEndTime="0" GPlusAutoLogin="1" GPlusFiledLogins="2" LastShopItem="WEAPON_NINJA_SWORD" MapMaskColor="0xffffff00" ForgeTutorialMaterialsGiven="0" FacebookLiked="1" EclipseMode="Off" RaidToggleIsVisible="0" FightIDS="ZONE_1|BOSS_LYNX|1" TotalPaymentSum="20" PaymentCount="1" RaidMapFocus="ZONE_RAID|BOSS_1" RaidTutorialStep="NotStarted" RaidRemindNewKeys="0" RaidTutorialGemsTaken="0" RaidTop100Focus="CurrentTop" RaidRemindRandomRule="1">
+		<Items>
+			<Item Name="Body" Equipped="0" Count="1" UpgradeLevel="0" DeliveryTime="0" DeliveryUpgradeLevel="-1" AcquireType="Item" />
+			<Item Name="Head" Equipped="0" Count="1" UpgradeLevel="0" DeliveryTime="0" DeliveryUpgradeLevel="-1" AcquireType="Item" />
+			<Item Name="Fists" Equipped="0" Count="1" UpgradeLevel="0" DeliveryTime="0" DeliveryUpgradeLevel="-1" AcquireType="Item" />
+			<Item Name="NoRanged" Equipped="1" Count="1" UpgradeLevel="0" DeliveryTime="0" DeliveryUpgradeLevel="-1" AcquireType="Item" />
+			<Item Name="NoMagic" Equipped="1" Count="1" UpgradeLevel="0" DeliveryTime="0" DeliveryUpgradeLevel="-1" AcquireType="Item" />
+			<Item Name="WEAPON_KNIVES" Equipped="0" Count="1" UpgradeLevel="100" DeliveryTime="-1" DeliveryUpgradeLevel="-1" AcquireType="Item" />
+			<Item Name="Unlimited_Energy" Equipped="0" Count="1" UpgradeLevel="0" DeliveryTime="0" DeliveryUpgradeLevel="-1" AcquireType="Item" />
+			<Item Name="WEAPON_SUPER_KUSARIGAMA" Equipped="0" Count="1" UpgradeLevel="5200" DeliveryTime="0" DeliveryUpgradeLevel="600" AcquireType="Upgrade">
+				<Enchantments>
+					<Perk Name="PERK_ITEM_SPECIAL_BLEEDING_WEAPON">
+						<Set Aspect="185" />
+					</Perk>
+				</Enchantments>
+			</Item>
+			<Item Name="WEAPON_DAGGERS" Equipped="0" Count="1" UpgradeLevel="600" DeliveryTime="0" DeliveryUpgradeLevel="600" AcquireType="Item" />
+			<Item Name="WEAPON_MACHETE" Equipped="0" Count="1" UpgradeLevel="500" DeliveryTime="-1" DeliveryUpgradeLevel="-1" AcquireType="Item" />
+			<Item Name="WEAPON_NINJA_SWORD" Equipped="1" Count="1" UpgradeLevel="5200" DeliveryTime="0" DeliveryUpgradeLevel="400" AcquireType="Upgrade">
+				<Enchantments>
+					<Perk Name="PERK_ITEM_SPECIAL_PRECISION_WEAPON">
+						<Set Aspect="115" />
+					</Perk>
+				</Enchantments>
+			</Item>
+			<Item Name="WEAPON_STEEL_BATONS" Equipped="0" Count="1" UpgradeLevel="400" DeliveryTime="-1" DeliveryUpgradeLevel="-1" AcquireType="Item" />
+			<Item Name="WEAPON_SAI" Equipped="0" Count="1" UpgradeLevel="300" DeliveryTime="-1" DeliveryUpgradeLevel="-1" AcquireType="Item" />
+			<Item Name="WEAPON_KNUCKLES" Equipped="0" Count="1" UpgradeLevel="200" DeliveryTime="-1" DeliveryUpgradeLevel="-1" AcquireType="Item" />
+			<Item Name="ARMOR_GREEN" Equipped="0" Count="1" UpgradeLevel="5200" DeliveryTime="0" DeliveryUpgradeLevel="600" AcquireType="Upgrade">
+				<Enchantments>
+					<Perk Name="PERK_ITEM_SPECIAL_REJUVENATION_ARMOR">
+						<Set Aspect="185" />
+					</Perk>
+				</Enchantments>
+			</Item>
+			<Item Name="ARMOR_LEATHER" Equipped="0" Count="1" UpgradeLevel="600" DeliveryTime="-1" DeliveryUpgradeLevel="-1" AcquireType="Item" />
+			<Item Name="ARMOR_QUILTED" Equipped="1" Count="1" UpgradeLevel="5200" DeliveryTime="0" DeliveryUpgradeLevel="500" AcquireType="Upgrade">
+				<Enchantments>
+					<Perk Name="PERK_ITEM_SPECIAL_DAMAGE_ABSORPTION_BODY_ARMOR">
+						<Set Aspect="150" />
+					</Perk>
+				</Enchantments>
+			</Item>
+			<Item Name="ARMOR_FOREIGN" Equipped="0" Count="1" UpgradeLevel="500" DeliveryTime="-1" DeliveryUpgradeLevel="-1" AcquireType="Item" />
+			<Item Name="ARMOR_SUPER_SPIKED" Equipped="0" Count="1" UpgradeLevel="5200" DeliveryTime="0" DeliveryUpgradeLevel="400" AcquireType="Upgrade">
+				<Enchantments>
+					<Perk Name="PERK_ITEM_SPECIAL_FRENZY_DEFENSE_ARMOR">
+						<Set Aspect="115" />
+					</Perk>
+				</Enchantments>
+			</Item>
+			<Item Name="ARMOR_KENDO" Equipped="0" Count="1" UpgradeLevel="400" DeliveryTime="-1" DeliveryUpgradeLevel="-1" AcquireType="Item" />
+			<Item Name="ARMOR_OLD_LEATHER" Equipped="0" Count="1" UpgradeLevel="300" DeliveryTime="-1" DeliveryUpgradeLevel="-1" AcquireType="Item" />
+			<Item Name="ARMOR_ROBE" Equipped="0" Count="1" UpgradeLevel="200" DeliveryTime="-1" DeliveryUpgradeLevel="-1" AcquireType="Item" />
+			<Item Name="HELM_SUPER_MASK" Equipped="1" Count="1" UpgradeLevel="5200" DeliveryTime="0" DeliveryUpgradeLevel="600" AcquireType="Upgrade">
+				<Enchantments>
+					<Perk Name="PERK_ITEM_SPECIAL_REGENERATION_HELM">
+						<Set Aspect="185" />
+					</Perk>
+				</Enchantments>
+			</Item>
+			<Item Name="HELM_CLOSED" Equipped="0" Count="1" UpgradeLevel="600" DeliveryTime="-1" DeliveryUpgradeLevel="-1" AcquireType="Item" />
+			<Item Name="HELM_GREEN_MASK" Equipped="0" Count="1" UpgradeLevel="5200" DeliveryTime="0" DeliveryUpgradeLevel="500" AcquireType="Upgrade">
+				<Enchantments>
+					<Perk Name="PERK_ITEM_SPECIAL_OVERHEAT_DEFENSE_HELM">
+						<Set Aspect="150" />
+					</Perk>
+				</Enchantments>
+			</Item>
+			<Item Name="HELM_GABLED" Equipped="0" Count="1" UpgradeLevel="500" DeliveryTime="-1" DeliveryUpgradeLevel="-1" AcquireType="Item" />
+			<Item Name="HELM_SOLDIER_KABUTO" Equipped="0" Count="1" UpgradeLevel="400" DeliveryTime="-1" DeliveryUpgradeLevel="-1" AcquireType="Item" />
+			<Item Name="HELM_CONICAL_HAT" Equipped="0" Count="1" UpgradeLevel="5200" DeliveryTime="0" DeliveryUpgradeLevel="300" AcquireType="Upgrade">
+				<Enchantments>
+					<Perk Name="PERK_ITEM_SPECIAL_DAMAGE_ABSORPTION_HEAD_HELM">
+						<Set Aspect="90" />
+					</Perk>
+				</Enchantments>
+			</Item>
+			<Item Name="HELM_KENDO_MASK" Equipped="0" Count="1" UpgradeLevel="300" DeliveryTime="-1" DeliveryUpgradeLevel="-1" AcquireType="Item" />
+			<Item Name="HELM_LIGHT" Equipped="0" Count="1" UpgradeLevel="200" DeliveryTime="-1" DeliveryUpgradeLevel="-1" AcquireType="Item" />
+		</Items>
+		<Battles>
+			<Battle Name="ZONE_1|BOSS_LYNX|" Locked="0" />
+			<Battle Name="ZONE_2|BOSS_HERMIT_LOCKED|" Locked="0" />
+			<Battle Name="ZONE_3|BOSS_BUTCHER_LOCKED|" Locked="0" />
+			<Battle Name="ZONE_4|BOSS_WASP_LOCKED|" Locked="0" />
+			<Battle Name="ZONE_5|BOSS_HUNTRESS_LOCKED|" Locked="0" />
+			<Battle Name="ZONE_6|BOSS_SAMURAI_LOCKED|" Locked="0" />
+			<Battle Name="ZONE_1|Tournament|" Locked="0" Hidden="0" ReplayCount="0" />
+		</Battles>
+		<Sounds>
+			<Sound Value="1.0" Mute="0" />
+			<Music Value="1.0" Mute="0" />
+		</Sounds>
+		<Currencies ForgeMaterial1="99999999999" ForgeMaterial2="99999999999" ForgeMaterial3="99999999999" AscensionTicket="9999999" />
+		<Resistances Resistance_2="0" />
+		<SessionSettings>
+			<VideoAdCounterCurrent Value="0" />
+			<VideoAdTimer Value="0" />
+			<VideoAdCounter Value="-1" />
+			<ResetAscensionOnStart Value="" />
+			<QualityCondition Value="HIGH" />
+			<LocationResolution Value="LOW" />
+			<ShowDojoDisciple Value="1" />
+			<Disciple Value="1" />
+		</SessionSettings>
+		<Timers />
+		<MapButtons />
+		<Fights>
+			<Fight ID="-1" IDS="ZONE_1|Duel|1" CompletedCount="0" LossCount="0" EclipseCompletedCount="0" EclipseLossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="0" RandomizeTimeLeft="1479419385" Level="0" RandomGroupSeed="1469655424" RandomRuleSeed="1460926336" />
+			<Fight ID="-1" IDS="ZONE_1|Duel_INTERMISSION|1" CompletedCount="0" LossCount="0" EclipseCompletedCount="0" EclipseLossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="0" RandomizeTimeLeft="1479419385" Level="0" RandomGroupSeed="1026929600" RandomRuleSeed="1027987072" />
+			<Fight ID="-1" IDS="ZONE_2|Duel|1" CompletedCount="0" LossCount="0" EclipseCompletedCount="0" EclipseLossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="0" RandomizeTimeLeft="1479419385" Level="0" RandomGroupSeed="1026929600" RandomRuleSeed="1027987072" />
+			<Fight ID="-1" IDS="ZONE_2|Duel_INTERMISSION|1" CompletedCount="0" LossCount="0" EclipseCompletedCount="0" EclipseLossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="0" RandomizeTimeLeft="1479419385" Level="0" RandomGroupSeed="2130444800" RandomRuleSeed="1036227328" />
+			<Fight ID="-1" IDS="ZONE_3|Duel|1" CompletedCount="0" LossCount="0" EclipseCompletedCount="0" EclipseLossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="0" RandomizeTimeLeft="1479419385" Level="0" RandomGroupSeed="2130444800" RandomRuleSeed="1036227328" />
+			<Fight ID="-1" IDS="ZONE_3|Duel_INTERMISSION|1" CompletedCount="0" LossCount="0" EclipseCompletedCount="0" EclipseLossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="0" RandomizeTimeLeft="1479419385" Level="0" RandomGroupSeed="2130444800" RandomRuleSeed="1036227328" />
+			<Fight ID="-1" IDS="ZONE_4|Duel|1" CompletedCount="0" LossCount="0" EclipseCompletedCount="0" EclipseLossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="0" RandomizeTimeLeft="1479419385" Level="0" RandomGroupSeed="1086476416" RandomRuleSeed="1044467648" />
+			<Fight ID="-1" IDS="ZONE_4|Duel_INTERMISSION|1" CompletedCount="0" LossCount="0" EclipseCompletedCount="0" EclipseLossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="0" RandomizeTimeLeft="1479419385" Level="0" RandomGroupSeed="1086476416" RandomRuleSeed="1044467648" />
+			<Fight ID="-1" IDS="ZONE_5|Duel|1" CompletedCount="0" LossCount="0" EclipseCompletedCount="0" EclipseLossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="0" RandomizeTimeLeft="1479419385" Level="0" RandomGroupSeed="1086476416" RandomRuleSeed="1044467648" />
+			<Fight ID="-1" IDS="ZONE_5|Duel_INTERMISSION|1" CompletedCount="0" LossCount="0" EclipseCompletedCount="0" EclipseLossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="0" RandomizeTimeLeft="1479419385" Level="0" RandomGroupSeed="42508016" RandomRuleSeed="1052707968" />
+			<Fight ID="-1" IDS="ZONE_6|Duel|1" CompletedCount="0" LossCount="0" EclipseCompletedCount="0" EclipseLossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="0" RandomizeTimeLeft="1479419385" Level="0" RandomGroupSeed="42508016" RandomRuleSeed="1052707968" />
+			<Fight ID="-1" IDS="ZONE_6|Duel_INTERMISSION|1" CompletedCount="0" LossCount="0" EclipseCompletedCount="0" EclipseLossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="0" RandomizeTimeLeft="1479419385" Level="0" RandomGroupSeed="42508016" RandomRuleSeed="1052707968" />
+			<Fight ID="-1" IDS="ZONE_7|Duel|1" CompletedCount="0" LossCount="0" EclipseCompletedCount="0" EclipseLossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="0" RandomizeTimeLeft="1479419385" Level="0" RandomGroupSeed="1146023296" RandomRuleSeed="1060948288" />
+			<Fight ID="-1" IDS="ZONE_7|C3_Duel|1" CompletedCount="0" LossCount="0" EclipseCompletedCount="0" EclipseLossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="0" RandomizeTimeLeft="1479419385" Level="0" RandomGroupSeed="1146023296" RandomRuleSeed="1060948288" />
+			<Fight ID="-1" IDS="Punchbag|Training|1" CompletedCount="0" LossCount="0" EclipseCompletedCount="0" EclipseLossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1479423188" RandomizeTimeLeft="0" Level="0" />
+			<Fight ID="-1" IDS="Punchbag|Bosses|1" CompletedCount="1" LossCount="0" EclipseCompletedCount="0" EclipseLossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1450230074" RandomizeTimeLeft="0" Level="1" />
+			<Fight ID="-1" IDS="ZONE_1|BOSS_LYNX|1" CompletedCount="1" LossCount="0" EclipseCompletedCount="0" EclipseLossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1450230269" RandomizeTimeLeft="0" Level="1" />
+			<Fight ID="-1" IDS="Punchbag|Training|2" CompletedCount="0" LossCount="0" EclipseCompletedCount="0" EclipseLossCount="0" StoryCount="0" CompletedTime="0" TimeLeft="1479425366" RandomizeTimeLeft="0" Level="0" />
+		</Fights>
+		<Quests>
+			<Quests>
+				<Quest Name="ScriptsResumeOnStart" FileName="assets/quests.xml">
+					<QuestParametrs ScreenIndex="-1" ChekPointIndex="0">
+						<FightResult Name="" />
+						<Fight Name="" />
+						<LevelUp Value="0" />
+						<PowerAmount Value="0" />
+						<FightAvgFPS Value="2.63995e+11" />
+					</QuestParametrs>
+				</Quest>
+				<Quest Name="ABtests_Launch" FileName="assets/quests.xml">
+					<QuestParametrs ScreenIndex="-1" ChekPointIndex="0">
+						<FightResult Name="" />
+						<Fight Name="" />
+						<LevelUp Value="0" />
+						<PowerAmount Value="0" />
+						<FightAvgFPS Value="2.63995e+11" />
+					</QuestParametrs>
+				</Quest>
+				<Quest Name="UpgradesCleanup" FileName="assets/quests.xml" />
+				<Quest Name="SetTime0" FileName="assets/quests.xml" />
+				<Quest Name="lang_FirstLaunch" FileName="assets/quests.xml" />
+				<Quest Name="lang_SessionStartCheck" FileName="assets/quests.xml">
+					<QuestParametrs ScreenIndex="-1" ChekPointIndex="0">
+						<FightResult Name="" />
+						<Fight Name="" />
+						<LevelUp Value="0" />
+						<PowerAmount Value="0" />
+						<FightAvgFPS Value="2.63995e+11" />
+					</QuestParametrs>
+				</Quest>
+				<Quest Name="UpdateStart" FileName="assets/quests.xml">
+					<QuestParametrs ScreenIndex="-1" ChekPointIndex="0">
+						<FightResult Name="" />
+						<Fight Name="" />
+						<LevelUp Value="0" />
+						<PowerAmount Value="0" />
+						<FightAvgFPS Value="2.63995e+11" />
+					</QuestParametrs>
+				</Quest>
+				<Quest Name="VariablesReset" FileName="assets/quests.xml">
+					<QuestParametrs ScreenIndex="-1" ChekPointIndex="0">
+						<FightResult Name="" />
+						<Fight Name="" />
+						<LevelUp Value="0" />
+						<PowerAmount Value="0" />
+						<FightAvgFPS Value="2.63995e+11" />
+					</QuestParametrs>
+				</Quest>
+				<Quest Name="promo_MapButtonRemover_FirstPayment" FileName="assets/quests.xml" />
+				<Quest Name="promo_MapButtonRemover_RepeatPayment" FileName="assets/quests.xml" />
+				<Quest Name="promo_MapButtonRemover_IncreasePayment" FileName="assets/quests.xml" />
+				<Quest Name="promo_MapButtonRemover_StarterPack" FileName="assets/quests.xml" />
+				<Quest Name="ABGroupSet_RubyUpgradesExpensive_NoCoinInShop_StarterPack2" FileName="assets/quests.xml" />
+				<Quest Name="ABGroupSet_Final" FileName="assets/quests.xml" />
+				<Quest Name="SurvivalCounterReset" FileName="assets/quests.xml" />
+				<Quest Name="EasyFightsCounterReset" FileName="assets/quests.xml" />
+				<Quest Name="NewBestWeapon" FileName="assets/quests.xml" />
+				<Quest Name="FirstGuardBeaten" FileName="assets/quests.xml" />
+				<Quest Name="TapjoyOnTutorialCompletionAndroid" FileName="assets/quests.xml" />
+				<Quest Name="AttachScripts_Zone1" FileName="assets/quests.xml">
+					<QuestParametrs ScreenIndex="-1" ChekPointIndex="0">
+						<FightResult Name="" />
+						<Fight Name="" />
+						<LevelUp Value="0" />
+						<PowerAmount Value="0" />
+						<FightAvgFPS Value="2.63995e+11" />
+					</QuestParametrs>
+				</Quest>
+				<Quest Name="EnergyBarFullEnergy" FileName="assets/quests.xml" />
+				<Quest Name="FirstSuperItemAvailable" FileName="assets/quest_extensions/zone_1/core.xml" />
+				<Quest Name="PaymentSuccessDialog" FileName="assets/quests.xml" />
+				<Quest Name="ShopRefresh" FileName="assets/quests.xml" />
+				<Quest Name="SetDojoDiscipleFlag" FileName="assets/quests.xml" />
+				<Quest Name="DojoDiscipleGreetings" FileName="assets/quests.xml" />
+				<Quest Name="SetBackVersionCheck" FileName="assets/quests.xml">
+					<QuestParametrs ScreenIndex="-1" ChekPointIndex="0">
+						<FightResult Name="" />
+						<Fight Name="" />
+						<LevelUp Value="0" />
+						<PowerAmount Value="0" />
+						<FightAvgFPS Value="2.63995e+11" />
+					</QuestParametrs>
+				</Quest>
+				<Quest Name="AttachScripts_Raids" FileName="assets/quests.xml" />
+				<Quest Name="UpdateTo1'9'14'1Final" FileName="assets/quests.xml" />
+				<Quest Name="UpdateTo1'9'14'2Final" FileName="assets/quests.xml" />
+				<Quest Name="UpdateTo1'9'15'0Final" FileName="assets/quests.xml" />
+				<Quest Name="UpdateTo1'9'15'1Final" FileName="assets/quests.xml" />
+				<Quest Name="UpdateTo1'9'15'2Final" FileName="assets/quests.xml" />
+				<Quest Name="UpdateTo1'9'16'0Final" FileName="assets/quests.xml" />
+				<Quest Name="UpdateTo1'9'16'1Final" FileName="assets/quests.xml" />
+				<Quest Name="UpdateTo1'9'17'0Final" FileName="assets/quests.xml" />
+				<Quest Name="UpdateTo1'9'18'0Final" FileName="assets/quests.xml" />
+				<Quest Name="UpdateTo1'9'19'0Final" FileName="assets/quests.xml" />
+				<Quest Name="UpdateTo1'9'20'0Final" FileName="assets/quests.xml" />
+				<Quest Name="UpdateTo1'9'21'0Final" FileName="assets/quests.xml" />
+				<Quest Name="UpdateTo1'9'22'0Final" FileName="assets/quests.xml" />
+				<Quest Name="UpdateTo1'9'23'0Final" FileName="assets/quests.xml" />
+				<Quest Name="UpdateTo1'9'24'0Final" FileName="assets/quests.xml" />
+				<Quest Name="EclipseBattlesChecker" FileName="assets/quests.xml" />
+				<Quest Name="Zone1EclipseChecker" FileName="assets/quest_extensions/zone_1/story.xml" />
+				<Quest Name="UpgradePaidPurchase" FileName="assets/quests.xml" />
+				<Quest Name="Delivery" FileName="assets/quests.xml" />
+				<Quest Name="UpgradeToLevelReminder" FileName="assets/quests.xml" />
+				<Quest Name="NewBestArmor" FileName="assets/quests.xml" />
+				<Quest Name="NewBestHelm" FileName="assets/quests.xml" />
+				<Quest Name="FreeTabFocus" FileName="assets/quests.xml" />
+			</Quests>
+			<Variables>
+				<Variable Name="lang_FirstLaunch_Shown" Value="1" />
+				<Variable Name="FreeReminderShown" Value="0" />
+				<Variable Name="UpgradeToLevelReminderShown" Value="1" />
+				<Variable Name="LowFpsWarningShown" Value="0" />
+				<Variable Name="ScriptsResumed" Value="1" />
+				<Variable Name="TimeSet" Value="1" />
+				<Variable Name="LastRatingOfferTime" Value="0" />
+				<Variable Name="AB_JulyTests_RollResult" Value="50" />
+				<Variable Name="langPrevious" Value="eng" />
+				<Variable Name="langCurrent" Value="eng" />
+				<Variable Name="SurvivalsInARowCount" Value="0" />
+				<Variable Name="EasyFightCount" Value="0" />
+				<Variable Name="BestAcquiredWeaponLevel" Value="600" />
+				<Variable Name="globZoneToCheck" Value="ZONE_1" />
+				<Variable Name="CurrentZone" Value="ZONE_1" />
+				<Variable Name="Avatar_Notification" Value="character_may_1_small" />
+				<Variable Name="Avatar_Assistant_1" Value="character_may_1" />
+				<Variable Name="Avatar_Assistant_2" Value="character_may_2" />
+				<Variable Name="Avatar_Assistant_3" Value="character_may_3" />
+				<Variable Name="Avatar_Assistant_4" Value="character_may_4" />
+				<Variable Name="Avatar_Assistant_5" Value="character_may_5" />
+				<Variable Name="Avatar_Assistant_6" Value="character_sensei" />
+				<Variable Name="Title_Assistant" Value="characterMay" />
+				<Variable Name="Title_Assistant_2" Value="characterSensei" />
+				<Variable Name="promo_FirstPayment_Image" Value="pile_coins" />
+				<Variable Name="promo_Multiplier" Value="1.3" />
+				<Variable Name="NoDiscountsControlGroupRoll" Value="9" />
+				<Variable Name="ChallengeUnlockCount" Value="0" />
+				<Variable Name="DuelUnlockCount" Value="0" />
+				<Variable Name="StrangerTriggerLevel" Value="5" />
+				<Variable Name="PROMO_XMAS14_HELM_HORNS_FOCUS" Value="1" />
+				<Variable Name="PROMO_XMAS14_HELM_SANTA_FOCUS" Value="1" />
+				<Variable Name="FirstSuperItemFlag" Value="1" />
+				<Variable Name="DiscipleFlag" Value="2" />
+				<Variable Name="UpdateTo1'9'14'1Mark" Value="1" />
+				<Variable Name="UpdateTo1'9'14'2Mark" Value="1" />
+				<Variable Name="UpdateTo1'9'15'0Mark" Value="1" />
+				<Variable Name="UpdateTo1'9'15'1Mark" Value="1" />
+				<Variable Name="UpdateTo1'9'15'2Mark" Value="1" />
+				<Variable Name="UpdateTo1'9'16'0Mark" Value="1" />
+				<Variable Name="UpdateTo1'9'16'1Mark" Value="1" />
+				<Variable Name="UpdateTo1'9'17'0Mark" Value="1" />
+				<Variable Name="UpdateTo1'9'18'0Mark" Value="1" />
+				<Variable Name="UpdateTo1'9'19'0Mark" Value="1" />
+				<Variable Name="UpdateTo1'9'20'0Mark" Value="1" />
+				<Variable Name="UpdateTo1'9'21'0Mark" Value="1" />
+				<Variable Name="UpdateTo1'9'22'0Mark" Value="1" />
+				<Variable Name="UpdateTo1'9'23'0Mark" Value="1" />
+				<Variable Name="UpdateTo1'9'24'0Mark" Value="1" />
+				<Variable Name="BestAcquiredArmorLevel" Value="600" />
+				<Variable Name="BestArmor" Value="ARMOR_GREEN" />
+				<Variable Name="BestAcquiredHelmLevel" Value="600" />
+			</Variables>
+		</Quests>
+		<Counters>
+			<Counter Name="FirstHits" CurrentValue="4" />
+			<Counter Name="HeadHitRound" CurrentValue="3" />
+			<Counter Name="Unarmed" CurrentValue="1" />
+			<Counter Name="BodyguardsWin" CurrentValue="1" />
+		</Counters>
+		<RepostAchievements>
+			<RepostAchievement Name="achievement_name_firsthits_1" />
+			<RepostAchievement Name="achievement_name_headhitrounds_1" />
+			<RepostAchievement Name="achievement_name_unarmed_1" />
+		</RepostAchievements>
+		<Shop>
+			<Lock Name="ZONE_1_DONATE" />
+			<Lock Name="COMMON_RUBY_DONATE" />
+			<Lock Name="COMMON_RUBY_DONATE_CASKET" />
+		</Shop>
+		<Perks>
+			<Perk Level="2" Name="PERK_DOUBLE_SWEEP" />
+			<Perk Level="3" Name="PERK_COBRA" UpgradeLevel="3" />
+			<Perk Level="4" Name="PERK_DOUBLE_JUMP_KICK" />
+			<Perk Level="5" Name="PERK_ROCK" UpgradeLevel="6" />
+			<Perk Level="7" Name="PERK_FURIOUS" UpgradeLevel="1" />
+			<Perk Level="8" Name="PERK_ELBOW_STRIKE" />
+			<Perk Level="11" Name="PERK_TWO_FOOT_JUMP_KICK" />
+			<Perk Level="13" Name="PERK_PAIN_RAGE" UpgradeLevel="1" />
+			<Perk Level="14" Name="PERK_BACK_FLIP_KICK" />
+			<Perk Level="17" Name="PERK_SUPLEX" />
+		</Perks>
+		<PerkHistory>
+			<Level Value="2" Perk="PERK_DOUBLE_SWEEP" />
+			<Level Value="3" Perk="PERK_COBRA" />
+			<Level Value="4" Perk="PERK_DOUBLE_JUMP_KICK" />
+			<Level Value="5" Perk="PERK_ROCK" />
+			<Level Value="6" Perk="PERK_ROCK" />
+			<Level Value="7" Perk="PERK_FURIOUS" />
+			<Level Value="8" Perk="PERK_ELBOW_STRIKE" />
+			<Level Value="9" Perk="PERK_COBRA" />
+			<Level Value="10" Perk="PERK_ROCK" />
+			<Level Value="11" Perk="PERK_TWO_FOOT_JUMP_KICK" />
+			<Level Value="12" Perk="PERK_ROCK" />
+			<Level Value="13" Perk="PERK_PAIN_RAGE" />
+			<Level Value="14" Perk="PERK_BACK_FLIP_KICK" />
+			<Level Value="15" Perk="PERK_COBRA" />
+			<Level Value="16" Perk="PERK_ROCK" />
+			<Level Value="17" Perk="PERK_SUPLEX" />
+			<Level Value="18" Perk="PERK_ROCK" />
+		</PerkHistory>
+		<OpenTricks>
+			<Trick Name="BackFlipKick" />
+			<Trick Name="ThrowSuplexProfile" />
+		</OpenTricks>
+	</Warrior>
+</Warriors>
+<Versions>
+	<Version Value="1.9.24" />
+	<DataVersion Value="1.9.24.0" />
+</Versions>

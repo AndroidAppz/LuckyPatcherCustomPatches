@@ -1,0 +1,15 @@
+[BEGIN]
+Working on version 6.2.0 only ARM V7a
+
+Crack Time limit to no increase in start App
+
+Patch by namok o95 (4pda.ru)
+
+[PACKAGE]
+[LIB]
+{"name":"libapktool.so"}
+{"original":"00 F0 86 FA 01 35 08 AF 9C 49 06 2D 38 46 79 44 28 BF 05 25 00 F0 6B FA"}
+{"replaced":"00 F0 86 FA 00 35 08 AF 9C 49 01 2D 38 46 79 44 28 BF 00 25 00 F0 6B FA"}
+
+[END]
+Cracked

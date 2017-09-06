@@ -1,0 +1,10 @@
+[BEGIN]
+Patch by ur0
+
+[PACKAGE]
+[CLASSES]
+{"original":"39 01 04 00 12 10 28 02 12 00 0F 00 02 00 00 00"}
+{"replaced":"38 01 04 00 12 10 28 02 12 00 0F 00 02 00 00 00"}
+[END]
+
+Cheers

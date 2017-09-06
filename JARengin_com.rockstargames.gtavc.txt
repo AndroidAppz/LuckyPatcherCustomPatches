@@ -1,0 +1,35 @@
+[BEGIN]
+
+Grand Theft Auto : Vice City Super Mod!
+
+    English Help:
+
+🎁 Full Save Game.
+💵 Unlimited Money.
+👍 All Mission Passed.
+🌴 All Place Unlocked.
+💜 Life update 100 to 200.
+🔫 Every weapon,tools,car update.
+👣 Unlimited Run.
+👌 Many more you noticed!
+ 
+    বাংলা সাহায্যঃ
+
+🎁 সব সেভ গেম।
+💵 অফুরন্ত টাকা।
+👍 সব মিশন খেলা।
+🌴 সমস্ত যায়গা খোলা।
+💜 লাইফ বাড়িয়ে ২০০ করা হয়েছে।
+🔫 সব টুল,অস্র একটু বেশি বেশি।
+👣 অফুরন্ত দৌড়ানো।
+👌 আরো অনেক কিছু।
+
+
+© JAR Patch Engine.
+
+[COPY_FILE]
+{"file_name":"JAR_gtavc_full.bin"}
+
+{"to":"mnt/sdcard/Android/data/com.rockstargames.gtavc/files/GTA3sf9.b"}
+
+[END]

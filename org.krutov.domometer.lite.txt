@@ -1,0 +1,27 @@
+[BEGIN]
+
+Patch by namok o95 - 4pda.ru
+for DomoMeter lite v.3.0 - v.3.3(?+)
+
+ ---------- RU ----------
+  - Неограниченное количество счетчиков и услуг
+  - Не пересобирать апк на основе этого патча, приложение защищено - работать не будет. Только пропатчить уже установленное приложение с созданием odex файла.
+ ---------- EN ----------
+  - Unlimited number of counters and services
+  - Do not rebuild the apk based on this patch, the application is protected - it will not work. To patch only the already installed application with the creation of an odex file.
+
+  [PACKAGE]
+[CLASSES]
+
+{"original":"1A ** ** ** 6E ** ** ** ** ** 0A ** 6E ** ** ** ** ** 0E"}
+{"replaced":"** ** ** ** ** ** ** ** ** ** 12 S0 ** ** ** ** ** ** **"}
+
+{"original":"6E ** ** ** ** ** 0C ** 54 ** ** ** 54 ** ** ** 6E ** ** ** ** ** 0A ** D8 ** ** ** 83 ** 71 ** ** ** ** ** 0A ** 39"}
+{"replaced":"** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** 12 S0 ** ** ** ** ** ** ** ** ** ** ** ** ** ** **"}
+
+{"original":"6E ** ** ** ** ** 0C ** 83 ** 71 ** ** ** ** ** 0E"}
+{"replaced":"00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 **"}
+
+[END]
+Congratulations! You have cracked Program!
+

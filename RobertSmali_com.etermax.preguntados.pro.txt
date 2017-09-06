@@ -1,18 +1,15 @@
 [BEGIN]
 
-Patch For Trivia Crack Pro 2.7.2
+Patch For Trivia Crack Pro 2.44.1 only
 * Hack for all Trivia Crack questions
 Patch By Robert Smali www.appsmod.net
 
 [PACKAGE]
 [CLASSES]
 
-{"original":"38 00 19 00 6E 10 E0 66 04 00"}
-{"replaced":"33 ?? ?? ?? ?? ?? ?? ?? ?? ??"}
 
-{"original":"5C 43 0B 5D 54 40 13 5D 60 01"}
-{"replaced":"55 40 ?? ?? ?? ?? ?? ?? ?? ??"}
-
+{"original":"38 00 12 00 5C 52"}
+{"replaced":"33 ?? ?? ?? 55 50"}
 
 [END]
 Patched! :D

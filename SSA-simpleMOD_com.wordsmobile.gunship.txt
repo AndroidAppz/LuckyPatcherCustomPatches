@@ -1,0 +1,36 @@
+[BEGIN]
+
+Custom patch for Gunship Strike©
+
+Safe custom patch created by,
+   Abhijith SS Kallara
+
+                <<Features>>
+1.Unlimited Coins
+2.Unlimited Diamond
+
+              <<Instructions>>
+1. Install Gunship Strike From Play Store;
+2. Open The Game And Play The First Two Tutorials
+3. Close The Game.
+4. Open Lucky Patcher, Apply Custom Patch And Guess What "ALL DONE";
+5. If Any Problem,Reinstall The Game And Patch it Again.
+
+[COPY_FILE]
+{"file_name":"SSA-simpleMODa1"}
+
+{"to":"/data/data/com.wordsmobile.gunship/shared_prefs/com.wordsmobile.gunship.xml"}
+
+[COPY_FILE]
+{"file_name":"SSA-simpleMODa2"}
+
+{"to":"/data/data/com.wordsmobile.gunship/shared_prefs/Gunship.xml"}
+
+[END]
+Patched!!!!
+Cheers!!!!
+By Abhijith SS Kallara
+  • Find me on fb
+
+
+
