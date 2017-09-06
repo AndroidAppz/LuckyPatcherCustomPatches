@@ -1,0 +1,19 @@
+[BEGIN]
+Babonnaeim v2.1.1 (Premium verison. But downloading content does not work.)
+By B4ltazar@zoho.com
+
+<< Instruction >>
+Use this custom patch.
+
+[PACKAGE]
+[CLASSES]
+{"original":"12 10 22 01 51 03 70 10 97"}
+{"replaced":"** 00 ** ** ** ** ** ** **"}
+[END]
+
+In-App Purchase Patched
+Babonnaeim  v2.1.1
+By B4ltazar@zoho.com
+
+Congratulations now you're a pirate !!
+Enjoy :D

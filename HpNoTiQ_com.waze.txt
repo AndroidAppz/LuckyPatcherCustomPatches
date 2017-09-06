@@ -1,0 +1,20 @@
+[BEGIN]
+Afficher radar en France
+
+[LIB]
+{"name":"libwaze.so"}
+{"group":"1"}
+
+{"original":"0C 00 9F E5 0C 10 9F E5 00 00 8F E0 01 10 8F E0 ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? 38 40 2D E9 ?? ?? 9F E5"}
+{"replaced":"0C 00 9F E5 0C 10 9F E5 00 00 8F E0 01 00 A0 E3 1E FF 2f E1 ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? 01 00 e0 e3 1E FF 2F E1"}
+
+{"group":"2"}
+{"original":"40 9F E5 04 40 8F E0 78 30 94 E5 B8 30 84 E5 ?? FE FF EB 80 30 94 E5 01 00 53 E3 ?? 00 00 0A"}
+{"replaced":"40 9F E5 04 40 8F E0 78 30 94 E5 B8 30 84 E5 ?? FE FF EB 80 30 94 E5 01 00 53 E3 ?? 00 00 EA"}
+
+
+[END]
+Félicitations, WAZE est patché!
+Profitez de l'emplacement exact des radars!
+
+Patch créé par HpNoTiQ

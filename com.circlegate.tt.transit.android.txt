@@ -1,0 +1,16 @@
+[BEGIN]
+CG Transit 3.1.0
+
+[PACKAGE]
+
+[CLASSES]
+
+{"original":"23 6E 20 46 77 02 00 0A 00"}
+{"replaced":"23 13 00 0F 27 13 00 0F 27"}
+
+{"original":"23 6E 20 46 77 58 00 0A 05"}
+{"replaced":"23 13 05 0F 27 13 05 0F 27"}
+
+[END]
+License check removed
+Greetings: Ch@P$

@@ -1,0 +1,26 @@
+[BEGIN]
+iMED Version 1.0.23 (Full Version)
+By B4ltazar@zoho.com
+
+<< Instruction >>
+1. Buy an activation code from the original website & activate the app.
+2. Use this custom patch using "Create Modified Apk File"
+3. Install the created modified apk file from step 2.
+3. Go to store and download everything you like, free !!!
+
+Note: if the patch does not work, download the cracked version from following link:
+https://userscloud.com/m94fljup8h15
+
+[PACKAGE]
+[CLASSES]
+{"original":"1B 12 C9 06 00 00 1B 13 00 00 00 00 08 00 12 00 08 01 13 00 6E 30 37 01 02 01"}
+{"replaced":"** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** 00 00 00 00 00 00"}
+
+{"original":"1B 17 75 84 00 00 08 00 17 00 6E 20 55 BB 09 00 0A 17 39 17 B1 FF"}
+{"replaced":"** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** 32 00 ** **"}
+[END]
+
+Note: if the patch does not work, download the cracked version from following link:
+https://userscloud.com/m94fljup8h15
+
+Enjoy :D

@@ -1,0 +1,28 @@
+[BEGIN]
+Angry Birds POP! for v2.9.4+
+~Brought to you by b4cit~
+
+*Content*
+-Unlimited coins
+-Unlimited powerups
+-All 525 levels Unlocked
+-All feathers
+
+*Important*
+There's no warranty of any possible data loss, malfunction, account suspension or legal issues.
+
+*Patch Instruction*
+1. Kill the game from tasks.
+2. Apply this patch.
+3. Enjoy!
+
+[COPY_FILE]
+{"file_name":"b4cit_Main_com.rovio.ABstellapop.bin"}
+{"to":"/data/data/com.rovio.ABstellapop/files/ae0f2dbfbe2653e6ffe4df25f7bfff04.enc"}
+
+[SET_PERMISSIONS]
+{"file_name":"/data/data/com.rovio.ABstellapop/files/ae0f2dbfbe2653e6ffe4df25f7bfff04.enc"}
+{"permissions":"777"}
+
+[END]
+Patch ended. Enjoy!

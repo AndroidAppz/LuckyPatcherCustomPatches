@@ -1,0 +1,22 @@
+﻿[BEGIN]
+Патч для AIDE 2.2.6.
+
+[PACKAGE]
+[CLASSES]
+{"search":"12 10 71 00 R0 R1 ** ** 0a 01 38 01 ** ** 0f 00 1a"}
+
+{"original":"71 ** W0 W1 ** ** 0a 00"}
+{"replaced":"12 10 00 00 00 00 00 **"}
+
+{"original":"71 ** W0 W1 ** ** 0a 01"}
+{"replaced":"12 11 00 00 00 00 00 00"}
+
+{"original":"71 ** W0 W1 ** ** 0a 02"}
+{"replaced":"12 12 00 00 00 00 00 00"}
+
+{"original":"71 ** W0 W1 ** ** 0a 03"}
+{"replaced":"12 13 00 00 00 00 00 00"}
+
+[END]
+Пропатчено!
+by opera-fan.

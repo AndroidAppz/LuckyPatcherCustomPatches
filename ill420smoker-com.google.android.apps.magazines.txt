@@ -1,0 +1,22 @@
+[BEGIN]
+Google Play Newsstand v3.4.5
+
+Unlimited access to:
+- Financial Times
+- The New York Times
+- The Wall Street Journal
+- The Washington Post
+- ...and more!
+
+Custom patch by ill420smoker
+
+[PACKAGE]
+
+[CLASSES]
+{"group":"1"}
+{"original":"62 ?? ?? ?? 32 ?? ?? ?? 54 ?? ?? ?? 38 ?? ?? ?? 54 ?? ?? ?? 6E ?? ?? ?? ?? ?? 0C"}
+{"replaced":"** ** ** ** ** 00 ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** **"}
+
+
+[END]
+Enjoy!

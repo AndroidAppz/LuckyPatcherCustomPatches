@@ -1,0 +1,28 @@
+[BEGIN]
+Custom Patch Updated on:
+12-Dec-2014
+
+Any.do Task List & To-do List (Premium Subscription Unlock)
+for version 3.1+
+Custom Patch created by (GL)BigBrother at forum.mobilism.org
+
+Instructions:
+1.) Download "Any.do Task List & To-do List" from playstore.
+2.) Apply this custom patch or create modified apk from this custom patch.
+3.) Enjoy.
+
+[PACKAGE]
+
+[CLASSES]
+{"group":"1"}
+{"original":"70 20 ?? ?? 32 00 0A 01 39 01 F5 FF 12 00 28 F2 ?? 00 ?? 00 ?? 00 00 00"}
+{"replaced":"?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? 10 ?? ?? ?? ?? ?? ?? ?? ?? ?? ??"}
+
+[END]
+Premium Subscribed
+by (GL)BigBrother at forum.mobilism.org
+
+If Custom patch fails then patch it again.
+or PM me on forum.mobilism.org
+
+Enjoy :D

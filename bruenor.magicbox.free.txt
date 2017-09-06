@@ -1,0 +1,25 @@
+[BEGIN]
+*******************************
+*  Magic DosBox free v1.0.27  *
+*******************************
+*      Support the Dev !!!!!! *
+* Donate to magicbox.imejl.sk *
+*******************************
+Patch, to enable DONATE features on the FREE version
+
+NOTE: patching will cause the app to slate clean your game config/settings.
+Nevertheless, it is possible to restore all of them afterwards by changing some folders in your "sdcard":
+inside "MAGICBOX" folder, rename "GamesLite" folder to "Games".
+( or move all "GamesLite" content to "Games" )
+
+[PACKAGE]
+[CLASSES] 
+{"original":"15 00 00 00 12 ?? 1a 00 ?? ?? 69 00 ?? ?? 12 00 69 00"}
+{"replaced":"15 00 00 00 12 S1 1a 00 ?? ?? 69 00 ?? ?? 12 00 69 00"}
+
+[END]
+*******************************
+   if successfully patched:
+Try to add more then one game to the list of games.
+Try also to add donated only widgets (the lowest from the widgets list)
+*******************************

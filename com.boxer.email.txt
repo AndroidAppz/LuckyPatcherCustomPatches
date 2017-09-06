@@ -1,0 +1,18 @@
+[BEGIN]
+
+Team [Ke'd]
+
+[PACKAGE]
+[CLASSES]
+
+{"original":"11 0F 01 12 01 28 FE 00 00 04 00 03"}
+{"replaced":"11 0F 01 12 11 28 FE 00 00 04 00 03"}
+
+{"original":"11 0F 01 12 01 28 FE 00 00 05 00 01 00 03"}
+{"replaced":"11 0F 01 12 11 28 FE 00 00 05 00 01 00 03"}
+
+[END]
+Boxer Email Unlocked.
+
+BooM Biatch!
+

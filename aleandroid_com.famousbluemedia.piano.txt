@@ -1,0 +1,25 @@
+[BEGIN]
+Author: AleX @ www.aleandroid.com
+Target: Piano Play & Learn... v1.0.18x
+Crack: Classes modification
+------------------------------------------------
+Effect: 
+Free VIP subscription;
+ADS Free!
+------------------------------------------------
+Instructions:
+Just apply this custom patch 
+or rebuild the app with it.
+------------------------------------------------
+[PACKAGE]
+[CLASSES]
+{"group":"1"}
+{"original":"6E 10 23 83 00 00 0A 00"}
+{"replaced":"** ** ** ** ** ** 12 10"}
+[END]
+------------------------------------------------
+Patched!
+Enjoy ;)
+------------------------------------------------
+AleX
+------------------------------------------------

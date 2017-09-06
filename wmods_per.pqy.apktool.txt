@@ -1,0 +1,18 @@
+[BEGIN]
+Working on version 6.1.0 (And Up)
+
+Crack Time limit to no increase in start App
+
+Patch by WellingtonMods
+
+[PACKAGE]
+[LIB]
+{"name":"libapktool.so"}
+{"original":"01 34 10 AE 9E 49 10 2C"}
+{"replaced":"00 34 10 AE 9E 49 01 2C"}
+
+{"original":"46 79 44 28 BF 0F 24 00 F0 63"}
+{"replaced":"46 79 44 28 BF 00 24 00 F0 63"}
+
+[END]
+Cracked

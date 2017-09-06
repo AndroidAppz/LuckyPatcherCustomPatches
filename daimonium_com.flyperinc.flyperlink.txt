@@ -1,0 +1,13 @@
+[BEGIN]
+Version: 1.36 RC4
+
+Description: patch will upgrade Flyperlink 1.36 RC4 to Plus Edition (no guarantees that it will work on newest versions)
+
+Creator: Daimonium
+
+[PACKAGE]
+[CLASSES]
+{"original":"54 10 ** ** 38 00 0C 00 54 10 ** ** 6E 20 ** ** 20 00 0A 00 38 00 04 00 12 10 0F 00 12 00 28 FE ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** 12 04 12 12 12 01"}
+{"replaced":"** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** 12 10 ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** **"}
+
+[END]

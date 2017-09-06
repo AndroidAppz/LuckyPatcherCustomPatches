@@ -1,0 +1,17 @@
+[BEGIN]
+IP Tools v6.10 Premium Unlocker
+(Maybe > versions)
+
+Patch by rockz5555
+
+Web:
+http://nizwerfreegallery.blogspot.com
+[PACKAGE]
+[CLASSES]
+{"original":"12 05 1A 06 18"}
+{"replaced":"?? 15 ?? ?? ??"}
+[END]
+Now you have → IP Tools Premium Version!!
+
+Regards,
+★ rockz5555 ★

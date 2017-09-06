@@ -1,0 +1,19 @@
+[BEGIN]
+NYTimes - Breaking News
+version 4.1.0+
+Custom Patch created by (GL)MetaApks
+
+Instructions:
+1)Download NYTimes from playstore.
+2)Apply this custom patch and enjoy.
+
+[PACKAGE]
+
+[CLASSES]
+{"original":"C1 01 10 02 0A 00 0F 00"}
+{"replaced":"C1 01 10 02 12 10 0F 00 "}
+
+[END]
+Enjoy the subscription.
+/(GL)MetaApks @mobilism.org
+Patch Credit: ill420smoker

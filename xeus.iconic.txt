@@ -1,0 +1,17 @@
+[BEGIN]
+
+Patch by namok o95 (4pda.ru)
+for Iconic v.(?-)1.5.3(+?)
+
+ - Разблокировка Pro версии / Unlocking Pro Version
+
+[PACKAGE]
+[CLASSES]
+
+{"original":"70 ** ** ** ** ** 15 ** ** ** 59 ** ** ** 12 ** 5C ** ** ** 22 ** ** ** 70 ** ** ** ** ** 5B ** ** ** 12 ** 59"}
+{"replaced":"** ** ** ** ** ** ** ** ** ** ** ** ** ** ** S1 ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** **"}
+
+[END]
+Congratulations now you're a pirate !!
+Enjoy :D
+

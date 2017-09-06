@@ -1,0 +1,50 @@
+[BEGIN]
+
+Patcher para: Epic Defense (Todas versão).
+
+1- 999.904.777 coins.
+
+2- Todas as torres no lvl máximo.
+
+3- Todas as fazes liberadas com pontuação de 9.999.999 scores.
+
+<<< Instrução >>>
+1- Instale o Epic Defense.
+2- Se você tem o jogo instalado apague os dados.
+3- Aplique o Patcher.
+4- Pronto.
+
+Para quem não tem root visite meu site e saiba como hackear sem root.
+
+Site: http://iAndroidHacker.heck.in
+
+[COPY_FILE]
+{"file_name":"epic_rec"}
+{"to":"/data/data/com.dreamstudio.epicdefense/files/dreamstudio/epicdefense/epic_rec"}
+
+[COPY_FILE]
+{"file_name":"epic_shop"}
+{"to":"/data/data/com.dreamstudio.epicdefense/files/dreamstudio/epicdefense/epic_shop"}
+
+[COPY_FILE]
+{"file_name":"epic_user"}
+{"to":"/data/data/com.dreamstudio.epicdefense/files/dreamstudio/epicdefense/epic_user"}
+
+[COPY_FILE]
+{"file_name":"epic_rec"}
+{"to":"/sdcard/dreamstudio/epicdefense/epic_rec"}
+
+[COPY_FILE]
+{"file_name":"epic_shop"}
+{"to":"/sdcard/dreamstudio/epicdefense/epic_shop"}
+
+[COPY_FILE]
+{"file_name":"epic_user"}
+{"to":"/sdcard/dreamstudio/epicdefense/epic_user"}
+
+
+[END]
+Concluído! 
+Parabéns.
+
+Patcher Por: Francisley Walker

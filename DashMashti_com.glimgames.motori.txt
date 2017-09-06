@@ -1,0 +1,24 @@
+[BEGIN]
+*********************************************
+
+* Motori v 1.71.0
+
+* Unlock All Levels Object,Remove Ads,Unlimited Coins
+
+* Patch By ===> Dash.Mashti
+
+* Email ===>dash.mashtiii@gmail.com
+
+*********************************************
+[COPY_FILE]
+{"file_name":"DashMashti_motori.bin"}
+{"to":"/data/data/com.glimgames.motori/shared_prefs/com.glimgames.motori.xml"}
+[END]
+Congratulations! You have cracked Program!
+
+Good Luck!
+dash.mashtiii@gmail.com
+
+
+
+

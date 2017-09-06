@@ -1,0 +1,18 @@
+[BEGIN]
+
+Patch by _Danil_
+
+For Avast! Anti-Theft 3.0.XXXX (Google Play version, ONLY)
+
+Avast! Anti-Theft Free to Premium 
+
+[PACKAGE]
+[CLASSES]
+
+{"original":"12 01 ?? ?? ?? ?? 02 01 0A 00 0F 00 00 00"}
+{"replaced":"?? ?? ?? ?? ?? ?? ?? ?? 12 10 ?? ?? 00 00"}
+
+[END]
+Patched!
+Congratulations now you're a pirate !!
+Patch by _Danil_

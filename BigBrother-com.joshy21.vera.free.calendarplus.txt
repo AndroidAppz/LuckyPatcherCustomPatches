@@ -1,0 +1,24 @@
+[BEGIN]
+"Calendar+ Free" (In-App Purchase Unlock)
+for version 1.06.87+
+Custom Patch created by (GL)BigBrother at forum.mobilism.org
+
+Instructions:
+1.) Download "Calendar+ Free" from playstore.
+2.) Apply this custom patch or create modified apk from this custom patch.
+3.) Enjoy.
+
+[PACKAGE]
+
+[CLASSES]
+{"original":"72 30 ?? ?? ?? ?? 0A 01 ?? ?? E1 FF 12 10 28 DE"}
+{"replaced":"?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? 12 00 ?? ??"}
+
+[END]
+In-App purchase Patched
+by (GL)BigBrother at forum.mobilism.org
+
+If Custom patch fails then patch it again.
+or PM me on forum.mobilism.org
+
+Enjoy :D

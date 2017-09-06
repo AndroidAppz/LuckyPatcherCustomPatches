@@ -1,0 +1,17 @@
+[BEGIN]
+GO Locker v5.10 Top Privilege Unlocker
+(Maybe > versions)
+
+Patch by rockz5555
+
+Web:
+http://nizwerfreegallery.blogspot.com
+[PACKAGE]
+[CLASSES]
+{"original":"52 ?? ?? ?? 38 ?? 04 ?? 12 10 0F 00 12 00"}
+{"replaced":"?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? 10"}
+[END]
+Now you have → GO Locker Top Privilege Version!!
+
+Regards,
+★ rockz5555 ★

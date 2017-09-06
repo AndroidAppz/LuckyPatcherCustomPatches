@@ -1,0 +1,33 @@
+[BEGIN]
+*********************************************
+* Karafs v (95.05.10)
+
+* Note: Install and run app and after that Apply Patch
+
+* Patch By ===> Dash.Mashti
+
+* Email ===>dash.mashtiii@gmail.com
+
+*********************************************
+[PACKAGE]
+[CLASSES]
+{"original":"38 18 30 00 13 18"}
+{"replaced":"39 ?? ?? ?? ?? ??"}
+
+{"original":"13 19 00 00 74 02 3D 81"}
+{"replaced":"13 19 01 00 74 02 3D 81"}
+
+
+[SQLITE]
+{"database":"foodsv1"}
+{"execute":"UPDATE workouts SET access = 1"}
+{"execute":"UPDATE workoutCategories SET categoryPurchased = 1"}
+{"execute":"UPDATE recipe SET Access =1"}
+{"execute":"UPDATE userInfo SET AccountType =1"}
+{"execute":"UPDATE userInfo SET AccountExpiration='1396/5/20'"}
+
+[END]
+Congratulations! You have cracked Program!
+
+Good Luck!
+dash.mashtiii@gmail.com

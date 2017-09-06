@@ -1,0 +1,39 @@
+[BEGIN]
+
+
+*********************************************
+
+* VajeganAdabiat v 1.5
+
+* Patch By ===> Dash.Mashti
+
+* Email ===>dash.mashtiii@gmail.com
+
+*********************************************
+
+[PACKAGE]
+
+[CLASSES]
+
+{"original":"38 00 17 00 5C 76 F1 20 5C"}
+{"replaced":"39 ?? ?? ?? ?? ?? ?? ?? ??"}
+
+
+{"original":"38 01 0C 00 5C 84 D9 27 5C 84"}
+{"replaced":"39 ?? ?? ?? ?? ?? ?? ?? ?? ??"}
+
+{"original":"38 00 0C 00 5C EC F8 27 5C"}
+{"replaced":"39 ?? ?? ?? ?? ?? ?? ?? ?? "}
+
+{"original":"38 01 0C 00 5C 75 28 28 5C 75"}
+{"replaced":"39 ?? ?? ?? ?? ?? ?? ?? ?? ?? "}
+
+[END]
+Congratulations! You have cracked Program!
+
+Good Luck!
+dash.mashtiii@gmail.com
+
+
+
+

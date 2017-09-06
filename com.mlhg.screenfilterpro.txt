@@ -1,0 +1,27 @@
+[BEGIN]
+****************************************
+*          Darker Pro v2.3.0           *
+****************************************
+* NOTE !!!
+* This Patch work only on the PAID app:
+* com.mlhg.screenfilterpro
+****************************************
+This patch bypass the darker pro license check to make it legit.
+Plus, It disable the need to update the app every few weeks.
+hmm...the truth is, it actually delays it, into the 28th century :-)
+
+[PACKAGE]
+[CLASSES] 
+{"original":"39 01 0A 00 1A 01 ?? ?? 6E 20"}
+{"replaced":"38 ** ** ** ** ** ** ** ** **"}
+
+{"original":"07 12 62 6E 40 ?? ?? 10 42 54"}
+{"replaced":"0A ** ** ** ** ** ** ** ** **"}
+
+[END]
+*******************************
+Finished patching.
+Now, Force close 'Darker Pro',
+Enjoy a darker world...
+*******************************
+***************************************END OF PATCH***********************************

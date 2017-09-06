@@ -1,0 +1,13 @@
+[BEGIN]
+
+Activate Deluxe license on Snapprefs
+
+DO NOT press on 'Reedem license' after patching
+
+[OTHER FILES]
+{"name":"/shared_prefs/com.marz.snapprefs_preferences.xml"}
+{"original":"6C 69 63 65 6E 73 65 5F 73 74 61 74 75 73 22 20 76 61 6C 75 65 3D 22 30 22 20"}
+{"replaced":"6C 69 63 65 6E 73 65 5F 73 74 61 74 75 73 22 20 76 61 6C 75 65 3D 22 32 22 20"}
+
+[END]
+Patched!

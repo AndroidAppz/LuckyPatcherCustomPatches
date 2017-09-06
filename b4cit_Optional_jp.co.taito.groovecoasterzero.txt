@@ -1,0 +1,36 @@
+[BEGIN]
+Groove Coaster 2 (unhide IOS songs patch) for 1.0.9+
+~Brought to you by b4cit~
+
+*Content*
+Unhide 15 additional songs (originally iOS version exclusive):
+Lady Gaga, Puzzle & Dragons and more.
+
+This is for who used my IAP(Main) patch, or you've purchased them in iOS then migrate to Android.
+
+*Important*
+1. After every update, please re-apply to make songs remain unhide.
+2. If patch crashes the game, delete these file and let the game redownload:
+/data/data/jp.co.taito.groovecoasterzero/files/resource/tuneFile.pak
+  AND  
+/data/data/jp.co.taito.groovecoasterzero/files/resource/version2.cfg
+3. If patch won't work, then it's not for you.
+
+*Patch Instruction*
+1. Kill the game from tasks.
+2. Apply this patch.
+3. Run the game with internet connected.
+4. Paid content will be downloaded to your device.
+5. Enjoy!
+
+[SET_PERMISSIONS]
+{"file_name":"/files/resource/tuneFile.pak"}
+{"permissions":"777"}
+
+[OTHER FILES]
+{"name":"/files/resource/tuneFile.pak"}
+{"original":"5F 68 61 72 64 00 ?? ?? ?? 00 ?? ?? ?? 00 ?? ?? ?? 00 ?? ?? ?? 00 ?? ?? ?? 00 ?? ?? ?? ?? ?? ?? FF 00 00 00 00 00 03 00 00 00 00 00 ?? 00 00 ?? ?? 01"}
+{"replaced":"5F 68 61 72 64 00 ?? ?? ?? 00 ?? ?? ?? 00 ?? ?? ?? 00 ?? ?? ?? 00 ?? ?? ?? 00 ?? ?? ?? ?? ?? ?? FF 00 00 00 00 00 03 00 00 00 00 00 ?? 00 00 ?? ?? 03"}
+
+[END]
+Patch ended. Enjoy!

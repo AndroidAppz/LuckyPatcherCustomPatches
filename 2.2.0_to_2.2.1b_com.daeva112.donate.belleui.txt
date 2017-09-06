@@ -1,0 +1,16 @@
+[BEGIN]
+Remove license verification for
+Belle UI (Donate) 2.2.0/2.2.1/2.2.1b
+ 
+Instructions:
+1) Install Belle UI (Donate) but DON'T open it.
+(if you have already opened the app unistall it and reinstall)
+2) Patch
+3) Open the app
+
+by Jacknot
+[CLASSES]
+{"object":"1"}
+[ODEX]
+[END]
+Patch Applied Successfully! 

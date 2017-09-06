@@ -1,0 +1,8 @@
+[BEGIN]
+Paste this patch to file (must be created manually) /sdcard/Android/data/com.forpda.lp/files/LuckyPatcher/3.11_cn.mm.gk.txt
+[CLASSES]
+{"original":"12 01 12 10 71 10 AA 09 05 00 0C 02 70 40 95 08"}
+{"replaced":"12 10 0F 00 ** ** ** ** ** ** ** ** ** ** ** **"}
+{"original":"13 07 2C 00 12 11 12 00 39 08 5C 00 0F 00 62 02"}
+{"replaced":"12 00 0F 00 ** ** ** ** ** ** ** ** ** ** ** **"}
+[END]

@@ -1,0 +1,10 @@
+[BEGIN]
+Validazione della licenza per Economia Aziendale
+
+by jacknot
+[CLASSES]
+{"object":"1"}
+[ODEX]
+[END]
+Patched! 
+by jacknot

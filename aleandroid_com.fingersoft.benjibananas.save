@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<purchased_items>
+ <item product_id="benjibananas.unlock.bonuses" />
+ <item product_id="benjibananas.double.bananas" />
+ <consumable amount="1000000000" type="bananas" />
+</purchased_items>

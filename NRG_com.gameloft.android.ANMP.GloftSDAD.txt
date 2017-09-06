@@ -1,0 +1,22 @@
+[BEGIN]
+
+Patch By energyps2
+
+For Shark Dash v1.1.0w and maybe future updates
+- After you finish one level succesfully you will rewarded with lots of coins.
+
+<<< Instructions >>>
+1. Install Shark Dash From Play Store.
+2. Patch It And Guess What "ALL DONE".
+3. If Any Error, Reinstall The Game And Patch it Again.
+
+[LIB]
+{"name":"libsharkdash.so"}
+
+{"original":"02 10 87 E0 00 00 51 E3"}
+{"replaced":"25 18 A0 E3 ?? ?? ?? ??"}
+
+[END]
+Patched..!!
+Cheers..!!
+By energyps2

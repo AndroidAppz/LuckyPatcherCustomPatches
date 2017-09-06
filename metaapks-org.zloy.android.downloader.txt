@@ -1,0 +1,19 @@
+[BEGIN]
+Loader Droid download manager
+version 0.9.9.8+
+Custom Patch created by (GL)MetaApks
+
+[PACKAGE]
+
+[CLASSES]
+{"original":"12 10 ?? 00 ?? 00 12 00"}
+{"replaced":"12 10 ?? 00 ?? 00 12 10"}
+
+{"original":"03 00 ?? 00 12 00 28 ??"}
+{"replaced":"02 00 ?? 00 12 10 28 ??"}
+
+[END]
+In App Purchases Patched!!
+/(GL)MetaApks @mobilism.org
+Enjoy ;D
+

@@ -1,0 +1,26 @@
+[BEGIN](In-App Purchase Unlock)
+
+Calc+ Powerful calculator for v1.0.0+
+CaughtU Pro - Caught You for v1.0+
+
+Custom Patch created by (GL)BigBrother at forum.mobilism.org
+
+Instructions:
+1.) Download any apk from playstore.
+2.) Apply this custom patch or create modified apk from this custom patch.
+3.) Enjoy.
+
+[PACKAGE]
+
+[CLASSES]
+{"original":"12 ?? 67 00 ?? ?? 12 ?? 67 00 ?? ?? 12 ?? 67 00 ?? ?? 0E 00 03 00 02 00 02 00"}
+{"replaced":"?? 10 ?? ?? ?? ?? ?? 10 ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ??"}
+
+[END]
+In-App purchase Patched
+by (GL)BigBrother at forum.mobilism.org
+
+If Custom patch fails then patch it again.
+or PM me on forum.mobilism.org
+
+Enjoy :D

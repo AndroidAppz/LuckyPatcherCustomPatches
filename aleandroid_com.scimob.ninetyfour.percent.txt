@@ -1,0 +1,27 @@
+[BEGIN]
+Author: AleX @ www.aleandroid.com
+Target: 94% v3.x.xx
+Crack: Savedata modification
+------------------------------------------------
+Effect: 
+Premium version;
+ADS Free;
++1 million coins!
+------------------------------------------------
+Instructions:
+Run the game at least once,
+then use this custom patch.
+------------------------------------------------
+[OTHER FILES]
+{"name":"/shared_prefs/playerPrefs.xml"}
+{"original":"3C 3F 78 6D"}
+{"insert":"3C 3F 78 6D 6C 20 76 65 72 73 69 6F 6E 3D 27 31 2E 30 27 20 65 6E 63 6F 64 69 6E 67 3D 27 75 74 66 2D 38 27 20 73 74 61 6E 64 61 6C 6F 6E 65 3D 27 79 65 73 27 20 3F 3E 0A 3C 6D 61 70 3E 0A 20 20 20 20 3C 62 6F 6F 6C 65 61 6E 20 6E 61 6D 65 3D 22 70 6C 61 79 65 72 5F 69 73 5F 70 72 65 6D 69 75 6D 22 20 76 61 6C 75 65 3D 22 74 72 75 65 22 20 2F 3E 0A 20 20 20 20 3C 69 6E 74 20 6E 61 6D 65 3D 22 63 6F 69 6E 73 5F 70 6C 61 79 65 72 22 20 76 61 6C 75 65 3D 22 31 30 30 30 30 30 30 22 20 2F 3E 0A 3C 2F 6D 61 70 3E"}
+[END]
+------------------------------------------------
+Patched!
+Enjoy ;)
+------------------------------------------------
+AleX
+------------------------------------------------
+
+

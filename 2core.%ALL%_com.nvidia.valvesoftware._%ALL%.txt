@@ -1,0 +1,18 @@
+[BEGIN]
+Patch for Valve games by NVIDIA to play on 2-core created by mittorn&GFOXSH.
+
+[LIB]
+{"name":"libtier0.so"}
+{"original":"00 00 8f e0 1c 30 c4 e5 11 0b 00 eb ?? 30 a0 e3"}
+{"replaced":"00 00 8f e0 1c 30 c4 e5 11 0b 00 eb 02 30 a0 e3"}
+
+{"original":"1c 30 c4 e5 0a 0b 00 eb ?? 30 a0 e3 1d 30 c4 e5"}
+{"replaced":"1c 30 c4 e5 0a 0b 00 eb 02 30 a0 e3 1d 30 c4 e5"}
+
+{"original":"6f f3 c7 13 78 44 23 77 01 f0 98 ff ?? 23 63 77"}
+{"replaced":"6f f3 c7 13 78 44 23 77 01 f0 98 ff 02 23 63 77"}
+
+[ADD-BOOT]
+
+[END]
+And also use GLTools.

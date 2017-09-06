@@ -1,0 +1,19 @@
+[BEGIN]
+Dictionary Tandis Version 2.0 (Full Version)
+By B4ltazar@zoho.com
+
+<< Instruction >>
+Use this custom patch.
+
+[PACKAGE]
+[CLASSES]
+{"original":"12 21 33 14 13 00 12 F1"}
+{"replaced":"28 11 ** ** ** ** ** **"}
+[END]
+
+Patched!!
+Dictionary Tandis Version 2.0 (Full Version)
+By B4ltazar@zoho.com
+
+Congratulations now you're a pirate !!
+Enjoy :D

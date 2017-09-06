@@ -1,0 +1,14 @@
+[BEGIN]
+Base Version: 4.1.1(And Up)
+Crack For Notification Shortcuts
+
+Patch by WellingtonMods
+
+[PACKAGE]
+[CLASSES]
+
+{"original":"12 10 6E 10 ?? ?? 07 00"}
+{"replaced":"12 00 6E 10 ** ** 07 00"}
+
+[END]
+Patched

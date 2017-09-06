@@ -1,0 +1,17 @@
+[BEGIN]
+Javelin Pro Unlocker v4.1.10
+(Maybe > versions)
+
+Patch by rockz5555
+
+Web:
+http://nizwerfreegallery.blogspot.com
+[PACKAGE]
+[CLASSES]
+{"original":"13 01 ?? ?? ?? ?? 1A 03"}
+{"replaced":"0F 00 00 00 ?? ?? ?? ??"}
+[END]
+Now you have → Javelin Browser Pro!!
+
+Regards,
+★ rockz5555 ★

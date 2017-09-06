@@ -1,0 +1,14 @@
+[BEGIN]
+Patch for Adobe Flash Player 11.1.*. Allows your Android device to use websites like Hulu that only allow access via PC's.
+By SD
+
+[LIB]
+{"name":"libflashplayer.so"}
+{"original":"00 41 4E 44 20 31 31 2C 31"}
+{"replaced":"00 57 49 4E 20 31 31 2C 31"}
+
+[ADD-BOOT]
+
+[END]
+Adobe Flash Player now identifies the host platform as Windows.
+Thanks to Steve Day!

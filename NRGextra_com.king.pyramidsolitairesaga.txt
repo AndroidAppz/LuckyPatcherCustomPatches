@@ -1,0 +1,36 @@
+[BEGIN]
+
+Patch By energyps2
+
+For Pyramid Solitaire Saga v1.5.0 and maybe future updates
+- Infinite Combo (Combo Streak doesn't reset).
+- Jungle Cards Easy Mode (Once you unlock a Jungle Card never comes back in a locked one).
+- Chain Cards Easy Mode (one move unlocks chain).
+
+<<< Instructions >>>
+1. Install Pyramid Solitaire Saga From Play Store.
+2. Patch It And Guess What "ALL DONE".
+3. If Any Error,  Reinstall The Game And Patch it Again.
+
+[LIB]
+{"name":"libpyramidsolitairesaga.so"}
+
+{"original":"00 30 A0 E3 24 30 80 E5 34 30 80 E5"}
+{"replaced":"24 ?? 90 E5 ?? ?? ?? ?? ?? ?? ?? ??"}
+
+{"original":"00 30 A0 13 24 30 80 15"}
+{"replaced":"24 ?? 90 15 ?? ?? ?? ??"}
+
+{"original":"01 20 42 C2 14 20 80 C5"}
+{"replaced":"00 ?? ?? ?? ?? ?? ?? ??"}
+
+{"original":"04 30 63 E2 04 30 21 E5"}
+{"replaced":"00 ?? A0 E3 ?? ?? ?? ??"}
+
+{"original":"03 00 50 E3 00 00 A0 D3 01 00 A0 C3 1E FF 2F E1"}
+{"replaced":"?? ?? ?? ?? 01 ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ??"}
+
+[END]
+Patched..!!
+Cheers..!!
+By energyps2

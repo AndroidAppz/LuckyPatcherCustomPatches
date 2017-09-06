@@ -1,0 +1,17 @@
+[BEGIN]
+
+Patch by namok o95 (4pda.ru)
+for ConsultantPlus v.(?-)2.1.1(+?)
+
+ - Отключение уведомления с просьбой обновить приложение / Disabling a notification to update the app
+
+[PACKAGE]
+[CLASSES]
+
+{"original":"71 ** ** ** ** ** 0C ** 6E ** ** ** ** ** 0C ** 6E ** ** ** ** ** 0B ** 39 ** ** ** 71 ** ** ** ** ** 0B ** 9C ** ** ** 17 ** ** ** ** ** 31 ** ** ** 3B ** ** ** 12 ** 0F ** 12 **"}
+{"replaced":"** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** S0"}
+
+[END]
+Congratulations now you're a pirate !!
+Enjoy :D
+

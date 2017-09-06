@@ -1,0 +1,9 @@
+[BEGIN]
+for Nowakelock 1.0+
+[CLASSES]
+{"original":"63 00 97 0F 0F ??"}
+{"replaced":"63 00 97 0F 0F S1"}
+{"original":"EE 20 03 00 10 00 0A 00 0F 00"}
+{"replaced":"12 10 0F 00 00 00 00 00 00 00"}
+[END]
+PATCHED BY wax628@gmail.com

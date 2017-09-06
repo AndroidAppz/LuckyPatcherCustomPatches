@@ -1,0 +1,28 @@
+[BEGIN]
+
+Patch By arun483
+
+For Dream League Soccer (All versions).
+- 999999999 Coins.
+
+<<< Instructions >>>
+1. Install Dream League Soccer from  Play Store.
+2. Now open it and choose your captain and close it. 
+(you may need to clear app data if patch doesn't works for you).
+3. Now Close it and patch it.
+4. Run your game again and you will have 999999999 coins.
+
+[COPY_FILE]
+{"file_name":"arun483_dlsa.bin"}
+{"to":"/data/data/com.firsttouchgames.dlsa/shared_prefs/com.First Touch Games.FTS.UnlockStuffDictionary.xml"}
+
+[END]
+Patched!!!
+
+Have Fun !!!
+
+
+by arun483 (xda)
+
+
+thanks to jasi2169 for his guidance.

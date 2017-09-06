@@ -1,0 +1,19 @@
+[BEGIN]
+Patch By Silent_Assassin @-MM-
+@(GL)Silent @Mobilism
+Phogy 3D Pro Patch 
+For 1.40+
+
+[PACKAGE]
+[CLASSES]
+
+{"original":"46 00 00 00 12 02 12 11 54 30 75 0B"}
+{"replaced":"** ** ** ** ** 12 ** ** ** ** ** **"}
+
+{"original":"53 00 00 00 12 02 12 11 54 40 CD 0A"}
+{"replaced":"** ** ** ** ** 12 ** ** ** ** ** **"}
+
+[END]
+Pro Features unlocked!!
+Enjoy & Have Fun
+/(GL)Silent 

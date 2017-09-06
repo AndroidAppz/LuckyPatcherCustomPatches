@@ -1,0 +1,17 @@
+[BEGIN]
+SD Maid v4.2.3 Pro Unlocker
+(Maybe > versions)
+
+Patch by rockz5555
+
+Web:
+http://nizwerfreegallery.blogspot.com
+[PACKAGE]
+[CLASSES]
+{"original":"12 00 71 10 ?? ?? ?? ?? ?? ?? 1A"}
+{"replaced":"?? 10 ?? ?? ?? ?? ?? ?? ?? ?? ??"}
+[END]
+Now you have → SD Maided Pro Version!!
+
+Regards,
+★ rockz5555 ★

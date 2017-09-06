@@ -1,0 +1,15 @@
+[BEGIN]
+
+Patch for For Rocket Music Player 1.0
+Patch By Nithin Gowda(@Apkmos.com)
+
+[PACKAGE]
+[CLASSES]
+
+{"original":"38 ?? ?? ?? 0F ?? 12 ?? 28 ?? 05 00 02 00"}
+{"replaced":"38 ?? ?? ?? 0F ?? 12 10 28 ?? 05 00 02 00"}
+
+[END]
+Patched..!!
+Cheers..!!
+By Nithin Gowda (@Apkmos.com)

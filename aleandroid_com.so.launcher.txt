@@ -1,0 +1,25 @@
+[BEGIN]
+Author: AleX @ www.aleandroid.com
+Target: SO Launcher v1.92
+Crack: Classes modification
+------------------------------------------------
+Effect: 
+Free to Prime!
+------------------------------------------------
+Instructions:
+Just apply this custom patch 
+or rebuild the app with it.
+------------------------------------------------
+[PACKAGE]
+[CLASSES]
+{"original":"12 01 12 10 71 20"}
+{"replaced":"12 11 ** ** ** **"}
+{"original":"1A 02 78 30 6E"}
+{"replaced":"** ** 63 ** **"}
+[END]
+------------------------------------------------
+Patched!
+Enjoy ;)
+------------------------------------------------
+AleX
+------------------------------------------------

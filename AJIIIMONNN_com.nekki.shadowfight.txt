@@ -1,0 +1,36 @@
+[BEGIN]
+
+Patch by Muhammed Hussain
+
+Custom Patch for Shadow Fight 2 v1.9.13 +Up
+
+Features:
+
+-Unlimited Energy
+-Unlimited Coins And Germs
+-Unlimited Shadow Orbs
+-Max. Levels bypassed ( Provides  Max. Weapon Upgrade )
+
+<<< Instructions >>>
+1. Install Shadow Fight 2  v1.9.13  From Play Store;
+2. Open The Game And Play The First Two Tutorials
+3. Close The Game.
+4. Open Lucky Patcher, Apply Custom Patch And Guess What "ALL DONE";
+5. If Any Problem,Reinstall The Game And Patch it Again.
+
+[COPY_FILE]
+{"file_name":"Ajimon_159753.bin"}
+
+{"to":"/data/data/com.nekki.shadowfight/files/assets/users.xml"}
+
+[COPY_FILE]
+{"file_name":"Ajimon_159753_hash.bin"}
+
+{"to":"/data/data/com.nekki.shadowfight/files/assets/users.xml.hash"}
+
+
+[END]
+Patched!!!!
+Cheers!!!!
+By *Muhammed Hussain*
+

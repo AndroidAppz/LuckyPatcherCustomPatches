@@ -1,0 +1,24 @@
+[BEGIN]
+
+Remove license verification for
+Belle UI (Donate) 3.0.0/3.0.1/3.0.2
++ add 2 Premium Requests 
+ 
+Instructions:
+1) Install Belle UI (Donate) and open it.
+2) You
+will see a "License Check Failed" message
+3) Close the app and Patch
+4) Now you can use 'Icon Request' (with 2 Premium Requests) and 'Cloud Wallpaper'
+
+by Jacknot
+
+[OTHER FILES]
+{"name":"/shared_prefs/MATERIAL_DASHBOARDV2_PREFERENCES.xml"}
+{"original":"3C 3F 78 6D"}
+{"replace_from_file":"MATERIAL_DASHBOARDV2_PREFERENCES.xml"}
+
+
+[END]
+Patched!
+By jacknot

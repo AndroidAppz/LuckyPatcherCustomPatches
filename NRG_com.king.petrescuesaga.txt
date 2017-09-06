@@ -1,0 +1,30 @@
+[BEGIN]
+
+Patch By energyps2
+
+For Pet Rescue Saga v1.27.6 and maybe future updates
+- Infinite Lives.
+- Infinite Boosters (you need to have at least ONE).
+- No more waiting between MysteryQuests (not 24h).
+
+<<< Instructions >>>
+1. Install Pet Rescue Saga From Play Store.
+2. Patch It And Guess What "ALL DONE".
+3. If Any Error, Reinstall The Game And Patch it Again.
+
+[LIB]
+{"name":"libpetrescuesaga.so"}
+
+{"original":"24 0B 94 E5 10 80 BD E8"}
+{"replaced":"05 00 A0 E3 ?? ?? ?? ??"}
+
+{"original":"01 20 42 E2 04 20 83 E5 04"}
+{"replaced":"00 ?? ?? ?? ?? ?? ?? ?? ??"}
+
+{"original":"01 00 50 E3 00 30 D1 E2 EC FF FF BA"}
+{"replaced":"?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? EA"}
+
+[END]
+Patched..!!
+Cheers..!!
+By energyps2

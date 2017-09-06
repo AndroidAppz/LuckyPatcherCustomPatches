@@ -1,0 +1,23 @@
+[BEGIN]
+ORG 2016 (MusicStudio2) Version 2016.1.2.5 (InApp Purchase Unlock)
+By B4ltazar@zoho.com
+
+<< Instruction >>
+1. Use this custom patch.
+2. Use InApp purchase to enable app.
+
+[PACKAGE]
+[CLASSES]
+{"original":"07 00 0A 03 38 03 ** 00"}
+{"replaced":"** ** ** ** 28 17 00 **"}
+
+{"original":"47 04 04 00 72 30"}
+{"replaced":"12 14 00 00 ** **"}
+[END]
+
+Patched!!
+ORG 2016 (MusicStudio2) Version 2016.1.2.5 (InApp Purchase Unlock)
+By B4ltazar@zoho.com
+
+Congratulations now you're a pirate !!
+Enjoy :D

@@ -1,0 +1,14 @@
+
+[BEGIN]
+Cash-in my bitcoins for 200k of in-game credits!
+
+by Big Brad Baby
+[SQLITE]
+{"database":"vca.db"}
+{"execute":"UPDATE state SET value = '{\"balance\":\"203074\", \"totalPurchased\":\"0\", \"newsletterRewarded\":\"False\", \"pushRewarded\":\"False\", \"facebookLikeRewarded\":\"False\", \"facebookLoginRewarded\":\"False\", \"twitterFollowRewarded\":\"False\"}' WHERE key = 'account'"}
+
+{"database":"vca.db"}
+{"execute":"UPDATE state SET redherring = 'adf65f213665410106a00bd65769f2af3ec85243' WHERE key = 'account'"}
+
+[END]
+Buy it all! 

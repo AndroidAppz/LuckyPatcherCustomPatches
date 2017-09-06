@@ -1,0 +1,18 @@
+[BEGIN]
+
+For OPG Pro V11.x.x And Above 
+
+[PACKAGE]
+[CLASSES]
+
+{"original":"00 00 0A 00 38 00 04 00 12 10 0F 00 76 07"}
+{"replaced":"00 00 12 10 38 00 04 00 12 10 0F 00 76 07"}
+
+{"original":"00 00 0A 00 38 00 06 00 12 10 0F 00 0D 00"}
+{"replaced":"00 00 12 10 38 00 06 00 12 10 0F 00 0D 00"}
+
+[END]
+Congratulations Now you can enjoy OTG Pro 
+With all features Unlocked!
+Without spending a single BUCK!
+

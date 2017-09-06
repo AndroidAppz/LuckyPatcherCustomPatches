@@ -1,0 +1,21 @@
+[BEGIN]
+
+Patch By Jasi2169
+
+For Dynamic Notifications v2.9.1 To Unlock All Premium Features.
+
+<<< Instructions >>>
+1. Install Dynamic Notifications From Play Store.
+2. Patch It And You Got All Premium Features Unlocked.
+3. If Any Problem,Patch it Again.
+
+[PACKAGE]
+[CLASSES]
+
+{"original":"39 00 ?? 00 ?? ?? ?? ?? 39 00 ?? 00 ?? ?? ?? ?? 38 00 ?? 00 12 10 ?? 00 12 00"}
+{"replaced":"39 00 ?? 00 ?? ?? ?? ?? 39 00 ?? 00 ?? ?? ?? ?? 38 00 ?? 00 12 10 ?? 00 12 10"}
+
+[END]
+Patched..!!
+Cheers..!!
+By Jasi2169

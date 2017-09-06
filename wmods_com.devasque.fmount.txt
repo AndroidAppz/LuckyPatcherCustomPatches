@@ -1,0 +1,14 @@
+[BEGIN]
+Working on version 2.8 (And Up)
+
+Crack to Folder Mount Premium
+
+Patch by WellingtonMods
+
+[PACKAGE]
+[CLASSES]
+
+{"original":"12 00 6A 00 ** ** 6A 00 ** ** 62"}
+{"replaced":"12 10 6A 00 ** ** 00 00 00 00 62"}
+
+[END]

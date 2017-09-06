@@ -1,0 +1,66 @@
+[BEGIN]
+
+<<< Spider-Man Unlimited v1.5.0g >>>
+
+<<< Hack features >>>
+1. Viles multiplier
+2. ISO-8 multiplier
+3. XP multiplier
+4. Infinite tokens
+5. Anti-ban
+6. Bypass file verification
+7. Enable offline play
+
+
+<<< Instructions >>>
+1. Install Spider-Man Unlimited From Play Store.
+2. Run Spider-Man Unlimited and let it download/update data
+3. Close the game
+4. Go to settings -> Application -> Spider-Man Unlimited and tap Force Close
+5. Open Lucky Patcher and patch the game
+6. If done then run the game
+
+If Any Problem, Reboot your device, Reinstall The Game And Patch it Again.
+
+<< Credits >>>
+- iAndroHackerDK
+- Riu (His original mod)
+
+- iandrohacker.blogspot.com
+- alphagamers.net
+
+[LIB]
+{"name":"libSpidermanI.so"}
+
+{"original":"01 40 A0 E1 03 80 A0 E1 83 00"}
+{"replaced":"00 40 A0 E3 ?? ?? ?? ?? ?? ??"}
+
+{"original":"01 60 A0 E1 02 80 A0 E1 BD 5F"}
+{"replaced":"50 63 0C E3 ?? ?? ?? ?? ?? ??"}
+
+{"original":"01 A0 A0 E1 BD 4F A0 E3 18 20"}
+{"replaced":"50 A3 0C E3 ?? ?? ?? ?? ?? ??"}
+
+{"original":"2C E1 9D E5 0E 40 84 E0 00 00 54 E1 00 40 A0 A1"}
+{"replaced":"05 E0 A0 E3 2C E1 8D E5 00 00 A0 E1 00 00 A0 E1"}
+
+{"original":"02 40 A0 E1 A8 30 8D E5 41"}
+{"replaced":"FF 44 E0 E3 ?? ?? ?? ?? ??"}
+
+{"original":"0A 49 00 58 E3 27"}
+{"replaced":"EA ?? ?? ?? ?? ??"}
+
+{"original":"0B 18 00 1A 99 9E 8D E2"}
+{"replaced":"00 00 A0 E1 ?? ?? ?? ??"}
+
+{"original":"0A 84 1E 1F E5 8D 2E 8D E2"}
+{"replaced":"EA ?? ?? ?? ?? ?? ?? ?? ??"}
+
+{"original":"0A 70 10 1F E5 96 5E 8D"}
+{"replaced":"EA ?? ?? ?? ?? ?? ?? ??"}
+
+
+[END]
+Patched!
+Cheers!
+By iAndroHackerDK

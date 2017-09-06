@@ -1,0 +1,50 @@
+[BEGIN]
+
+Kuldip Patel(KP7742) Reveals Mod Of DA2-Mini Militia.
+
+-> DA2-Mini Militia v2.2.59 - MOD1 <-
+
+~Features~
+- Unlock Pro Pack.
+- Unlimited Flying Power.
+- All Store Item Unlocked.
+- All Weapons Have LaserSight.
+- No Reload.
+
+<<< Instructions >>>
+For Rooted Users:
+1. Install DA2-Mini Militia From Play Store.
+2. Patch It  With Lucky Patcher And Guess What "ALL DONE".
+3. If Any Problem,Reinstall The Game And Patch it Again.
+For Non-Rooted Users:
+1. Install DA2-Mini Militia From Play Store.
+2. Create New Modified Apk With This Patch.
+3. Remove Old Apk And Install New.
+
+#WebSite# -~> https://da2m.blogspot.in/
+
+[LIB]
+{"name":"libcocos2dcpp.so"}
+
+{"original":"67 00 00 00 54 4F 55 43 48 20 20 20 20 53 54 41 52 54 00 00 4C 4F 41 44 49 4E 47"}
+{"replaced":"67 00 00 00 4B 55 4C 44 49 50 20 20 20 4B 4D 4F 44 53 00 00 4B 55 4C 44 49 50 50"}
+
+{"original":"26 1C 5B 00 10 B5 84 B0 01 90 03 AB 18 46 AE F3"}
+{"replaced":"26 1C 5B 00 01 20 70 47 01 90 03 AB 18 46 AE F3"}
+
+{"original":"10 FA D4 BF 00 23 01 23 DB B2 18 46 02 B0 70 47"}
+{"replaced":"10 FA D4 BF 00 23 01 23 DB B2 01 20 02 B0 70 47"}
+
+{"original":"00 23 01 23 DB B2 00 2B D7 D1 00 23 18 46 06 B0"}
+{"replaced":"00 23 01 23 DB B2 00 2B D7 D1 00 23 01 20 06 B0"}
+
+{"original":"0F 30 18 46 04 B0 70 47 84 B0 01 90 00 91 00 23"}
+{"replaced":"0F 30 01 20 04 B0 70 47 84 B0 01 90 00 91 00 23"}
+
+{"original":"77 EE 67 7A 17 EE 90 3A 18 46 02 B0 70 47 00 BF"}
+{"replaced":"77 EE 67 7A 17 EE 90 3A 00 20 02 B0 70 47 00 BF"}
+
+[END]
+Patched..!!
+Cheers..!!
+Patch By kp7742 (Find Me On G+)

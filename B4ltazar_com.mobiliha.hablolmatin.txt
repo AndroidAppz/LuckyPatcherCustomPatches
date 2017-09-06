@@ -1,0 +1,19 @@
+[BEGIN]
+Hablolmatin v4.0.5 (Premium verison. But downloading content does not work.)
+By B4ltazar@zoho.com
+
+<< Instruction >>
+Use this custom patch.
+
+[PACKAGE]
+[CLASSES]
+{"original":"12 10 22 01 46 04"}
+{"replaced":"** 00 ** ** ** **"}
+[END]
+
+In-App Purchase Patched
+Hablolmatin  v4.0.5
+By B4ltazar@zoho.com
+
+Congratulations now you're a pirate !!
+Enjoy :D

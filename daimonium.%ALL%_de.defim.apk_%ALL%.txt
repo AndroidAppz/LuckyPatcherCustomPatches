@@ -1,0 +1,27 @@
+[BEGIN]
+Version: 3.7.x
+
+Description: patch will unlock any module from Defim (it may work on versions above 3.7.x)
+
+Warning: you should deactivate all unpatched modules from Defim before patching, because several of them interfere with Lucky Patcher
+
+Defense: license validation (pattern #1), package's signature validation (pattern #2), interference with Lucky Patcher (pattern #3), odex deleting by initZygote method (pattern #4), odex deleting by handleLoadPackage method (pattern #4)
+
+Warning: modules consist of various defense set, so don't bother, if some pattern wasn't found
+
+Creator: Daimonium
+
+[PACKAGE]
+[CLASSES]
+{"original":"0E 00 54 50 ** ** 6E 20 ** ** 05 00 0A 00"}
+{"replaced":"** ** ** ** ** ** ** ** ** ** ** ** 12 10"}
+
+{"original":"70 10 ** ** 04 00 0C 02 38 02"}
+{"replaced":"** ** ** ** ** ** ** ** 32 22"}
+
+{"original":"71 10 ** ** 02 00 0C 02 6E 20 ** ** 21 00 0A 01"}
+{"replaced":"** ** ** ** ** ** ** ** ** ** ** ** ** ** 12 01"}
+
+{"original":"6E 20 ** ** ** 00 0A ** 38 ** 0F 00 6E 10 ** ** ** 00 0C ** 6E 20 ** ** ** 00 0A ** 38 ** 05 00 6E 10"}
+{"replaced":"** ** ** ** ** ** 12 ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** **"}
+[END]

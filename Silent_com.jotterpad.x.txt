@@ -1,0 +1,15 @@
+[BEGIN]
+Patch for JotterPad X: Writer
+v11.5.1C+
+To unlock creative features
+
+[PACKAGE]
+
+[CLASSES]
+{"original":"AD 7D 10 00 0A 00 38 00 04 00 12 10 0F 00 12 00 28 FE"}
+{"replaced":"** ** ** ** ** ** ** ** ** ** ** ** ** ** ** 10 ** **"}
+
+[END]
+Paid features are unlocked!!
+Enjoy & Have Fun
+/(GL)Silent 

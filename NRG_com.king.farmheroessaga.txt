@@ -1,0 +1,26 @@
+[BEGIN]
+
+Patch By energyps2
+
+For Farm Heroes Saga v2.9.8 and maybe future updates
+- Infinite Lives.
+- Infinite Boosters (you need to have at least ONE).
+
+<<< Instructions >>>
+1. Install Farm Heroes Saga From Play Store.
+2. Patch It And Guess What "ALL DONE".
+3. If Any Error, Reinstall The Game And Patch it Again.
+
+[LIB]
+{"name":"libfarmheroessaga.so"}
+
+{"original":"08 00 94 E5 10 80 BD E8"}
+{"replaced":"05 ?? A0 E3 ?? ?? ?? ??"}
+
+{"original":"02 00 A0 E1 03 10 A0 E1 F0"}
+{"replaced":"01 ?? ?? E3 01 ?? ?? E3 ??"}
+
+[END]
+Patched..!!
+Cheers..!!
+By energyps2

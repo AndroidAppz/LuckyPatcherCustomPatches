@@ -1,0 +1,22 @@
+[BEGIN]
+
+Patch By Jasi2169 (Find Me On Xda-Developers.Com)
+
+For Chomp SMS v6.31 To Donate/Adfree Version.
+
+<<< Instructions >>>
+1. Install Chomp SMS From Play Store.
+2. Patch It And You Got Donate/Adfree Version.
+3. Now Say Thanks To "Jasi2169" :D
+4. If Any Problem,Patch it Again.
+
+[PACKAGE]
+[CLASSES]
+
+{"original":"DD 63 ?? 00 0A ?? 39 ??"}
+{"replaced":"DD 63 ?? 00 0A ?? 38 ??"}
+
+[END]
+Patched..!!
+Cheers..!!
+By Jasi2169

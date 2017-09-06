@@ -1,0 +1,28 @@
+[BEGIN]
+
+Patch By Jasi2169
+
+For Temple Run OZ v1.6.2
+
+For Unlmited Coins And Gems  ;)
+
+<<< Instructions >>>
+1. Install Temple Run OZ From Play Store.
+2. Now Open It And Play A Bit And Then Close It.
+3. Now Patch It And Guess What "ALL DONE".
+4. If Any Problem,Patch it Again.
+
+[OTHER FILES]
+{"name":"/mnt/sdcard/Android/data/com.disney.TempleRunOz.goo/files/android_settings.oz"}
+{"original":"7B 22 68 61 73 68 22 3A 22"}
+{"replace_from_file":"JASI2169_Temple_Run_Oz_1.bin"}
+
+[OTHER FILES]
+{"name":"/mnt/sdcard/Android/data/com.disney.TempleRunOz.goo/files/stats.sav"}
+{"original":"7B 22 68 61 73 68 22 3A 22"}
+{"replace_from_file":"JASI2169_Temple_Run_Oz_2.bin"}
+
+[END]
+Patched..!!
+Cheers..!!
+By Jasi2169

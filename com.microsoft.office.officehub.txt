@@ -1,0 +1,42 @@
+[BEGIN]
+Crack for Microsoft Office Mobile 2013 (15.0.1924.2000)
+
+[PACKAGE]
+[CLASSES]
+
+{"original":"BB 0A 10 22 69"}
+{"replaced":"BB 0A 10 55 69"}
+
+{"original":"BB 0A 10 33 69"}
+{"replaced":"BB 0A 10 55 69"}
+
+{"original":"BB 0A 10 44 69"}
+{"replaced":"BB 0A 10 55 69"}
+
+{"original":"BB 0A 10 66 69"}
+{"replaced":"BB 0A 10 55 69"}
+
+{"original":"33 08 97 00 12"}
+{"replaced":"33 00 97 00 12"}
+
+{"original":"33 54 27 00 54"}
+{"replaced":"33 55 27 00 54"}
+
+{"original":"32 53 18 00 71"}
+{"replaced":"32 55 18 00 71"}
+
+{"original":"33 32 37 00 5C"}
+{"replaced":"33 33 37 00 5C"}
+
+{"original":"33 98 6B 00 01"}
+{"replaced":"33 99 6B 00 01"}
+
+{"original":"32 32 0C 00 1A"}
+{"replaced":"32 33 0C 00 1A"}
+
+{"original":"32 10 16 00 62"}
+{"replaced":"32 11 16 00 62"}
+
+[END]
+
+Enjoy!

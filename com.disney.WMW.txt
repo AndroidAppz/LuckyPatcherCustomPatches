@@ -1,0 +1,15 @@
+[BEGIN]
+Patch where my water? to buy everything!
+
+by Big Brad Baby
+
+[SQLITE]
+{"database":"/data/data/com.disney.WMW/files/data/water.db"}
+{"execute":"UPDATE HubInfo SET Bought = 1"}
+{"execute":"UPDATE LevelPackInfo SET Bought = 1"}
+{"execute":"UPDATE LevelInfo SET Available = 1"}
+{"execute":"UPDATE CrankyChallengeInfo SET Available = 1"}
+{"execute":"UPDATE AllieChallengeInfo SET Available = 1"}
+
+[END]
+Water are now on the loose!

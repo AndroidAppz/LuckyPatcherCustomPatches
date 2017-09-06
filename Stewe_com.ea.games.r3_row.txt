@@ -1,0 +1,18 @@
+[BEGIN]
+
+♣ Patch By Stewe ♣
+
+With this patch you'll get unlimited money/gold for Real Racing 3 v3.0.1
+
+INSTRUCTIONS:
+1. Open and close game (play a bit the game at least before to apply patch).
+2. Apply patch.
+3. Enjoy!
+
+[OTHER FILES]
+{"name":"/mnt/sdcard/Android/data/com.ea.games.r3_row/doc/character.dat"}
+{"original":"CF 5A 18 EA CF D2 0C 30 54"}
+{"replace_from_file":"Stewe_Real_Racing_3.bin"}
+
+[END]
+PATCHED!

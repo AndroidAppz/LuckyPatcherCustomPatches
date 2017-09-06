@@ -1,0 +1,26 @@
+[BEGIN]
+Microsoft Powerpoint Tablet (In-App Purchase for display > 10.1)
+for version 16.0.6701.1007 +
+Custom Patch created by DeltaFoX/TeamURET at https://www.uret.in
+
+a) Remove 10.1 Limitation
+
+Instructions:
+1.) Download "Microsoft Powerpoint Tablet" from playstore.
+2.) Apply this custom patch.
+3.) Enjoy.
+
+[PACKAGE]
+
+[CLASSES]
+{"original":"00 00 00 62 00 ?? ?? 71 10 57 6B"}
+{"replaced":"?? ?? ?? 12 00 0F 00 ?? ?? ?? ??"}
+
+[END]
+In-App Purchase for display > 10.1
+by DeltaFoX/TeamURET
+
+If Custom patch fails then patch it again.
+or PM me on https://www.uret.in
+
+Enjoy :D

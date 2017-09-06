@@ -1,0 +1,17 @@
+[BEGIN]
+GO Weather EX v5.42 Super VIP Unlocker
+(Maybe > versions)
+
+Patch by rockz5555
+
+Web:
+http://nizwerfreegallery.blogspot.com
+[PACKAGE]
+[CLASSES]
+{"original":"12 00 54 21 6C"}
+{"replaced":"?? 10 ?? ?? ??"}
+[END]
+Now you have → GO Weather EX Super VIP Version!!
+
+Regards,
+★ rockz5555 ★

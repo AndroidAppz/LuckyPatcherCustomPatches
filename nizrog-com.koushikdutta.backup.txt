@@ -1,0 +1,12 @@
+[BEGIN]
+Helium Premium unlocker by nizrog v1.1.4.0
+
+web: http://nizmyfreestuff.blogspot.com
+
+[PACKAGE]
+[CLASSES]
+{"original":"38 01 0A 00 1A 01 26 14"}
+{"replaced":"39 ?? ?? ?? ?? ?? ?? ??"}
+[END]
+
+Premium unlocked.

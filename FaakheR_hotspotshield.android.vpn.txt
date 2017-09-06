@@ -1,0 +1,17 @@
+[BEGIN]
+
+Patch For Hotspot Shield 4.1.8
+Patch By FaakheR Pakistani
+
+[PACKAGE]
+[CLASSES]
+
+{"original":"12 01 ?? ?? ?? ?? 54 ?? ?? 41"}
+{"replaced":"12 11 ?? ?? ?? ?? 54 ?? ?? 41"}
+
+{"original":"0A 03 5C 63 97"}
+{"replaced":"12 13 5C 63 97"}
+
+
+[END]
+Patch by FaakheR Pakistani

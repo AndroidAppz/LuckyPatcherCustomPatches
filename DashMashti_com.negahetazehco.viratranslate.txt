@@ -1,0 +1,28 @@
+[BEGIN]
+*********************************************
+
+* Vira Translate v 1.1.5
+
+* Patch By ===> Dash.Mashti
+
+* Email ===>dash.mashtiii@gmail.com
+
+*********************************************
+[PACKAGE]
+[CLASSES]
+{"original":"38 00 11 00 1A 00 46 02"}
+{"replaced":"39 ?? ?? ?? ?? ?? ?? ??"}
+
+
+{"original":"38 00 09 00 12 10 71 10"}
+{"replaced":"39 ?? ?? ?? ?? ?? ?? ??"}
+
+[END]
+Congratulations! You have cracked Program!
+
+Good Luck!
+dash.mashtiii@gmail.com
+
+
+
+

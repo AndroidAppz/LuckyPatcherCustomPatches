@@ -1,0 +1,16 @@
+[BEGIN]
+ExDialer - Dialer & Contacts 
+version 176+
+Custom Patch created by (GL)MetaApks
+
+[PACKAGE]
+
+[CLASSES]
+{"original":"12 00 28 ?? 01 00 01 00"}
+{"replaced":"12 10 28 ?? 01 00 01 00"}
+
+[END]
+In App Purchases Patched!!
+/(GL)MetaApks @mobilism.org
+Enjoy ;D
+

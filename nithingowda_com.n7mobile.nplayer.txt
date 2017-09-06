@@ -1,0 +1,24 @@
+[BEGIN]
+
+Patch By Nithin Gowda(@Apkmos.com)
+
+Patch For n7 Music Player v2.4.6
+
+<<< Instructions >>>
+1. Install n7 Music Player From Play Store.
+2. Patch It And You Got Premium Version.
+3. If Any Problem,Patch it Again.
+
+[PACKAGE]
+[CLASSES]
+
+{"original":"00 12 10 1A 02"}
+{"replaced":"00 12 00 1A 02"}
+
+{"original":"C2 12 00 28 D7"}
+{"replaced":"C2 12 10 28 D7"}
+
+[END]
+Patched..!!
+Cheers..!!
+By Nithin Gowda (@Apkmos.com)

@@ -1,0 +1,27 @@
+[BEGIN]
+
+Patch is not applicable to the Sygic application
+Patch for Sygic (Truck, Car, Taxi) - by samakard - 1.8.2016
+Download maps for PC downloader
+
++ Patch apk from this custom patch
+
++ For non rooted devices
+Make a backup patched apk from option
+- "Create Modified APK File" -
+Uninstall the original APK and install backup patched APK
+
+
+[LIB]
+{"name":"libAura.so"}
+
+{"original":"1A 24 C0 9D E5 00 00 5C E3 06 00 00"}
+{"replaced":"EA 24 C0 9D E5 00 00 5C E3 06 00 00"}
+
+{"original":"70 00 72 00 6F 00 64 00 75 00 63 00 74 00 73 00 65 00 72 00 76 00 65 00 72 00 2E 00 73 00 79 00 67 00 69 00 63 00 2E 00 63 00 6F 00 6D"}
+{"replaced":"70 00 72 00 6F 00 64 00 75 00 63 00 74 00 73 00 65 00 72 00 76 00 65 00 72 00 2E 00 73 00 79 00 67 00 69 00 63 00 00 00 63 00 6F 00 6D"}
+
+[END]
+
+
+!!! If the text is green, then you have succeeded !!!

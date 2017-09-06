@@ -1,0 +1,10 @@
+[BEGIN]
+Patch for Ragnarok Online Path of heroes
+Disable root detection ~reworked~!
+by CrackingEyes
+[PACKAGE]
+[CLASSES]
+{"original":"6e 10 ?? ?? 0B 00 0C 08 1A 09 ?? ?? 6E 20 ?? ?? 98 00 0C 08 6E 10 ?? ?? 08 00 0C 02"}
+{"replaced": "6e 10 ?? ?? 0B 00 0F 03 1A 09 ?? ?? 6E 20 ?? ?? 98 00 0C 08 6E 10 ?? ?? 08 00 0C 02"}
+[END]
+Glory to the brave!

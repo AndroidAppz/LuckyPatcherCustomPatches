@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="DATA">&lt;root&gt;
+    &lt;GCZ_ICON_NO_02&gt;0&lt;/GCZ_ICON_NO_02&gt;
+    &lt;GCZ_ICON_NO_00&gt;0&lt;/GCZ_ICON_NO_00&gt;
+    &lt;GCZ_FORCE_SEND_STAGECLEARDATA&gt;2.0.3&lt;/GCZ_FORCE_SEND_STAGECLEARDATA&gt;
+    &lt;GCZ_LAST_STARTPHP_CONNECT_APP_VER&gt;2.0.3&lt;/GCZ_LAST_STARTPHP_CONNECT_APP_VER&gt;
+    &lt;SID&gt;d143d4873dd9b987722c94560c13e4599a52c43de6c4658135d2b5737c718d9a&lt;/SID&gt;
+    &lt;UUID&gt;65a2f74c649b4e8c85f1f43273f287cd2f1b46a3d2474050a37f0b81cd847241&lt;/UUID&gt;
+    &lt;pmneo id=&quot;215&quot; date=&quot;201508182208&quot;/&gt;
+&lt;/root&gt;
+    </string>
+</map>

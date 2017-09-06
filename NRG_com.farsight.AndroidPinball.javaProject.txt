@@ -1,0 +1,18 @@
+[BEGIN]
+Patch Pinball Arcade to unlock everything!
+(every table, pro menu, custom balls, movies)
+by energyps2
+
+[SQLITE]
+{"database":"/data/data/com.farsight.AndroidPinball.javaProject/databases/pinballArcade.db"}
+{"execute":"INSERT INTO purchased (_id, quantity) VALUES ('season_pack_1_pro', 1)"}
+{"execute":"INSERT INTO purchased (_id, quantity) VALUES ('season_pack_2_pro', 1)"}
+{"execute":"INSERT INTO purchased (_id, quantity) VALUES ('season_pack_3_pro', 1)"}
+{"execute":"INSERT INTO purchased (_id, quantity) VALUES ('pinball_101', 1)"}
+{"execute":"INSERT INTO purchased (_id, quantity) VALUES ('history_of_pinball_mov', 1)"}
+{"execute":"INSERT INTO purchased (_id, quantity) VALUES ('eyeball_ball', 1)"}
+{"execute":"INSERT INTO purchased (_id, quantity) VALUES ('t2_ball_pack', 1)"}
+{"execute":"INSERT INTO purchased (_id, quantity) VALUES ('season_pack_4_pro', 1)"}
+
+[END]
+Pinball Arcade 100% purchased!

@@ -1,0 +1,19 @@
+[BEGIN]
+OfficeSuite Premium Unlocker
+v8.1.2702 - v8.6.4939
+(Maybe > versions)
+
+Patch by rockz5555
+
+Web:
+http://nizwerfreegallery.blogspot.com
+[PACKAGE]
+[CLASSES]
+{"group":"1"}
+{"original":"12 10 28 ?? 12 00 28 ?? 0D"}
+{"replaced":"?? 20 ?? ?? ?? 20 ?? ?? ??"}
+[END]
+Now you have → OfficeSuite Premium Version!!!
+
+Regards,
+★ rockz5555 ★

@@ -1,0 +1,24 @@
+[BEGIN]
+Delayed Lock (Full Version Unlock)
+for version 3.5.9+
+Custom Patch created by (GL)BigBrother at forum.mobilism.org
+
+Instructions:
+1.) Download "Delayed Lock" from playstore.
+2.) Apply this custom patch or create modified apk from this custom patch.
+3.) Enjoy.
+
+[PACKAGE]
+
+[CLASSES]
+{"original":"34 ?? ?? ?? 12 10 12 01"}
+{"replaced":"34 ?? ?? ?? 12 10 12 11"}
+
+[END]
+In-App purchase Patched
+by (GL)BigBrother at forum.mobilism.org
+
+If Custom patch fails then patch it again.
+or PM me on forum.mobilism.org
+
+Enjoy :D

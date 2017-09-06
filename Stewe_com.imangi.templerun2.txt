@@ -1,0 +1,18 @@
+[BEGIN]
+
+♣ Patch By Stewe ♣
+
+With this patch you'll get unlimited coins/gems for Temple Run 2
+
+INSTRUCTIONS:
+1. Open and close game (play a bit the game at least before to apply patch).
+2. Apply patch.
+3. Enjoy!
+
+[OTHER FILES]
+{"name":"/mnt/sdcard/Android/data/com.imangi.templerun2/files/gamedata.txt"}
+{"original":"7B 22 68 61 73 68 22 3A 22"}
+{"replace_from_file":"Stewe_Temple_Run_2.bin"}
+
+[END]
+PATCHED!

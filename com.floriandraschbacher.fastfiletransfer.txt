@@ -1,0 +1,14 @@
+[BEGIN]
+FastFile Transfer v2.0.1+ Pro Patch
+By: (GL)Silent @Mobilism
+
+[PACKAGE]
+[CLASSES]
+
+{"original":"E9 38 20 00 0A 00"}
+{"replaced":"E9 38 20 00 12 10"}
+
+[END]
+Pro features are unlocked!!
+Enjoy & have fun
+(GL)Silent

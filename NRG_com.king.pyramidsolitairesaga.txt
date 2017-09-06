@@ -1,0 +1,34 @@
+[BEGIN]
+
+Patch By energyps2
+
+For Pyramid Solitaire Saga v1.8.0 and maybe future updates
+- Infinite Lives.
+- Infinite Boosters (you need to have at least ONE).
+- 25 extra cards instead of 5 (booster need to be activated).
+- Instant unlocking of next episode (no waiting time or asking friends for unlock).
+
+<<< Instructions >>>
+1. Install Pyramid Solitaire Saga From Play Store.
+2. Patch It And Guess What "ALL DONE".
+3. If Any Error, Reinstall The Game And Patch it Again.
+
+[LIB]
+{"name":"libpyramidsolitairesaga.so"}
+
+{"original":"24 07 94 E5 10 80 BD E8"}
+{"replaced":"05 00 A0 E3 ?? ?? ?? ??"}
+
+{"original":"01 20 42 E2 C2 2F C2 E1"}
+{"replaced":"00 ?? ?? ?? ?? ?? ?? ??"}
+
+{"original":"05 30 A0 E3 08 10 8D E2"}
+{"replaced":"19 ?? ?? ?? ?? ?? ?? ??"}
+
+{"original":"00 00 ?? E3 0C 00 00 CA ?? 00 A0 E1"}
+{"replaced":"?? ?? ?? ?? 00 ?? A0 E1 ?? ?? ?? ??"}
+
+[END]
+Patched..!!
+Cheers..!!
+By energyps2

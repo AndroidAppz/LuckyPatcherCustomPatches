@@ -1,0 +1,8 @@
+[BEGIN]
+Angry Birds 2 - 9 lives. Apply this patch when you're out of lives.
+[OTHER FILES]
+{"name":"/files/assets_service/GameMasterData.json"}
+{"original":"66 45 6e 65 72 67 79 22 3a 20 **"}
+{"replaced":"66 45 6e 65 72 67 79 22 3a 20 39"}
+[END]
+Congrats! Patched! by LeetPeople

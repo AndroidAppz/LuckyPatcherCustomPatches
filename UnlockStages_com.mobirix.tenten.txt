@@ -1,0 +1,15 @@
+ [BEGIN]
+ This patch will unlock all stage levels of Block Crush King.
+ Working on version 1.0.5. I think it should work in more recent versions but not tested.
+ This patch will not remove google ads! If you want to remove them patch normally ads.
+ 
+ [OTHER FILES]
+{"name":"/files/intData.dat"}
+{"original":"01 00 00 00 ?? ?? ?? ?? 02 00 00 00"}
+{"replaced":"01 00 00 00 C8 00 00 00 02 00 00 00"}
+
+ [END]
+ Patched!
+ made by simoconfa and Sam. Enjoy!
+ 
+ For other patches of this game write to me on Telegram @simoconfa

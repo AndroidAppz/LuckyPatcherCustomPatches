@@ -1,0 +1,26 @@
+[BEGIN]
+
+Patch By energyps2
+
+For Candy Crush Saga v1.39.4 and maybe future updates
+- Owl Never Falls Down.
+- Once You Enter The Moonstruck, It Will Remain Active Till The End Of Level.
+
+<<< Instructions >>>
+1. Install Candy Crush Saga From Play Store.
+2. Patch It And Guess What "ALL DONE".
+3. If Any Error, Reinstall The Game And Patch it Again.
+
+[LIB]
+{"name":"libcandycrushsaga.so"}
+
+{"original":"06 00 50 E1 00 00 A0 A3 01 00 A0 B3 70 80 BD E8"}
+{"replaced":"?? ?? ?? ?? ?? ?? ?? ?? 00 ?? ?? ?? ?? ?? ?? ??"}
+
+{"original":"01 00 80 E2 0C 00 21 E5 05 00 A0 E1"}
+{"replaced":"00 ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ??"}
+
+[END]
+Patched..!!
+Cheers..!!
+By energyps2

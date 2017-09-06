@@ -1,0 +1,20 @@
+[BEGIN]
+
+Patch By Nihon-No-Fanboi @-MM- 
+@(GL)Nihon @Mobilism
+
+For Endomondo sports tracker V9.2.2 ONLY! Endomondo/Endomondo Pro v9.2.2
+is using another custom patch provided in LP!(Android 2.3)
+
+[PACKAGE]
+[CLASSES]
+
+{"original":"0F 00 00 00 12 00 62 01"}
+{"replaced":"0F 00 00 00 12 10 62 01"}
+
+
+[END]
+Horray!
+Now you can enjoy ENDOMONDO PREMIUM FOR FREE!
+Without spending a single BUCK!
+

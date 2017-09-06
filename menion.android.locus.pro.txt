@@ -1,0 +1,12 @@
+[BEGIN]
+Patch for Locus Pro 2.2.1 or Up.
+[CLASSES]
+{"original":"18 00 8D EF 02 D2 00 00 00 00 71 ** ** ** ** ** 0B"}
+{"replaced":"18 00 8D EF 02 D2 00 00 00 00 10 00 00 00 00 00 0B"}
+
+[ODEX]
+[END]
+Congratulations! You have cracked Program!
+Please run Locus Pro!
+Good Luck!
+Chelpus.

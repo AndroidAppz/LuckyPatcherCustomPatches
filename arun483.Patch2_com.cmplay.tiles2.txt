@@ -1,0 +1,15 @@
+﻿[BEGIN]
+This Patch Has been Discontinued.
+Please Use The Mega Patch or Patch 1.
+Regards
+arun483
+
+[OTHER FILES]
+{"name":"/shared_prefs/Cocos2dxPrefsFile.xml"}
+{"original":"3c 69 6e 74 20 6e 61 6d 65 3d 22 43 75 72 48 50 22"}
+{"insert":"3c 69 6e 74 20 6e 61 6d 65 3d 22 43 75 72 48 50 22"}
+
+[END]
+
+from arun483 (XDA)
+PM me if patch is out of date.

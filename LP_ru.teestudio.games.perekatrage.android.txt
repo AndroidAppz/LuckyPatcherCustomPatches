@@ -1,0 +1,9 @@
+[BEGIN] 
+(RU) Этот патч открывает всех йоб и все достижения.
+(EN) This patch unlocks all yobas and all achievements.
+[COPY_FILE] .
+{"file_name":"perekatrage.bin"}
+{"to":"/data/data/ru.teestudio.games.perekatrage.android/shared_prefs/Rage.xml"}
+[END]
+(RU) Сделано! by LeetPeople
+(EN) Done! by LeetPeople

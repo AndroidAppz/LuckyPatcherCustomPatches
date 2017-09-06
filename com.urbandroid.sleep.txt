@@ -1,0 +1,24 @@
+[BEGIN]
+Patch for
+Sleep as Android 20131217
+Sleep as Android 20131116
+to get full version.
+
+[PACKAGE]
+[CLASSES]
+{"group":"1"} // 20131217
+{"original":"5C B6 65 21 54"}
+{"replaced":"?? B8 ?? ?? ??"}
+
+{"group":"1"} // 20131116
+{"original":"5C 43 49 20"}
+{"replaced":"?? 42 ?? ?? ??"}
+
+{"group":"1"} // 20131116
+{"original":"5C C7 49 20 54"}
+{"replaced":"?? C9 ?? ?? ??"}
+
+[END]
+Congratulations!
+You've got the the full Sleep as Android version.
+escor@XDA

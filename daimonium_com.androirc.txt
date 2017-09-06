@@ -1,0 +1,13 @@
+[BEGIN]
+Version: 5.2
+
+Description: patch will upgrade Andro IRC 5.2 to Premium Edition without advertisements (no guarantees that it will work on newest versions)
+
+Creator: Daimonium
+
+[PACKAGE]
+[CLASSES]
+{"original":"12 10 12 01 6E 10 ** ** 06 00 0C 02 39 02 0F 00 1A 01 ** ** 1A 02 ** **"}
+{"replaced":"** 00 ** ** ** ** ** ** ** ** ** ** 32 00 2B ** ** ** ** ** ** ** ** **"}
+
+[END]

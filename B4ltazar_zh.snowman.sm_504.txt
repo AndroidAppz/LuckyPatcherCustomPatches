@@ -1,0 +1,19 @@
+[BEGIN]
+504 Snowman Version 2.11.0627 (Full Version)
+By B4ltazar@zoho.com
+
+<< Instruction >>
+Use this custom patch.
+
+[PACKAGE]
+[CLASSES]
+{"original":"38 04 07 00 12 14 71 10"}
+{"replaced":"00 00 ** ** ** ** ** **"}
+[END]
+
+Patched!!
+504 Snowman Version 2.11.0627 (Full Version)
+By B4ltazar@zoho.com
+
+Congratulations now you're a pirate !!
+Enjoy :D

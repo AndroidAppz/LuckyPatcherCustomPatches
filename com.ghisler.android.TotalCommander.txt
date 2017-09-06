@@ -1,0 +1,11 @@
+[BEGIN]
+Total Commander 2.62 - disable Greenify detection/warning
+
+[PACKAGE]
+
+[CLASSES]
+
+{"original":"63 6F 6D 2E 6F 61 73 69 73 66 65 6E 67 2E 67 72 65 65 6E 69 66 79"}
+{"replaced":"63 6F 6D 2E 6F 61 73 69 73 66 65 6E 67 2E 67 72 65 65 6E 69 66 69"}
+
+[END]

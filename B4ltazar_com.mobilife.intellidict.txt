@@ -1,0 +1,25 @@
+[BEGIN]
+Intelli Dict Version 5.2.2 & 5.3(Full Version)
+By B4ltazar@zoho.com
+
+<< Instruction >>
+Use this custom patch.
+
+[PACKAGE]
+[CLASSES]
+
+{"group":"1"}
+{"original":"52 01 00 0C 01 12 02 72 30 4E 0A 10 02 0A 00 0F 00"}
+{"replaced":"** ** ** ** ** ** ** ** ** ** ** ** ** 12 10 ** **"}
+
+{"group":"1"}
+{"original":"62 00 35 05 22 01 85 0E 1A 02 E0 26 70 20 81 62 21 00 71 00 2D 05 00 00 0C 02 6E 20 89 62 21 00 0C 01 6E 10 96 62 01 00 0C 01 12 02 72 30 A0 0F 10 02 0A 00 0F 00"}
+{"replaced":"** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** 00 00 00 00 00 00 12 10 ** **"}
+
+[END]
+
+Patched!!
+By B4ltazar@zoho.com
+
+Congratulations now you're a pirate !!
+Enjoy :D

@@ -1,0 +1,13 @@
+[BEGIN]
+
+Patch By namok o95 (4pda.ru) for Soumi Music Player only v.2.0.26
+ - Разблокировка премиум версии / Unlocking premium version
+
+[PACKAGE]
+[CLASSES]
+
+{"original":"70 10 08 47 04 00 0E 00 12 00 28 D2 22 00 4B 0B"}
+{"replaced":"?? ?? ?? ?? ?? ?? ?? ?? ?? 10 ?? ?? ?? ?? ?? ??"}
+[END]
+Patched..!!
+Good Luck!

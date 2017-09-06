@@ -1,0 +1,70 @@
+Remove_encryption_by_S-trace_ru.kuchaknig.android.freebooks._%ALL%.txt                                       <
+[BEGIN]
+
+Patch By S-trace
+
+For KuchaKnig.ru (https://play.google.com/store/apps/developer?id=КучаКниг.Ру) free books downloaders
+0. Remove downloaded files encryption (You can find it in /sdcard/Litres/genre/ and open in Your favorite reader)
+1. Enable debug logcat output
+2. Download full book instantly (not trial)
+3. Remove AD
+
+<<< Instructions >>>
+1. Install any KuchaKnig.ru free books downloader from Play Store ( https://play.google.com/store/search?q=ru.kuchaknig.android.freebooks )
+2. Now Patch it.
+3. Remove /sdcard/Litres/genre/ directory
+4. Redownload full books from app - it will be saved as plain .fb2.zip files now
+
+[PACKAGE]
+[CLASSES]
+[CLASSES]
+{"search":"6f ** ** ** ** ** 0c R0 71 ** ** ** ** ** 0c ** 11 R1"}
+{"original":"6f ** ** ** ** ** 0c W0 71 ** ** ** ** ** 0c W1 11 W1"}
+{"replaced":"6f ** ** ** ** ** 0c W0 00 00 00 00 00 00 00 00 11 W0"}
+
+{"original":"22 ** ** ** 54 ** ** ** 6e ** ** ** ** ** 0c ** 70 ** ** ** ** ** 71 ** ** ** ** ** 0c **"}
+{"replaced":"22 ** ** ** 54 ** ** ** 6e ** ** ** ** ** 0c ** 70 ** ** ** ** ** 00 00 00 00 00 00 00 00"}
+
+{"original":"12 ** 6e ** ** ** ** ** 0c ** 71 ** ** ** ** ** 0c ** 28 **"}
+{"replaced":"12 ** 6e ** ** ** ** ** 0c ** 00 00 00 00 00 00 00 00 28 **"}
+
+{"search":"70 ** ** ** ** ** 22 R2 ** ** 70 ** ** ** ** ** 38 ** ** ** 71 ** ** ** ** ** 0c ** 12 ** 23 ** ** **"}
+{"original":"22 W2 ** ** 70 ** ** ** ** ** 38 ** ** ** 71 ** ** ** ** ** 0c W2"}
+{"replaced":"22 W2 ** ** 70 ** ** ** ** ** 38 ** ** ** 00 00 00 00 00 00 00 00"}
+
+{"search":"38 ** ** ** 22 R3 ** ** 70 ** ** ** ** ** 38 ** ** ** 71 ** ** ** ** ** 0c ** 22 ** ** ** 22 ** ** ** 70 ** ** ** ** **"}
+{"original":"22 W3 ** ** 70 ** ** ** ** ** 38 ** ** ** 71 ** ** ** ** ** 0c W3"}
+{"replaced":"22 W3 ** ** 70 ** ** ** ** ** 38 ** ** ** 00 00 00 00 00 00 00 00"}
+
+{"search":"0E 00 22 R4 ** ** 70 ** ** ** ** ** 38 ** ** ** 71 ** ** ** ** ** 0c ** 22 ** ** ** 70 ** ** ** ** ** 70 ** ** ** ** **"}
+{"original":"22 W4 ** ** 70 ** ** ** ** ** 38 ** ** ** 71 ** ** ** ** ** 0c W4"}
+{"replaced":"22 W4 ** ** 70 ** ** ** ** ** 38 ** ** ** 00 00 00 00 00 00 00 00"}
+
+{"search":"22 R5 ** ** 70 ** ** ** ** ** 38 ** ** ** 71 ** ** ** ** ** 0c ** 13 ** ** ** 02 ** ** **"}
+{"original":"22 W5 ** ** 70 ** ** ** ** ** 38 ** ** ** 71 ** ** ** ** ** 0c W5"}
+{"replaced":"22 W5 ** ** 70 ** ** ** ** ** 38 ** ** ** 00 00 00 00 00 00 00 00"}
+
+{"search":"38 ** ** ** 22 R6 ** ** 70 ** ** ** ** ** 38 ** ** ** 71 ** ** ** ** ** 0c ** 22 ** ** ** 22 ** ** ** 08 ** **"}
+{"original":"22 W6 ** ** 70 ** ** ** ** ** 38 ** ** ** 71 ** ** ** ** ** 0c W6"}
+{"replaced":"22 W6 ** ** 70 ** ** ** ** ** 38 ** ** ** 00 00 00 00 00 00 00 00"}
+
+{"search":"22 R7 ** ** 70 ** ** ** ** ** 38 ** ** ** 71 ** ** ** ** ** 0c ** 22 ** ** ** 70 ** ** ** ** ** 22 ** ** **"}
+{"original":"22 W7 ** ** 70 ** ** ** ** ** 38 ** ** ** 71 ** ** ** ** ** 0c W7"}
+{"replaced":"22 W7 ** ** 70 ** ** ** ** ** 38 ** ** ** 00 00 00 00 00 00 00 00"}
+
+{"search":"0e 00 6e R8 R9 ** ** ** 28 ** 6e ** ** ** ** ** 28 **"}
+{"original":"0e 00 6e W8 W9 ** ** ** 28 ** 6e ** ** ** ** ** 28 **"}
+{"replaced":"0e 00 6e W8 W9 ** ** ** 28 ** 6e W8 W9 ** ** ** 28 **"}
+
+{"original":"6e 20 ?? ?? 21 00 12 01 71 10"}
+{"replaced":"6e 20 ?? ?? 21 00 12 11 71 10"}
+
+{"original":"71 00 ?? ?? 00 00 0a 00 3d 00 04 00 12 10 0f 00 12 00 28 fe"}
+{"replaced":"71 00 ?? ?? 00 00 0a 00 3d 00 04 00 12 10 0f 00 12 10 28 fe"}
+
+
+[END]
+
+Patched..!!
+Cheers..!!
+

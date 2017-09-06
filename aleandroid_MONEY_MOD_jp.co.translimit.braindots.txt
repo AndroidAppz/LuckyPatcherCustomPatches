@@ -1,0 +1,23 @@
+﻿[BEGIN]
+Author: AleX @ www.aleandroid.com
+Target: Brain Dots v2.6.2
+Crack: Library modification
+Effect: Unlimited coins!
+------------------------------------------------
+Instructions:
+Just apply this custom patch 
+or rebuild the app with it.
+------------------------------------------------
+[LIB]
+{"name":"libcocos2dcpp.so"}
+{"original":"00 48 2D E9 04 B0 8D E2 08 D0 4D E2 08 00 0B E5 08 30 1B E5 20 30 93 E5 03 00 A0 E1 34 44 00 EB 00"}
+{"replaced":"08 04 A0 E3 1E FF 2F E1 ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** **"}
+
+[ADD-BOOT]
+[END]
+------------------------------------------------
+Patched!
+Enjoy ;)
+------------------------------------------------
+AleX
+------------------------------------------------

@@ -1,0 +1,22 @@
+[BEGIN]
+
+Patch By energyps2
+
+For Diner Dash 2015 v1.1.0 and maybe future updates
+- After you finish one level succesfully you will rewarded with lots of coins, energy and dinero.
+
+<<< Instructions >>>
+1. Install Diner Dash 2015 From Play Store.
+2. Patch It And Guess What "ALL DONE".
+3. If Any Error, Reinstall The Game And Patch it Again.
+
+[LIB]
+{"name":"libpfgame.so"}
+
+{"original":"00 6A 70 47 24 30 70 47 28 30 70 47 2C 30 70 47 00 6B 70 47 40 6B 70 47"}
+{"replaced":"?? 62 ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? 63 ?? ?? ?? 63 ?? ??"}
+
+[END]
+Patched..!!
+Cheers..!!
+By energyps2

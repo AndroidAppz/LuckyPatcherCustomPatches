@@ -1,0 +1,27 @@
+[BEGIN]
+Patch for version: CustomWeather 1.27
+***************************
+Cracked by Orion2011.****Private****
+
+[CLASSES]
+{"original":"71 30 d8 0a 21 03 38 09 04"}
+{"replaced":"00 00 00 00 00 00 ** ** **"}
+
+{"original":"62 01 01 04 70 30 da 08"}
+{"replaced":"0e 00 ** ** ** ** ** **"} 
+
+{"original":"38 09 04 00 33 59 09 00"}
+{"replaced":"29 ** ** ** ** ** ** **"} 
+
+{"original":"33 59 bc 00 22 00 88 00 13"}
+{"replaced":"29 00 ** ** ** ** ** ** **"} 
+
+{"original":"38 09 06 00 32 49 04 00 33 59"}
+{"replaced":"00 00 00 00 00 00 00 00 ** **"} 
+ 
+{"original":"3d 04 0a 00 13"}
+{"replaced":"29 00 ** ** **"} 
+ 
+ 
+[END]
+Congratulations! Program cracked!

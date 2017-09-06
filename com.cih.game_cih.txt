@@ -1,0 +1,9 @@
+[BEGIN]
+Patch for GameCIH 3.0.0 (Full Hidden Mode) Enable the Hidden Mode without an Internet connection.
+by Nihilus
+[PACKAGE]
+[CLASSES]
+{"original":"39 08 03 00 11 07 1a 08"}
+{"replaced":"1a 07 a2 05 11 07 1a 08"}
+[END]
+Congratulations! Have Fun!  by Nihilus

@@ -1,0 +1,17 @@
+﻿[BEGIN]
+File Commander Premium Unlocker
+v3.6.13988
+(Maybe > versions)
+
+Patch by CodeLyokoX Team
+
+[PACKAGE]
+[CLASSES]
+{"group":"1"}
+{"original":"12 10 28 F3 12 00 28 F1 0D"}
+{"replaced":"?? 20 ?? ?? ?? 20 ?? ?? ??"}
+[END]
+Now you have → File Commander Premium Version!!!
+
+Regards,
+★ CodeLyokoX Team ★

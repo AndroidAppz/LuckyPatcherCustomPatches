@@ -1,0 +1,19 @@
+[BEGIN]
+
+Patch By Silent_Assassin @-MM- 
+@(GL)Silent @Mobilism
+
+For Ampilfy V2.0.7+
+
+[PACKAGE]
+[CLASSES]
+
+{"original":"54 10 43 29 72 20 A2 7A 20 00 0A 00"}
+{"replaced":"54 10 43 29 72 20 A2 7A 20 00 12 10"}
+
+
+[END]
+Pro features unlocked!
+Enjoy & have fun!
+Silent_Assassin
+

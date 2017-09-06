@@ -1,0 +1,19 @@
+[BEGIN]
+X-plore Donate Unlocker
+v3.68.00 - v3.74.20
+(Maybe > versions)
+
+Patch by rockz5555
+
+Web:
+http://nizwerfreegallery.blogspot.com
+[PACKAGE]
+[CLASSES]
+{"original":"12 00 ?? ?? ?? ?? 54 12"}
+{"replaced":"?? 50 ?? ?? ?? ?? ?? ??"}
+[END]
+Now you have → X-plore Donated Version!!!
+
+Regards,
+★ rockz5555 ★
+

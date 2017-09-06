@@ -1,0 +1,16 @@
+[BEGIN]
+Version: 1.6.2.3
+
+Description: patch will upgrade Aqua Mail 1.6.2.3 to Pro Edition (no guarantees that it will work on newest versions)
+
+Creator: Daimonium
+
+[PACKAGE]
+[CLASSES]
+{"original":"12 10 52 51 ** ** 33 01 ** 00 53 52 ** ** 31 01 06 02 ** 01 03 00 0F 00 12 00 28 FE"}
+{"replaced":"** ** ** ** ** ** 33 00 ** ** ** ** ** ** 12 ** 00 00 ** ** ** ** ** ** ** ** ** **"}
+
+{"original":"54 30 ** ** 1A 01 ** ** 12 02 72 30 ** 02 10 02 0C 00 11 00"}
+{"replaced":"** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** 01"}
+
+[END]

@@ -1,0 +1,19 @@
+[BEGIN]
+
+Patch By Nihon-No-Fanboi @-MM- 
+@(GL)Nihon @Mobilism
+
+
+
+[PACKAGE]
+[CLASSES]
+
+{"original":"0A 00 39 00 04 00 12 10 0F 00 12 00 28 FE 03 00 01 00 00 00 00"}
+{"replaced":"0A 00 39 00 04 00 12 10 0F 00 12 10 28 FE 03 00 01 00 00 00 00"}
+
+{"original":"41 33 10 04 00 12 10 0F 00 12 00 28 FE 03 00 01 00 00 00 00 00"}
+{"replaced":"41 33 10 04 00 12 10 0F 00 12 10 28 FE 03 00 01 00 00 00 00 00"}
+
+[END]
+DONE!
+

@@ -1,0 +1,30 @@
+[BEGIN]
+
+Patch By Jasi2169
+
+For MX Player Pro v1.7.30 For License Verification.
+
+<<< Instructions >>>
+1. Install MX Player Pro.
+2. Open It With Internet "ON" And Close It.
+3. Now Patch It And Guess What "LICENSE VERIFIED".
+4. If Any Problem,Patch it Again.
+
+[SET_PERMISSIONS]
+{"file_name":"/files/stats"}
+{"permissions":"777"}
+
+[OTHER FILES]
+{"name":"/files/stats"}
+
+{"original":"4D 4D 46 31"}
+{"replace_from_file":"JASI2169_MXPLAYERPRO.bin"}
+
+[SET_PERMISSIONS]
+{"file_name":"/files/stats"}
+{"permissions":"444"}
+
+[END]
+Patched..!!
+Cheers..!!
+By Jasi2169

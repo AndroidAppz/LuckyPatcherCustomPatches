@@ -1,0 +1,25 @@
+[BEGIN]
+
+Patch for Sygic - by samakard - 1.8.2016
+Download maps for PC downloader
+
++ Patch apk from this custom patch.
+
++ For non rooted devices
+Make a backup patched apk from option
+- "Create Modified APK File" -
+Uninstall the original APK and install backup patched APK.
+
+
+[LIB]
+{"name":"libAura.so"}
+
+{"original":"1A 28 30 9D E5 00 00 53 E3 06 00 00"}
+{"replaced":"EA 28 30 9D E5 00 00 53 E3 06 00 00"}
+
+{"original":"61 00 70 00 70 00 49 00 44 00"}
+{"replaced":"49 00 70 00 70 00 49 00 44 00"}
+
+[END]
+
+!!! If the text is green, then you have succeeded !!!

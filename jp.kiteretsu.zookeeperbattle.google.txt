@@ -1,0 +1,34 @@
+[BEGIN]
+
+Patch Made By Jack Barrett@XDA
+
+Thanks To Jasi2169
+
+For Zookeeper Battle v2.8.4  For ARMv7
+- Unlimited CP
+
+<<< Instructions >>>
+1. Install Zookeeper Battle From Play Store.
+2. Patch It And Guess What "ALL DONE".
+3. If Any Problem,Reinstall The Game And Patch it Again.
+
+[LIB]
+{"name":"libgame.so"}
+
+{"original":"AB 42 2F DA 23 68 20 46 18 49 00 25 01 AE D3 F8"}
+{"replaced":"9B 42 2F DA 23 68 20 46 18 49 00 25 01 AE D3 F8"}
+
+{"original":"00 28 35 D0 20 46 1E 49 50 F1 F7 F9 05 46 00 20"}
+{"replaced":"9B 42 35 D0 20 46 1E 49 50 F1 F7 F9 05 46 00 20"}
+
+{"original":"96 F9 1D 52 06 E0 D4 F8 90 51 00 2D 0C BF 4D 46"}
+{"replaced":"00 00 CB 25 06 E0 D4 F8 90 51 00 2D 0C BF 4D 46"}
+
+{"original":"00 28 3D D0 2B 68 00 21 28 46 01 AF D3 F8 40 31"}
+{"replaced":"9B 42 3D D0 2B 68 00 21 28 46 01 AF D3 F8 40 31"}
+
+[ADD-BOOT]
+
+[END]
+Patched..!! ENJOY BROTHERS
+By Jack Barrett@XDA

@@ -1,0 +1,19 @@
+[BEGIN]
+Patch for "Math trick" 9.0 (and up), (and down)
+Infinit Money!!!
+
+1- Install "Math trick" from google play
+2- Run "Math trick" and play it
+3- Run this custom patch
+4- Enjoy!
+
+This patch don't work on "create modified apk"
+
+[OTHER FILES]
+{"name":"/data/data/example.matharithmetics/shared_prefs/example.matharithmetics_preferences.xml"}
+{"original":"75 6e 74 22 20 76 61 6c 75 65 3d 22"}
+{"insert":"75 6e 74 22 20 76 61 6c 75 65 3d 22 39 39 39 39"}
+
+[END]
+You have 9999+ Money
+Patch by Ublim

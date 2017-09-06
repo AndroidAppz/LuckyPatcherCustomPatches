@@ -1,0 +1,13 @@
+[BEGIN]
+Version: 3.10.1
+
+Description: patch will disable informing about screenshot making into secret chats of Telegram 3.10.1 (no guarantees that it will work on newest versions)
+
+Creator: Daimonium
+
+[PACKAGE]
+[CLASSES]
+{"original":"12 ** 12 ** 20 ** ** ** 39 ** ** ** 0E ** 52 ** ** ** 71 ** ** ** ** ** 0A ** 13 ** ** ** 34 ** ** ** 22 ** ** ** 70 ** ** ** ** ** 38 0F"}
+{"replaced":"** ** ** ** ** ** ** ** 33 ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** **"}
+
+[END]

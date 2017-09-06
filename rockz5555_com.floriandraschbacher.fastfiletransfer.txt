@@ -1,0 +1,17 @@
+﻿[BEGIN]
+FastFileTransfer Pro Unlocker v2.0.2
+(Maybe > versions)
+
+Patch by rockz5555
+
+Web:
+http://nizwerfreegallery.blogspot.com
+[CLASSES]
+{"original":"72 20 EE 38 20 00 0A 00 0F 00"}
+{"replaced":"?? ?? ?? ?? ?? ?? 12 10 ?? ??"}
+[ADD-BOOT]
+[END]
+Now you have → FastFileTransfer Pro Version!!!
+
+Regards,
+★ rockz5555 ★

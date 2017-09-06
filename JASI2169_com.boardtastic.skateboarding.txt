@@ -1,0 +1,27 @@
+[BEGIN]
+
+Patch By Jasi2169 (Find Me On Xda-Developers.Com)
+
+For Boardtastic Skateboarding 2 v3.2.3
+
+For Unlimited Cash And Gold ;)
+
+<<< Instructions >>>
+1. Install Boardtastic Skateboarding 2 From Play Store.
+2. Now Open It And Then Close It.
+3. Now Patch It And Guess What "Have Fun Buddies".
+4. If Any Problem,Patch it Again.
+
+[OTHER FILES]
+{"name":"/files/game_state.dat"}
+{"original":"07 0F 51 D5"}
+{"replace_from_file":"JASI2169_Boardtastic.bin"}
+
+[SET_PERMISSIONS]
+{"file_name":"/files/game_state.dat"}
+{"permissions":"444"}
+
+[END]
+Patched..!!
+Cheers..!!
+By Jasi2169

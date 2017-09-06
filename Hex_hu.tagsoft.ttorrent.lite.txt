@@ -1,0 +1,13 @@
+[BEGIN]
+Patch tTorrent lite
+By: Hex
+[PACKAGE]
+
+[CLASSES]
+{"original":"0c 02 39 02 60 00 1a 00"}
+{"replaced":"0c 02 39 02 5a 00 1a 00"}
+
+[END]
+tTorrent lite patched to tTorrent Pro 
+hex007 @ Market Militia
+Enjoy & Have Fun

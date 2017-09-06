@@ -1,0 +1,24 @@
+[BEGIN]
+
+
+Patcher para: Dream League Soccer (Todas Versão).
+- 999888777 Coins.
+
+<<< Instrução >>>
+1. Instale o Dream League Soccer pela  Play Store.
+2. Now open it and choose your captain and close it. 
+(you may need to clear app data if patch doesn't works for you).
+3. Now Close it and patch it.
+
+[COPY_FILE]
+{"file_name":"FranWalker_dlsa.bin"}
+{"to":"/data/data/com.firsttouchgames.dlsa/shared_prefs/com.First Touch Games.FTS.UnlockStuffDictionary.xml"}
+
+[END]
+Concluído! 
+
+Parabéns agora você tem Dream League Soccer com 999888777 coins! 
+
+Patcher by: Francisley Walker
+
+Site: http://iAndroidHacker.heck.in

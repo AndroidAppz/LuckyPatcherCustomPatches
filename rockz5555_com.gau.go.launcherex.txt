@@ -1,0 +1,20 @@
+[BEGIN]
+Go Launcher Prime Unlocker v5.15
+(Maybe > versions)
+
+Patch by rockz5555
+
+Web:
+http://nizwerfreegallery.blogspot.com
+[PACKAGE]
+[CLASSES]
+{"original":"B6 30 39 00 19 00 33 57"}
+{"replaced":"12 10 ?? ?? ?? ?? ?? ??"}
+[END]
+Now you have → Go Launcher Prime!!
+
+NOTE:
+** FORCE STOP GO LAUNCHER NOW **
+
+Regards,
+★ rockz5555 ★

@@ -1,0 +1,30 @@
+[BEGIN]
+
+Patch By energyps2
+
+For Frozen Free Fall v2.2.1 and maybe future updates
+- Infinite Boosters (100.000 in fact, you can patch every time you need more)
+- 999 Lives
+
+<<< Instructions >>>
+1. Install Frozen Free Fall From Play Store.
+2. Open It And Play Until You Receive Or Have At Least One Booster.
+3. Close It, Patch It And Guess What "ALL DONE".
+4. If Any Error, Reinstall The Game And Patch it Again.
+
+[OTHER FILES]
+{"name":"/mnt/sdcard/Android/data/com.disney.frozensaga_goo/files/Local.tmp"}
+
+{"original":"?? ?? ?? 3F ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ??"}
+{"replaced":"?? ?? ?? ?? A0 86 01 ?? A0 86 01 ?? A0 86 01 ?? A0 86 01 ??"}
+
+[OTHER FILES]
+{"name":"/data/data/com.disney.frozensaga_goo/shared_prefs/com.disney.frozensaga_goo.xml"}
+
+{"original":"22 4C 69 76 65 73 22 20 76 61 6C 75 65 3D 22 ?? 22"}
+{"insert":"?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? 39 39 39 22"}
+
+[END]
+Patched..!!
+Cheers..!!
+By energyps2

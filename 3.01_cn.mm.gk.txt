@@ -1,0 +1,8 @@
+[BEGIN]
+GameKiller 3.01 full version unlocker
+[CLASSES]
+{"original":"12 01 12 10 71 ?? ?? ?? ?? ?? 0C ?? 12 03 70"}
+{"replaced":"12 10 33 00 04 00 0F 00 00 00 00 00 ** ** **"}
+{"original":"13 ?? 2C 00 12 11 12 00 39 ?? ?? ?? 0F 00"}
+{"replaced":"12 00 33 00 04 00 0F 00 ** ** ** ** ** **"}
+[END]

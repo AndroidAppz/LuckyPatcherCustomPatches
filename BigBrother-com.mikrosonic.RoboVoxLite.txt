@@ -1,0 +1,24 @@
+[BEGIN]
+RoboVox Voice Changer Lite (All In-App Purchase Unlock)
+for version 1.8.0+
+Custom Patch created by (GL)BigBrother at forum.mobilism.org
+
+Instructions:
+1.) Download "RoboVox Voice Changer Lite" from playstore.
+2.) Apply this custom patch or create modified apk from this custom patch.
+3.) Enjoy.
+
+[PACKAGE]
+
+[CLASSES]
+{"original":"D2 11 B3 00 32 ?? ?? ?? 12 10"}
+{"replaced":"D2 11 B3 00 32 ?? ?? ?? 12 00"}
+
+[END]
+All In-App purchase Patched
+by (GL)BigBrother at forum.mobilism.org
+
+If Custom patch fails then patch it again.
+or PM me on forum.mobilism.org
+
+Enjoy :D

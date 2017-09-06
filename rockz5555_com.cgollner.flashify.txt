@@ -1,0 +1,22 @@
+[BEGIN]
+Flashify Premium Unlocker
+
+Patch by rockz5555
+
+Web:
+http://nizwerfreegallery.blogspot.com
+[CLASSES]
+{"original":"6A 00 33 15"}
+{"replaced":"?? 10 ?? ??"}
+
+{"original":"6A 00 34 15"}
+{"replaced":"00 00 00 00"}
+
+{"original":"12 10 6A 00 F2 14 12 00"}
+{"replaced":"?? 00 ?? ?? ?? ?? ?? ??"}
+[ADD-BOOT]
+[END]
+Now you have → Flashify Premium Version!!!
+
+Regards,
+★ rockz5555 ★

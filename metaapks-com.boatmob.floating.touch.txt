@@ -1,0 +1,13 @@
+[BEGIN]
+Floating Toucher
+Ver 2.9+
+
+[PACKAGE]
+[CLASSES]
+
+{"original":"3C ?? ?? ?? 12 10 12 01"}
+{"replaced":"3C ?? ?? ?? 12 10 12 11"}
+
+[END]
+In App Purchases Patched.Enjoy Premium features :D
+/(GL)MetaApks

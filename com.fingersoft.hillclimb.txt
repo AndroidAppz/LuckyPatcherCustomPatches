@@ -1,0 +1,15 @@
+[BEGIN]
+Unlimited fuel for Hill Climb Racing 1.17.0 (ARMv7) by b00j_
+
+[LIB]
+{"name":"libgame.so"}
+{"original":"89 9A 84 ED"}
+{"replaced":"00 00 A0 E1"}
+
+{"original":"1C 00 00 0A 28 21"}
+{"replaced":"1C 00 00 EA 28 21"}
+
+[ADD-BOOT]
+
+[END]
+Patch by b00j_

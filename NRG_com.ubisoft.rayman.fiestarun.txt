@@ -1,0 +1,22 @@
+[BEGIN]
+
+Patch By energyps2
+
+For Rayman Fiesta Run v1.2.2 And Maybe Future Updates
+- Infinite Lives
+
+<<< Instructions >>>
+1. Install Rayman Fiesta Run From Play Store.
+2. Patch It And Guess What "ALL DONE".
+3. If Any Error, Reinstall The Game And Patch it Again.
+
+[LIB]
+{"name":"libRO1Mobile.so"}
+
+{"original":"06 00 00 0A 01 10 A0 E3 5F"}
+{"replaced":"00 00 A0 E1 ?? ?? ?? ?? ??"}
+
+[END]
+Patched..!!
+Cheers..!!
+By energyps2

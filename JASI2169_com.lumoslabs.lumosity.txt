@@ -1,0 +1,24 @@
+[BEGIN]
+
+Patch By Jasi2169
+
+For Lumosity v1.0.179 To Premium Version.
+For Lifetime (No Subscription Per Year Required Afterwards)
+
+<<< Instructions >>>
+1. Install Lumosity From Play Store.
+2. Now Login To Your Account In The App.
+3. Patch It And You Got Lifetime Subscription (Saved $60 Per Year) ;)
+4. NOTE :- DONT CLICK (APP MENU > ACCOUNT).
+5. If Any Problem,Patch it Again.
+
+[PACKAGE]
+[CLASSES]
+
+{"original":"0A 00 0F 00 00 00 ?? 00 ?? 00 00 00 00 00 ?? ?? ?? 00 ?? 00 00 00 55 ?? ?? ?? 0F 00 00 00"}
+{"replaced":"0A 00 0F 00 00 00 ?? 00 ?? 00 00 00 00 00 ?? ?? ?? 00 04 ?? ?? ?? 12 00 00 00 00 00 0F 00"}
+
+[END]
+Patched..!!
+Cheers..!!
+By Jasi2169

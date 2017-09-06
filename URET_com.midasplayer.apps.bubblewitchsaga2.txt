@@ -1,0 +1,26 @@
+[BEGIN]
+
+Patch By DeltaFoX/TeamURET
+
+For Bubble Witch Saga 2 v1.44.2 and maybe future updates
+- Infinite Lives.
+- Infinite Boosters (you need to have at least ONE).
+
+<<< Instructions >>>
+1. Install Bubble Witch Saga 2 From Play Store.
+2. Patch It And Guess What "ALL DONE".
+3. If Any Error, Reinstall The Game And Patch it Again.
+
+[LIB]
+{"name":"libbubblewitchsaga2.so"}
+              
+{"original":"01 00 A0 13 1E FF 2F E1 18"}
+{"replaced":"?? ?? ?? E3 ?? ?? ?? ?? ??"}
+
+{"original":"04 00 A0 E1 C3 3F C3 E1"}
+{"replaced":"?? ?? ?? ?? 05 30 A0 E3"}
+
+[END]
+Patched..!!
+Cheers..!!
+By DeltaFoX/TeamURET on http://www.uret.in

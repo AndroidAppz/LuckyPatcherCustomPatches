@@ -1,0 +1,38 @@
+[BEGIN]
+
+Patch By energyps2
+
+For Candy Crush Saga v1.39.4 and maybe future updates
+- Infinite Lives.
+- Infinite Boosters (you need to have at least ONE).
+- Infinite Lollipop.
+- Infinite Free Switches.
+- Infinite Bomb's Timer.
+
+<<< Instructions >>>
+1. Install Candy Crush Saga From Play Store.
+2. Patch It And Guess What "ALL DONE".
+3. If Any Error, Reinstall The Game And Patch it Again.
+
+[LIB]
+{"name":"libcandycrushsaga.so"}
+
+{"original":"88 00 91 E5 1E FF 2F E1"}
+{"replaced":"03 ?? A0 E3 ?? ?? ?? ??"}
+
+{"original":"C4 00 91 E5 1E FF 2F E1"}
+{"replaced":"03 ?? A0 E3 ?? ?? ?? ??"}
+
+{"original":"08 50 94 E5 00 60 66 E0"}
+{"replaced":"?? ?? ?? ?? 05 ?? A0 E3"}
+
+{"original":"01 00 40 C2 04 00 83 C5"}
+{"replaced":"03 ?? A0 E3 ?? ?? ?? ??"}
+
+{"original":"01 00 40 E2 ?? ?? ?? ?? 07 00 A0 E1 ?? ?? ?? ?? 01 50 85 E2"}
+{"replaced":"00 ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ??"}
+
+[END]
+Patched..!!
+Cheers..!!
+By energyps2

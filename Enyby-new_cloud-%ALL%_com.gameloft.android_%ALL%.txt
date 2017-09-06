@@ -1,0 +1,22 @@
+[BEGIN]
+Change cloud account id for Gameloft games.
+
+Progress erased. Ban for account erased.
+
+Worked for any games from Gameloft with cloud accounts.
+
+Need Lucky Patcher at least v4.9.7
+
+v1.10
+
+[SQLITE]
+{"database":"/data/data/%PACKAGE_NAME%/databases/gameloft_sharing"}
+
+{"execute":"UPDATE glshare SET value = '{\"data\":\"' || HEX(RANDOMBLOB(11)) || '\",\"gen\":1,\"password\":\"' || HEX(RANDOMBLOB(3)) || '\",\"pck_name\":\"\",\"time\":\"\",\"ver\":1}' WHERE key = SUBSTR('%PACKAGE_NAME%', 22) || '_GAIA_ANON_GLUID'"}
+
+{"execute":"UPDATE glshare SET value = (SELECT value FROM glshare WHERE key = SUBSTR('%PACKAGE_NAME%', 22) || '_GAIA_ANON_GLUID') WHERE key = SUBSTR('%PACKAGE_NAME%', 22) || '_GAIA_ENC_KEY_GLUID'"}
+
+[END]
+Congratulations! You have new cloud account in game!
+
+Patch created by Enyby for 4pda.ru

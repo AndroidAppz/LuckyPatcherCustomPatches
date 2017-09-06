@@ -1,0 +1,22 @@
+[BEGIN]
+
+** Patch Updated! It works now. ** 
+
+App Maker ver 1.1 (Full Version)
+By B4ltazar@zoho.com
+
+<< Instruction >>
+Use this custom patch.
+
+[PACKAGE]
+[CLASSES]
+{"original":"6E 10 0D 01 05 00 0C 02 1A 03 29 1D 71 20 1F 04 32 00 0C 02 6E 10 23 3B 02 00 0C 01 12 02 6E 20 0C 3B 21 00 0A 02 12 33 6E 20 0C 3B 31 00 0A 03 B0 32 12 53 6E 20 0C 3B 31 00 0A 03 B0 32 13 03 08 00 6E 20 0C 3B 31 00 0A 03 B0 32 13 03 09 00 6E 20 0C 3B 31 00 0A 03 90 00 02 03 DB 02 04 77 B3 02 0F 02"}
+{"replaced":"6E 10 0D 01 05 00 0C 02 1A 03 29 1D 71 20 1F 04 32 00 0C 02 6E 10 23 3B 02 00 0C 01 12 02 6E 20 0C 3B 21 00 0A 02 12 33 6E 20 0C 3B 31 00 0A 03 B0 32 12 53 6E 20 0C 3B 31 00 0A 03 B0 32 13 03 08 00 6E 20 0C 3B 31 00 0A 03 B0 32 13 03 09 00 6E 20 0C 3B 31 00 0A 03 90 00 02 03 DB 02 04 77 12 32 0F 02"}
+
+[END]
+In-App Purchase Patched
+App Maker ver 1.1 (Full Version)
+By B4ltazar@zoho.com
+
+Congratulations now you're a pirate !!
+Enjoy :D

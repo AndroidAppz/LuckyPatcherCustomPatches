@@ -1,0 +1,27 @@
+[BEGIN]
+ShareDownloader (In-App Purchase Unlock)
+for version 2.3.1+
+Custom Patch created by (GL)BigBrother at forum.mobilism.org
+
+Instructions:
+1.) Download "ShareDownloader" from playstore.
+2.) Apply this custom patch or create modified apk from this custom patch.
+3.) Enjoy.
+
+[PACKAGE]
+
+[CLASSES]
+{"original":"BC ?? ?? ?? 12 12 12 01"}
+{"replaced":"BC ?? ?? ?? 12 12 12 11"}
+
+{"original":"6E 20 ?? ?? 10 00 0A 00 38 00 ?? 00 54 20 ?? ?? 1A 01"}
+{"replaced":"6E 20 ?? ?? 10 00 12 10 38 00 ?? 00 54 20 ?? ?? 1A 01"}
+
+[END]
+In-App purchase Patched
+by (GL)BigBrother at forum.mobilism.org
+
+If Custom patch fails then patch it again.
+or PM me on forum.mobilism.org
+
+Enjoy :D

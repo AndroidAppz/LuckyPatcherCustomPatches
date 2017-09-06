@@ -1,0 +1,16 @@
+[BEGIN]
+
+Patch For All-In-One Toolbox (Cleaner) v5.2.4
+Patch By Decrypt Master
+
+
+[PACKAGE]
+[CLASSES]
+
+{"original":"00 CC 99 6E 20 E4 01 02 00 0C 00 12 01 71 30 D2 44 02 01 0A 00 0F 00"}
+{"replaced":"00 CC 99 6E 20 E4 01 02 00 0C 00 12 01 71 30 D2 44 02 01 12 01 0F 00"}
+
+[END]
+Patched..!!
+Cheers..!!
+By Decrypt Master

@@ -1,0 +1,21 @@
+[BEGIN]
+
+Patch By Jasi2169
+
+For Rotation - Orientation Manager v2.9 To Full Version.
+
+<<< Instructions >>>
+1. Install Rotation - Orientation Manager From Play Store.
+2. Patch It And You Got Full Version And Trial Limitations Removed.
+3. If Any Problem,Patch it Again.
+
+[PACKAGE]
+[CLASSES]
+
+{"original":"6E ?? ?? 00 ?? ?? 0A 00 39 00 ?? 00 12 10 0F 00 12 00"}
+{"replaced":"?? ?? ?? 00 ?? ?? ?? 00 ?? 00 ?? 00 ?? ?? ?? 00 12 10"}
+
+[END]
+Patched..!!
+Cheers..!!
+By Jasi2169

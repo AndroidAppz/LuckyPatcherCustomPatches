@@ -1,0 +1,27 @@
+[BEGIN]
+*********************************************
+
+* jhoobin v 5.0.5.bazaar
+
+* Patch By ===> Dash.Mashti
+
+* Email ===>dash.mashtiii@gmail.com
+
+*********************************************
+[PACKAGE]
+
+[CLASSES]
+
+{"original":"38 02 24 00 71 10 98 6A 05 00 0C 04 6E 20 21 66 24 00 0A 02 38 02 1A 00 01 02 39 02 22 00 1A"}
+{"replaced":"39 02 24 00 71 10 98 6A 05 00 0C 04 6E 20 21 66 24 00 0A 02 39 02 1A 00 01 02 39 02 22 00 1A"}
+
+
+[END]
+Congratulations! You have cracked Program!
+
+Good Luck!
+dash.mashtiii@gmail.com
+
+
+
+

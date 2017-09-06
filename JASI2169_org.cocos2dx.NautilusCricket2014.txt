@@ -1,0 +1,23 @@
+[BEGIN]
+
+Patch By Jasi2169
+
+For Real Cricket 14 v2.0.4
+
+For Unlmited Coins And Everything Unlocked ;)
+
+<<< Instructions >>>
+1. Install Real Cricket 14 From Play Store.
+2. Now Open It And Then Close It.
+3. Now Patch It And Guess What "ALL DONE".
+4. If Any Problem,Patch it Again.
+
+[OTHER FILES]
+{"name":"/shared_prefs/Cocos2dxPrefsFile.xml"}
+{"original":"3C 3F 78 6D"}
+{"replace_from_file":"JASI2169_Real_Cricket_14.bin"}
+
+[END]
+Patched..!!
+Cheers..!!
+By Jasi2169

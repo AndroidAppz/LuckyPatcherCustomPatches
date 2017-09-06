@@ -1,0 +1,10 @@
+[BEGIN]
+Patch for Ragnarok Online War of gods
+Disable root detection!
+by CrackingEyes
+[PACKAGE]
+[CLASSES]
+{"original":"13 0A ?? ?? 12 03 71 00 ?? ?? 00 00 0C 08 1A 09 ?? ?? 6E 20 ?? ?? 98 00 12 13"}
+{"replaced":"13 0A ?? ?? 12 03 71 00 ?? ?? 00 00 0F 03 1A 09 ?? ?? 6E 20 ?? ?? 98 00 12 13"}
+[END]
+Glory to the brave!

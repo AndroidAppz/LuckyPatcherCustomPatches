@@ -1,0 +1,17 @@
+[BEGIN]
+Patch where my perry? to purchase everything!
+
+by Big Brad Baby
+
+[SQLITE]
+{"database":"/data/data/com.disney.WMP/files/data/perry.db"}
+{"execute":"UPDATE HubInfo SET Bought = 1"}
+{"execute":"UPDATE LevelPackInfo SET Bought = 1"}
+{"execute":"UPDATE LevelInfo SET Available = 1"}
+{"execute":"UPDATE DoofChallengeInfo SET Available = 1"}
+{"execute":"UPDATE AgentsChallengeInfo SET Available = 1"}
+{"execute":"UPDATE PlayerData SET EventValue = 1 WHERE EventName = 'DoofIAPState'"}
+{"execute":"UPDATE PlayerData SET EventValue = 1 WHERE EventName = 'AgentsIAPState'"}
+
+[END]
+Perry are now on the loose! 

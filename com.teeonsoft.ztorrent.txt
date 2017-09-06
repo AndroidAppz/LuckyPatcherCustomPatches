@@ -1,0 +1,17 @@
+[BEGIN]
+
+Patch by namok o95 (4pda.ru) for zetaTorrent-free v.3.0.5 (no guarantees that it will work on newest versions)
+
+ - Разблокировка Pro версии / Unlocking Pro Version
+ - Не пересобирать apk / Do not rebuild apk
+
+[PACKAGE]
+[CLASSES]
+
+{"original":"12 ** 71 ** ** ** ** ** 0C ** 71 ** ** ** ** ** 0C ** 1A ** ** ** 72 ** 0A ** ** ** ** ** 39 ** ** ** ** ** 71 ** ** ** ** ** 0C ** 1A ** ** ** 71 ** ** ** ** ** 0C ** 6E ** ** ** ** ** 0A ** 3D ** ** ** 12 ** ** ** 0D"}
+{"replaced":"** S1 ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** **"}
+"}
+
+[END]
+Congratulations now you're a pirate !!
+Enjoy :D

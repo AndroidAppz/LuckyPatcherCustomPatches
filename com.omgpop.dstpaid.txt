@@ -1,0 +1,9 @@
+[BEGIN]
+Patch Draw Something - FREE Categories! 
+
+[SQLITE]
+{"database":"/data/data/com.omgpop.dstpaid/files/downloads/special_wordlist_en_us.db"}
+{"execute":"UPDATE categories SET price = 0"}
+
+[END]
+Categories are now on the loose! 

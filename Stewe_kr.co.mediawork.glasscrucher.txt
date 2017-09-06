@@ -1,0 +1,18 @@
+[BEGIN]
+
+♣ Patch By Stewe & NoFear ♣
+
+With this patch you'll get unlimited bucks/coins & all weapons purchased/upgraded for Gun Shot Champion v2.0.0
+
+INSTRUCTIONS:
+1. Open and close game (play a bit the game at least before to apply patch).
+2. Apply patch.
+3. Enjoy!
+
+[OTHER FILES]
+{"name":"/mnt/sdcard/Android/data/kr.co.mediawork.glasscrucher/files/userData.bytes"}
+{"original":"23 78 B0 5F CD AE B4 A3"}
+{"replace_from_file":"Stewe_Gun_Shot_Champion.bin"}
+
+[END]
+PATCHED!

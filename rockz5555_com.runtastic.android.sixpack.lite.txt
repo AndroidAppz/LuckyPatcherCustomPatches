@@ -1,0 +1,27 @@
+[BEGIN]
+Runtastic Six Pack Pro Multi Patch
+v1.1 - v1.3
+(Maybe > versions)
+
+Patch by rockz5555
+
+Web:
+http://nizwerfreegallery.blogspot.com
+[PACKAGE]
+[CLASSES]
+{"group":"1"}
+{"original":"71 10 3C 15 00 00 0C 00"}
+{"replaced":"12 10 0F 00 ?? ?? ?? ??"}
+
+{"group":"1"}
+{"original":"54 20 7C 70 71 10 70 B5"}
+{"replaced":"12 10 0F 00 ?? ?? ?? ??"}
+
+{"group":"1"}
+{"original":"12 11 12 02 54 60 3D 7C"}
+{"replaced":"?? ?? ?? 12 ?? ?? ?? ??"}
+[END]
+Now you have → Runtastic Six Pack Pro Version!!
+
+Regards,
+★ rockz5555 ★

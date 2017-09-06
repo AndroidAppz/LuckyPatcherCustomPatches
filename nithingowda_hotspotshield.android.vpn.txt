@@ -1,0 +1,22 @@
+[BEGIN]
+
+Patch For Hotspot Shield
+Patch By Nithin Gowda
+Updated for v4.0.3 by (GL)Silent
+
+[PACKAGE]
+[CLASSES]
+
+{"original":"20 00 00 00 12 03 12 02 5C 42 C2 3F 5C 42 C3 3F 12 10"}
+{"replaced":"** ** ** ** ** ** ** 12 ** ** ** ** ** ** ** ** ** **"}
+
+{"original":"71 30 38 91 32 04 0A 03 5C 63 C2 3F 54 63 C1 3F 14 04"}
+{"replaced":"** ** ** ** ** ** 12 13 ** ** ** ** ** ** ** ** ** **"}
+
+{"original":"00 00 16 02 00 00 12 01 70 20 8B 90 54 00 5C 41 C2 3F"}
+{"replaced":"** ** ** ** ** ** ** 11 ** ** ** ** ** ** ** ** ** **"}
+
+[END]
+Patched..!!
+Cheers..!!
+By Nithin Gowda

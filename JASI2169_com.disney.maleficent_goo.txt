@@ -1,0 +1,24 @@
+[BEGIN]
+
+Patch By Jasi2169
+
+For Disney Maleficent Free Fall v1.4.0 (UP/DOWN)
+
+For Unlimited Lives ( 999999999 -> I Guess They Are Enough :D )
+
+<<< Instructions >>>
+1. Install Disney Maleficent Free Fall From Play Store.
+2. Now Open It And Complete The First Level (Old Users Check Note Below).
+3. Now Patch It And Guess What "Unlimited Lives".
+4. NOTE :- If You Already Playing On "XX" Level,You Can Only Apply This Patch If You Have Lives between "0-9".
+4. If Any Problem,Patch it Again.
+
+[OTHER FILES]
+{"name":"/shared_prefs/com.disney.maleficent_goo.xml"}
+{"original":"6E 61 6D 65 3D 22 4C 69 76 65 73 22 20 76 61 6C 75 65 3D 22 ?? 22"}
+{"insert":"6E 61 6D 65 3D 22 4C 69 76 65 73 22 20 76 61 6C 75 65 3D 22 39 39 39 39 39 39 39 39 39 22"}
+
+[END]
+Patched..!!
+Cheers..!!
+By Jasi2169

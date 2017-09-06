@@ -1,0 +1,20 @@
+[BEGIN]
+OfficeSuite Premium Unlocker
+v8.7.5222
+(Maybe > versions)
+
+Patch by CodeLyokoXtEAM
+
+Web:
+[PACKAGE]
+[CLASSES]
+{"group":"1"}
+{"original":"12 10 28 FA 12 00 28 ?? 06"}
+{"replaced":"?? 20 ?? ?? ?? 20 ?? ?? ??"}
+
+
+[END]
+Now you have → OfficeSuite Premium Version!!!
+
+Regards,
+++++#### CodeLyokoXtEAM #####++++

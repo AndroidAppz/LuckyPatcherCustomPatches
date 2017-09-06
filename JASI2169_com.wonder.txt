@@ -1,0 +1,23 @@
+[BEGIN]
+
+Patch By Jasi2169 (Find Me On Xda-Developers.Com)
+
+For Elevate - Brain Training v1.11 To Pro Version.
+For Lifetime (No Subscription Per Year Required Afterwards)
+
+<<< Instructions >>>
+1. Install Elevate - Brain Training From Play Store.
+2. Now Login To Your Account In The App.
+3. Patch It And You Got Lifetime Subscription (Saved $45 Per Year) ;)
+4. If Any Problem,Patch it Again.
+
+[PACKAGE]
+[CLASSES]
+
+{"original":"00 ?? 02 ?? 00 12 12 0F ?? 12 ?? ?? FE ?? 00"}
+{"replaced":"00 ?? ?? ?? 00 12 ?? ?? ?? 12 12 ?? FE ?? ??"}
+
+[END]
+Patched..!!
+Cheers..!!
+By Jasi2169

@@ -1,0 +1,16 @@
+﻿[BEGIN] 
+Free skateparks in True Skate.
+(If patch doesn't work use with LuckyPatcher's InApp emulation patch).
+
+Бесплатные парки в True Skate.
+(Если патч не работает, используйте вместе с патчем LuckyPatcher'а для эмуляции InApp).
+
+[LIB] 
+{"name":"libtrueaxis.so"}
+{"original":"70 6C 61 74 66 6F 72 6D 3D 31"}
+{"replaced":"** ** ** ** ** ** ** ** ** 33"}
+
+{"original":"50 00 00 00 41 00 00 00 55 00 00 00 53 00 00 00 45 00 00 00 44"}
+{"replaced":"34 00 00 00 50 00 00 00 44 00 00 00 41 00 00 00 00 00 00 00 00"}
+
+[END]

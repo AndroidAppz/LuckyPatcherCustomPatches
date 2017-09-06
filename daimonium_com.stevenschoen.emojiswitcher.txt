@@ -1,0 +1,16 @@
+[BEGIN]
+Version: 2.1
+
+Description: patch will remove advertisements (pattern #1) and unlock paid emoji sets (pattern #2) in Emoji Switcher 2.1 (no guarantees that it will work on newest versions)
+
+Creator: Daimonium
+
+[PACKAGE]
+[CLASSES]
+{"original":"6E ** ** ** ** ** 0A ** 39 ** ** ** 12 ** 0F ** 12 ** 28 ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** 52 ** ** ** 39 ** ** ** 12 ** 0F ** 12 ** 28 **"}
+{"replaced":"** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** 12 S0 ** ** ** ** ** **"}
+
+{"original":"12 ** 12 ** 6E ** ** ** ** ** 0C ** 54 ** ** ** 6E ** ** ** ** ** 0A **"}
+{"replaced":"** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** 12 S1"}
+
+[END]

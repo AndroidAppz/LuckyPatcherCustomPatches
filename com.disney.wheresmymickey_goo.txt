@@ -1,0 +1,11 @@
+[BEGIN]
+Patch where my Mickey? to buy everything!
+
+by Big Brad Baby
+
+[SQLITE]
+{"database":"/data/data/com.disney.wheresmymickey_goo/perry.db"}
+{"execute":"UPDATE IAPInfo SET Bought = 1"}
+
+[END]
+Mickey are now on the loose!

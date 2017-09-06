@@ -1,0 +1,60 @@
+[BEGIN]
+
+Kuldip Patel(KP7742) Reveals Mod Of DA2-Mini Militia.
+
+-> DA2-Mini Militia v2.2.52 <-
+
+~Features~
+- One Shot Kill.
+- Unlock Pro Pack.
+- Unlimited Flying Power.
+- No Reload.
+- All Store Item Unlocked.
+- Unlimited Ammo.
+
+<<< Instructions >>>
+For Rooted Users:
+1. Install DA2-Mini Militia From Play Store.
+2. Patch It  With Lucky Patcher And Guess What "ALL DONE".
+3. If Any Problem,Reinstall The Game And Patch it Again.
+For Non-Rooted Users:
+1. Install DA2-Mini Militia From Play Store.
+2. Create New Modified Apk With This Patch.
+3. Remove Old Apk And Install New.
+
+#WebSite# -~> https://da2m.blogspot.in/
+
+[LIB]
+{"name":"libcocos2dcpp.so"}
+
+{"original":"67 00 00 00 54 4F 55 43 48 20 20 20 20 53 54 41 52 54 00 00 4C 4F 41 44 49 4E 47 00 53 6F 75 6E"}
+{"replaced":"67 00 00 00 4B 50 37 37 34 32 20 20 20 4B 4D 4F 44 53 00 00 4B 75 6C 64 69 70 50 00 53 6F 75 6E"}
+
+{"original":"02 B0 70 47 82 B0 01 90 01 9B D3 F8 B4 31 18 46"}
+{"replaced":"02 B0 70 47 82 B0 01 90 01 9B D3 F8 B4 31 04 20"}
+
+{"original":"DC E4 3D 00 10 B5 84 B0 01 90 00 91 21 4C 7C 44"}
+{"replaced":"DC E4 3D 00 01 20 70 47 01 90 00 91 21 4C 7C 44"}
+
+{"original":"DB B2 18 46 02 B0 70 47 00 B5 83 B0 01 90 01 9B"}
+{"replaced":"DB B2 01 20 02 B0 70 47 00 B5 83 B0 01 90 01 9B"}
+
+{"original":"58 7A 01 9B D3 ED 5F 7A 77 EE 67 7A 17 EE 90 3A 18 46 02 B0 70 47 00 BF"}
+{"replaced":"58 7A 01 9B D3 ED 5F 7A 77 EE 67 7A 17 EE 90 3A 00 20 02 B0 70 47 00 BF"}
+
+{"original":"DB B2 00 2B D7 D1 00 23 18 46 06 B0 10 BD 00 BF"}
+{"replaced":"DB B2 00 2B D7 D1 00 23 01 20 06 B0 10 BD 00 BF"}
+
+{"original":"18 46 06 B0 10 BD 00 BF 2D E9 F0 43 8F B0 05 90"}
+{"replaced":"03 20 06 B0 10 BD 00 BF 2D E9 F0 43 8F B0 05 90"}
+
+{"original":"03 46 1B 68 9B B2 1B B2 01 E0 83 F3 12 EE 18 46"}
+{"replaced":"03 46 1B 68 9B B2 1B B2 01 E0 83 F3 12 EE 1E 20"}
+
+{"original":"9B B2 1B B2 01 E0 81 F3 64 EB 18 46 05 B0 5D F8"}
+{"replaced":"9B B2 1B B2 01 E0 81 F3 64 EB 05 20 05 B0 5D F8"}
+
+[END]
+Patched..!!
+Cheers..!!
+Patch By kp7742 (Find Me On G+)

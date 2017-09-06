@@ -1,0 +1,23 @@
+[BEGIN]
+
+Patch By Jasi2169
+
+For Temple Run v1.6.1 (Up And Down).
+
+For Unlimited Coins And Gems And Many More ;)
+
+<<< Instructions >>>
+1. Install Temple Run From Play Store.
+2. Now Open It And Play A Bit.
+3. Now Patch It And Guess What "ALL DONE".
+4. If Any Problem,Patch it Again.
+
+[OTHER FILES]
+{"name":"/mnt/sdcard/Android/data/com.imangi.templerun/files/recordmanager.dat"}
+{"original":"4A 96 63 5E"}
+{"replace_from_file":"JASI2169_Temple_Run.bin"}
+
+[END]
+Patched..!!
+Cheers..!!
+By Jasi2169

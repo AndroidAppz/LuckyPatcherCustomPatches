@@ -1,0 +1,19 @@
+[BEGIN]
+"OfficeSuite pro + PDF" Premium Unlocker
+v8.6.4939
+(Maybe > versions)
+
+Patch by CodeLyokoXtEAM
+[PACKAGE]
+[CLASSES]
+{"group":"1"}
+{"original":"12 10 28 FD 0D"}
+{"replaced":"?? 20 ?? ?? ??"}
+
+
+[END]
+Now you have → OfficeSuite Premium Version!!!
+:)
+
+Regards,
+★ CodeLyokoXtEAM ★

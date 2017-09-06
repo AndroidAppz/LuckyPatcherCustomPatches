@@ -1,0 +1,13 @@
+[BEGIN]
+Swype + Dragon 1.6.2.22328
+License check patch.
+
+[PACKAGE]
+[CLASSES]
+
+{"original":"12 12 12 03 71 ?? ?? ?? ?? ?? 0B"}
+{"replaced":"12 12 12 13 71 ?? ?? ?? ?? ?? 0B"}
+
+[END]
+Patched!
+by Chelpus.

@@ -1,0 +1,30 @@
+[BEGIN]
+
+Patch By @noxwell
+Enables developer mode and removes invite request.
+
+[PACKAGE]
+[CLASSES]
+<always return true in isDebugMode and isDevMode>
+{"group":"1"}
+{"original":"0E 00 0B 7F ** ** ** ** ** ** 0A 00 0F 00"}
+{"replaced":"** ** ** ** ** ** ** ** ** ** 12 10 0F 00"}
+
+<link default value for dev_mode to pref_phone_sound_enabled_default>
+{"group":"1"}
+{"original":"1F 00 0B 7F"}
+{"replaced":"25 00 0B 7F"}
+
+<always return true in isInvitationComplete>
+{"group":"2"}
+{"original":"1F 00 0B 7F ** ** ** ** ** ** 0A 00 0F 00"}
+{"replaced":"** ** ** ** ** ** ** ** ** ** 12 10 0F 00"}
+
+<link default value for invitation_complete to pref_phone_sound_enabled_default>
+{"group":"2"}
+{"original":"0E 00 0B 7F"}
+{"replaced":"25 00 0B 7F"}
+
+[END]
+DONE!
+

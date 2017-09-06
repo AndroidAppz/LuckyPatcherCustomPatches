@@ -1,0 +1,23 @@
+[BEGIN]
+Event Flow Widget (In-App Purchase Unlock)
+for version 1.4.1+
+Custom Patch created by (GL)BigBrother at forum.mobilism.org
+
+Instructions:
+1.) Download "Event Flow Widget" from playstore.
+2.) Apply this custom patch or create modified apk from this custom patch.
+3.) Enjoy.
+
+[PACKAGE]
+[CLASSES]
+{"original":"54 10 ?? ?? 72 20 ?? ?? 20 00 0A 00 0F 00 00 00 06 00"}
+{"replaced":"?? ?? ?? ?? ?? ?? ?? ?? ?? ?? 12 10 ?? ?? ?? ?? ?? ??"}
+
+[END]
+In-App purchase Patched
+by (GL)BigBrother at forum.mobilism.org
+
+If Custom patch fails then patch it again.
+or PM me on forum.mobilism.org
+
+Enjoy :D

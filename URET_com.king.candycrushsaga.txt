@@ -1,0 +1,43 @@
+[BEGIN]
+
+Patch By DeltaFoX/TeamURET
+
+For Candy Crush Saga v1.69.0.6 and maybe future updates
+- Infinite Lives.
+- Infinite Boosters (you need to have at least ONE).
+- Infinite Lollipop.
+- Infinite Free Switches.
+- Infinite Bomb's Timer.
+
+<<< Instructions >>>
+1. Install Candy Crush Saga From Play Store.
+2. Patch It And Guess What "ALL DONE".
+3. If Any Error, Reinstall The Game And Patch it Again.
+
+[LIB]
+{"name":"libcandycrushsaga.so"}
+
+{"original":"53 E1 00 00 A0 A3 01 00 A0 B3 38"}
+{"replaced":"?? ?? ?? ?? ?? ?? 00 ?? ?? ?? ??"}
+
+{"original":"E1 09 30 FE EB 08 10 8D E2 01 00 80"}
+{"replaced":"?? ?? ?? ?? ?? ?? ?? ?? ?? 02 0C ??"}
+
+{"original":"E1 78 5C 6B 00 18 00 D0 E5"}
+{"replaced":"?? ?? ?? ?? ?? 01 ?? A0 E3"}
+
+{"original":"00 F0 41 2D E9 00 60 50 E2 01"}
+{"replaced":"?? 01 00 A0 E3 1E FF 2F E1 ??"}
+
+{"original":"E1 08 40 2D E9 01 00 A0 E1 00 30 91 E5 03 10 A0 E3 48"}
+{"replaced":"?? 05 00 A0 E3 1E FF 2F ?? ?? ?? ?? ?? ?? ?? ?? ?? ??"}
+
+{"original":"E1 08 40 2D E9 01 00 A0 E1 00 30 91 E5 08 10"}
+{"replaced":"?? 05 00 A0 E3 1E FF 2F ?? ?? ?? ?? ?? ?? ??"}
+
+[END]
+Patched..!!
+Cheers..!!
+By DeltaFoX/TeamURET on http://www.uret.in
+
+

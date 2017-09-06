@@ -1,0 +1,16 @@
+[BEGIN]
+
+Patch by Hibernatorvindictam, mas-slon, Belii81, masterlist, Vadima666, maksnogin, OsitKP, Neuropapa, Alex0047, Anais10, htc 600, карак, xaverty, soyuzapolon, alex@rya, drony2005, ktempk, Snow Volf, ALEX6301, ironman.70, osvalds (4pda.ru)
+Rayman Fiesta Run v.(?-)1.2.9(+?)
+ - Отключение проверки лицензии / Disabling a license check
+
+[PACKAGE]
+[CLASSES]
+
+{"original":"12 ** 6E ** ** ** ** ** 0C ** 12 ** 6E ** ** ** ** ** 0C ** 38 ** ** ** 39 ** ** ** 0F ** 6F ** ** ** ** ** 0A"}
+{"replaced":"** S1 ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** **"}
+
+[END]
+Congratulations now you're a pirate !!
+Enjoy :D
+

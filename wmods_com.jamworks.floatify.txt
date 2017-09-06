@@ -1,0 +1,19 @@
+[BEGIN]
+
+Crack to Floatify Pro
+
+Patch by WellingtonMods
+
+[PACKAGE]
+[CLASSES]
+{"original":"12 01 71 ** ** ** 01 00 0C 01"}
+{"replaced":"12 11 71 ** ** ** 01 00 0C 01"}
+
+{"original":"13 ** 08 ** 34 ** ** ** 54"}
+{"replaced":"13 ** 00 ** 34 ** ** ** 54"}
+
+{"original":"0C ** 6E ** ** ** ** ** 0C ** 6E ** ** ** ** ** 0A ** 39 **"}
+{"replaced":"0C ** 6E ** ** ** ** ** 0C ** 6E ** ** ** ** ** 0A ** 38 **"}
+
+[END]
+Cracked

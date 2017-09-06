@@ -1,0 +1,9 @@
+[BEGIN]
+(EN) Doodle Alchemy patch - everything unlocked
+(RU) Алхимия на бумаге - всё открыто
+[COPY_FILE]
+{"file_name":"doodlealchemy.bin"}
+{"to":"/data/data/com.byril.alchemy/shared_prefs/pref.xml"}
+[END]
+(EN) Done! by LeetPeople
+(RU) Сделано! by LeetPeople

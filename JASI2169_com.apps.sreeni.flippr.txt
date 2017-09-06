@@ -1,0 +1,21 @@
+[BEGIN]
+
+Patch By Jasi2169
+
+For Flippr v1.4 To Pro Version.
+
+<<< Instructions >>>
+1. Install Flippr From Play Store.
+2. Patch It And You Got Pro Version.
+3. If Any Problem,Patch it Again.
+
+[PACKAGE]
+[CLASSES]
+
+{"original":"39 ?? ?? 00 12 ?? 0F ?? 12 ?? ?? ?? 00"}
+{"replaced":"39 ?? ?? 00 ?? ?? ?? ?? 12 11 ?? ?? 00"}
+
+[END]
+Patched..!!
+Cheers..!!
+By Jasi2169

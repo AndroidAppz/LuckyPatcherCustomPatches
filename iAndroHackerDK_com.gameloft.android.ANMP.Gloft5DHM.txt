@@ -1,0 +1,81 @@
+[BEGIN]
+
+<<< Hack features >>>
+- 1. Infinite mana
+- 2. Rapid attack
+- 3. x2 speed
+- 4. No cooldown
+- 5. Anti-ban
+
+<<< Instructions >>>
+1. Install Summoners War From Play Store.
+2. Run Summoners War and let it download/update data
+3. Close the game
+4. Go to settings -> Application -> Dungeon Hunter 5 and tap Force Close
+5. Open Lucky Patcher and patch the game
+6. If done then run the game
+
+If Any Problem, Reboot your device, Reinstall The Game And Patch it Again.
+
+<< Credits >>>
+- iAndroHackerDK (Creating a patch)
+- Riu - AlphaGAmer (Modded APK)
+
+[LIB]
+{"name":"libAndroid.so"}
+
+{"original":"0F 00 71 E3 04 10 A0 03"}
+{"replaced":"1E FF 2F E1 ?? ?? ?? ??"}
+
+{"original":"FC 03 D0 E5 1E FF 2F E1"}
+{"replaced":"00 00 A0 E3 ?? ?? ?? ??"}
+
+{"original":"F0 4F 2D E9 00 80 A0 E1 9C 41 9F E5"}
+{"replaced":"1E FF 2F E1 ?? ?? ?? ?? ?? ?? ?? ??"}
+
+{"original":"38 40 2D E9 00 50 A0 E1 60 40 9F E5 CD FF"}
+{"replaced":"00 00 A0 E3 1E FF 2F ?? ?? ?? ?? ?? ?? ??"}
+
+{"original":"10 40 2D E9 00 40 A0 E1 7D FF FF EB 11 00"}
+{"replaced":"00 00 A0 E3 ?? ?? ?? ?? ?? ?? ?? ?? ?? ??"}
+
+{"original":"70 40 2D E9 01 40 A0 E1 02 60 A0 E1 4B DD 00 EB"}
+{"replaced":"1E FF 2F E1 ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ??"}
+
+{"original":"F8 40 2D E9 02 60 A0 E1 00 40 A0 E1 01 50 A0 E1"}
+{"replaced":"1E FF 2F E1 ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ??"}
+
+{"original":"00 40 A0 E1 01 60 A0 E1 0C D0 4D E2 02 50 A0 E1"}
+{"replaced":"FF 44 E0 E3 ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ??"}
+
+{"original":"08 40 2D E9 FE 22 F9 EB 00 30 50 E2"}
+{"replaced":"01 00 A0 E3 1E FF 2F E1 ?? ?? ?? ??"}
+
+{"original":"08 40 2D E9 1C 22 F9 EB 00 00 50 E3"}
+{"replaced":"11 03 A0 E3 1E FF 2F E1 ?? ?? ?? ??"}
+
+{"original":"10 40 2D E9 00 40 A0 E1 02 8B 2D ED 07 22 F9 EB"}
+{"replaced":"01 01 A0 E3 1E FF 2F ?? ?? ?? ?? ?? ?? ?? ?? ??"}
+
+{"original":"08 40 2D E9 E0 30 90 E5 00 00 53 E3"}
+{"replaced":"01 00 A0 E3 1E FF 2F E1 ?? ?? ?? ??"}
+
+{"original":"08 40 2D E9 EB 30 D0 E5"}
+{"replaced":"1E FF 2F E1 ?? ?? ?? ??"}
+
+{"original":"08 00 90 E5 7A FE FF EA"}
+{"replaced":"1E FF 2F E1 ?? ?? ?? ??"}
+
+{"original":"44 00 90 E5 01 00 70 E2 00 00 A0 33 1E FF 2F E1 10 40 2D E9"}
+{"replaced":"01 00 A0 E3 1E FF 2F E1 00 00 A0 33 1E FF 2F E1 1E FF 2F E1"}
+
+{"original":"44 00 90 E5 01 00 70 E2 00 00 A0 33 1E FF 2F E1 11 7A 90 ED"}
+{"replaced":"00 00 A0 E3 ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ??"}
+
+{"original":"FC 03 D0 E5 1E FF 2F E1"}
+{"replaced":"00 00 A0 E3 ?? ?? ?? ??"}
+
+[END]
+Patched..!!
+Cheers..!!
+By iAndroHackerDK

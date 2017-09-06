@@ -1,0 +1,14 @@
+[BEGIN]
+
+Patch By namok o95 (4pda.ru)
+ - Разблокировка про опций / Unlocking pro options
+
+[PACKAGE]
+[CLASSES]
+
+{"original":"6F ** ** ** 54 ** 0A ** 0F ** ** 01 28"}
+{"replaced":"** ** ** ** ** ** ** ** ** ** ** 11 ** "}
+
+[END]
+Patched..!!
+Good Luck!

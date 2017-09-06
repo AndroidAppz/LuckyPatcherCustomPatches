@@ -1,0 +1,18 @@
+[BEGIN]
+
+Patch for aa (1.2.6)
+
+-All levels unlocked (800)
+-Ads removed
+
+by jacknot
+
+[OTHER FILES]
+{"name":"/shared_prefs/com.aa.generaladaptiveapps_preferences.xml"}
+{"original":"3C 3F 78 6D"}
+{"replace_from_file":"com.aa.generaladaptiveapps_preferences.xml"}
+
+
+[END]
+Patched!
+By jacknot

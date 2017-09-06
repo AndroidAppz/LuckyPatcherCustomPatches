@@ -1,0 +1,22 @@
+[BEGIN]
+Patch cPro to cPro+ Upgrade (IAP)
+
+by: Big Brad Baby
+
+[OTHER FILES]
+{"name":"/files/settingsdata.PRO_PLUS_UPGRADE"}
+{"original":"2D 3A 23 3A 2D 30"}
+{"replaced":"2D 3A 23 3A 2D 31"}
+[OTHER FILES]
+{"name":"/files/settingsdata.DOWNLOAD_OTHER_REQUEST"}
+{"original":"2D 3A 23 3A 2D 31"}
+{"replaced":"2D 3A 23 3A 2D 32"}
+[OTHER FILES]
+{"name":"/files/settingsdata.UPGRADEREQUEST_INFO"}
+{"original":"2D 3A 23 3A 2D 31"}
+{"replaced":"2D 3A 23 3A 2D 32"}
+
+[END]
+Patch Complete.
+
+Piss on that theif that stole $3.98 from me. ;)

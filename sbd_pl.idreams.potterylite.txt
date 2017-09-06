@@ -1,0 +1,32 @@
+[BEGIN]
+
+For Let's Create Pottery Lite
+
+Lots of coins( 999999 )
+
+<<< Instructions >>>
+1. Install Let's Create Pottery Lite From Play Store.
+2. Now Open It And Complete The First Level.
+3. Now Patch It.
+4. If you ran out of coins, patch it again.
+
+[OTHER FILES]
+{"name":"/shared_prefs/pl.idreams.potterylite.xml"}
+{"group":"1"}
+{"original":"3C 69 6E 74 20 6E 61 6D 65 3D 22 4B 61 70 75 63 68 61 22 20 76 61 6C 75 65 3D 22 ?? 22 20 2F 3E"}
+{"insert":"3C 69 6E 74 20 6E 61 6D 65 3D 22 4B 61 70 75 63 68 61 22 20 76 61 6C 75 65 3D 22 39 39 39 39 39 39 22 20 2F 3E"}
+{"group":"1"}
+{"original":"3C 69 6E 74 20 6E 61 6D 65 3D 22 4B 61 70 75 63 68 61 22 20 76 61 6C 75 65 3D 22 ?? ?? 22 20 2F 3E"}
+{"insert":"3C 69 6E 74 20 6E 61 6D 65 3D 22 4B 61 70 75 63 68 61 22 20 76 61 6C 75 65 3D 22 39 39 39 39 39 39 22 20 2F 3E"}
+{"group":"1"}
+{"original":"3C 69 6E 74 20 6E 61 6D 65 3D 22 4B 61 70 75 63 68 61 22 20 76 61 6C 75 65 3D 22 ?? ?? ?? 22 20 2F 3E"}
+{"insert":"3C 69 6E 74 20 6E 61 6D 65 3D 22 4B 61 70 75 63 68 61 22 20 76 61 6C 75 65 3D 22 39 39 39 39 39 39 22 20 2F 3E"}
+{"group":"1"}
+{"original":"3C 69 6E 74 20 6E 61 6D 65 3D 22 4B 61 70 75 63 68 61 22 20 76 61 6C 75 65 3D 22 ?? ?? ?? ?? 22 20 2F 3E"}
+{"insert":"3C 69 6E 74 20 6E 61 6D 65 3D 22 4B 61 70 75 63 68 61 22 20 76 61 6C 75 65 3D 22 39 39 39 39 39 39 22 20 2F 3E"}
+{"group":"1"}
+{"original":"3C 69 6E 74 20 6E 61 6D 65 3D 22 4B 61 70 75 63 68 61 22 20 76 61 6C 75 65 3D 22 ?? ?? ?? ?? ?? 22 20 2F 3E"}
+{"insert":"3C 69 6E 74 20 6E 61 6D 65 3D 22 4B 61 70 75 63 68 61 22 20 76 61 6C 75 65 3D 22 39 39 39 39 39 39 22 20 2F 3E"}
+
+[END]
+Patched..!!

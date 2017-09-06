@@ -1,0 +1,14 @@
+[BEGIN]
+
+Patch By namok o95 (4pda.ru)
+
+- Disabling recommended stories
+[PACKAGE]
+[CLASSES]
+
+{"original":"0A ** ** 0A ** ** ** 10 ** 12 **"}
+{"replaced":"** ** ** ** ** ** ** ** ** ** 00"}
+
+[END]
+Patched..!!
+Good Luck

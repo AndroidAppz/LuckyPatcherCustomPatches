@@ -1,0 +1,17 @@
+[BEGIN]
+
+Patch by namok o95 (4pda.ru) for Jbak Keyboard 
+(?-)v.1.2.151(+?)
+
+ - Разблокировка Pro версии / Unlocking Pro Version
+
+[PACKAGE]
+[CLASSES]
+
+{"original":"62 ** ** ** 6E ** ** ** ** ** 0C ** 52 ** 0A ** DD ** ** ** 38 ** ** ** 12 ** 0F ** 12 **"}
+{"replaced":"** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** S1"}
+
+[END]
+Congratulations! You have cracked Program!
+
+Good Luck!

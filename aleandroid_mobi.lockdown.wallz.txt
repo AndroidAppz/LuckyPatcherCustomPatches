@@ -1,0 +1,25 @@
+[BEGIN]
+Author: AleX @ www.aleandroid.com
+Target: Wallz Wallpaper App v1.2.2
+Crack: Classes modification
+------------------------------------------------
+Effect: 
+Free to Pro!
+------------------------------------------------
+Instructions:
+Just apply this custom patch 
+or rebuild the app with it.
+------------------------------------------------
+[PACKAGE]
+[CLASSES]
+{"original":"95 00 00 0A 00 38 00 04 00 12 10 0F 00 12 00"}
+{"replaced":"** ** ** ** ** ** ** ** ** ** ** ** ** 12 10"}
+[END]
+------------------------------------------------
+Patched!
+Enjoy ;)
+------------------------------------------------
+AleX
+------------------------------------------------
+
+

@@ -1,0 +1,16 @@
+[BEGIN]
+Patch By Silent_Assassin  @-MM-
+@(GL)Silent   @Mobilism
+ISS Detector patch
+For v2.00.69+
+
+[PACKAGE]
+
+[CLASSES]
+{"original":"54 10 43 1A 72 20 04 44 20 00 0A 00"}
+{"replaced":"54 10 43 1A 72 20 04 44 20 00 12 10"}
+
+[END]
+All extension packages are unlocked!!
+Enjoy & Have Fun
+/(GL)Silent

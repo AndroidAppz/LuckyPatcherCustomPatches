@@ -1,0 +1,14 @@
+[BEGIN]
+Working on version 1.0 (And Up)
+
+Dummy Sprite
+Reduce Price to per day..
+
+[PACKAGE]
+[CLASSES]
+
+{"original":"0A ?? 38 ?? ?? ?? 13 ?? 1E 00"}
+{"replaced":"** ** ** ** ** ** ** ** 01 **"}
+
+[END]
+Patched Sucess!!

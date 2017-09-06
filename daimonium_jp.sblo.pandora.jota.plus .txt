@@ -1,0 +1,35 @@
+[BEGIN]
+Version: 2016.03
+
+Description: patch will remove package's signature validations (patterns #1 and #2), will remove Russian locale forbiddance (pattern #3), will unlock all paid features except limitation on connections to cloud storages and root enhancement (patterns #4 and #5), will remove a demand of Google Play services that is needed just for advertisements showing or a license state check (pattern #6), it also will remove corrupt Russian language pack from resources (apk rebuilding is necessary for implementation of this fix)
+
+Warning: paid features are locked by comparisons of various arrays with the catchy hub, I don't know how to falsify the hub of comparisons, so it is patched at every comparison (16 per pattern), just don't fear of a great usage of 4th & 5th patterns
+
+Creator: Daimonium
+
+[PACKAGE]
+[CLASSES]
+{"original":"05 00 00 00 71 10 ** ** 01 00 0A 00 0F 00 00 00 02 00 01 00 01 00 00 00 00 00 00 00 19 00 00 00"}
+{"replaced":"** ** ** ** ** ** ** ** ** ** 12 ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** **"}
+
+{"original":"71 10 ** ** 04 00 0A 00 14 01 4A 78 07 00 32 10 11 00"}
+{"replaced":"** ** ** ** ** ** ** ** ** ** ** ** ** ** ** 00 ** **"}
+
+{"original":"71 30 ** ** ** ** 0C 01 6E 20 ** ** 10 00 0A 00 38 00"}
+{"replaced":"** ** ** ** ** ** ** ** ** ** ** ** ** ** 12 ** ** **"}
+
+{"original":"6E ** ** ** ** ** 0C ** 1F **  ** ** 6E ** ** ** ** ** 0B ** 71 ** ** ** ** ** 0B ** 16 ** ** ** BB ** 31 ** ** **"}
+{"replaced":"** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** 12 ** 00 00"}
+
+{"original":"6E ** ** ** ** ** 0C ** 1F **  ** ** 6E ** ** ** ** ** 0B ** 61 ** ** ** 16 ** ** ** BB ** 31 ** ** **"}
+{"replaced":"** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** 12 ** 00 00"}
+
+{"original":"6E 20 ** ** 10 00 0A ** 71 00 ** ** ** ** 0C 00 12 01 6E 40 ** ** ** ** 0C ** 38 ** 10 00"}
+{"replaced":"** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** 12 ** ** ** ** **"}
+
+[FILE_IN_APK]
+{"name":"/resources.arsc"}
+{"original":"00 00 72 75 00 00"}
+{"replaced":"** ** ** ** 58 58"}
+
+[END]

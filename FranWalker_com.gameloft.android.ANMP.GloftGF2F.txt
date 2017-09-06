@@ -1,0 +1,37 @@
+[BEGIN]
+
+Patcher para: Fazenda Verde 3 (Todas versão).
+
+1- Ouro e dinheiro ilimitado. 
+
+<<< Instrução >>>
+1- Instale o Fazenda Verde 3.
+2- Se você tem o jogo instalado apague os dados.
+3- Aplique o Patcher.
+4- Pronto.
+
+
+Site: http://iAndroidHacker.heck.in
+
+[COPY_FILE]
+{"file_name":"save_farm0"}
+{"to":"/data/data/com.gameloft.android.ANMP.GloftGF2F/files/save_farm0"}
+
+[COPY_FILE]
+{"file_name":"save_farm0_1"}
+{"to":"/data/data/com.gameloft.android.ANMP.GloftGF2F/files/save_farm0_1"}
+
+[COPY_FILE]
+{"file_name":"save_gameplay"}
+{"to":"/data/data/com.gameloft.android.ANMP.GloftGF2F/files/save_gameplay"}
+
+[COPY_FILE]
+{"file_name":"save_gameplay_1"}
+{"to":"/data/data/com.gameloft.android.ANMP.GloftGF2F/files/save_gameplay_1"}
+
+
+[END]
+Concluído! 
+Parabéns.
+
+Patcher Por: Francisley Walker

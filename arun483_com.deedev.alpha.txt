@@ -1,0 +1,25 @@
+[BEGIN]
+
+Patch By arun483
+
+For Alpha (All versions).
+- 5003 Coins(Enough for unlocking all characters).
+
+<<< Instructions >>>
+1. Install Alpha
+2. Run once and play a little.
+3, Patch it, run game and you will have 5003 coins.
+4. Go ahead unlock all characters.
+
+[COPY_FILE]
+{"file_name":"arun483_alpha.bin"}
+{"to":"/data/data/com.deedev.alpha/shared_prefs/com.deedev.alpha_preferences.xml"}
+
+[END]
+Patched!!!
+
+Have Fun !!!
+
+by arun483 (xda)
+
+Note: Don't patch again or you will lose all your progress in game. Only patch once don't be greedy.

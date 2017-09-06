@@ -1,0 +1,33 @@
+﻿[BEGIN]
+Author: AleX @ www.aleandroid.com
+Target: Spotify Music v5.1.0.xxx
+Crack: Library modification
+------------------------------------------------
+Effect: 
+Remove shuffle limitation!
+------------------------------------------------
+Instructions:
+Just apply this custom patch 
+or rebuild the app with it.
+Block ADS using Lucky Patcher 
+hosts file (optional).
+------------------------------------------------
+Note:
+This custom patch is meant 
+for smartphones only.
+It will be applied on boot,
+if you have problems
+rebuild the app with it.
+------------------------------------------------
+[LIB]
+{"name":"liborbit-jni-spotify.so"}
+{"original":"73 68 75 66 66 6C 65 2D 6D 6F 64 65"}
+{"replaced":"00 00 00 00 00 00 00 00 00 00 00 00"}
+[ADD-BOOT]
+[END]
+------------------------------------------------
+Patched!
+Enjoy ;)
+------------------------------------------------
+Big thanks to Riu from alphagamers.net!
+------------------------------------------------

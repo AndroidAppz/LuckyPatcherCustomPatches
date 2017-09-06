@@ -1,0 +1,24 @@
+[BEGIN]
+Gallery Plus - Hide Pictures (In-App Purchase Unlock)
+for version 2.2.3+
+Custom Patch created by (GL)BigBrother at forum.mobilism.org
+
+Instructions:
+1.) Download "Gallery Plus - Hide Pictures" from playstore.
+2.) Apply this custom patch or create modified apk from this custom patch.
+3.) Enjoy.
+
+[PACKAGE]
+
+[CLASSES]
+{"original":"12 ?? 67 00 ?? ?? 12 ?? 67 00 ?? ?? 12 ?? 67 00 ?? ?? 0E 00 03 00 02 00 02 00"}
+{"replaced":"?? 10 ?? ?? ?? ?? ?? 10 ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ??"}
+
+[END]
+In-App purchase Patched
+by (GL)BigBrother at forum.mobilism.org
+
+If Custom patch fails then patch it again.
+or PM me on forum.mobilism.org
+
+Enjoy :D

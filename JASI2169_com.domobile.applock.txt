@@ -1,0 +1,22 @@
+[BEGIN]
+
+Patch By Jasi2169
+
+For App Lock v2.0 From Free To Premium Version.
+For Lifetime.
+
+<<< Instructions >>>
+1. Install App Lock From Play Store.
+2. Patch It And You Got Premium Subscription For Lifetime.
+3. If Any Problem,Patch it Again.
+
+[PACKAGE]
+[CLASSES]
+
+{"original":"39 00 10 00 55 40"}
+{"replaced":"38 ?? ?? ?? ?? 40"}
+
+[END]
+Patched..!!
+Cheers..!!
+By Jasi2169

@@ -1,0 +1,26 @@
+[BEGIN]
+
+* ROOT ONLY *
+Patch for Alto's Adventure v1.2 & maybe future updates
+U Will Get -->
+# Unlimited Coins
+# Workshop Items
+
+Note: If Coin Doubler isnt purchased, Enable Google Billing Emulation And InApp Purchase in LP and try :D
+<<< Instructions >>>
+1. Install Alto's Adventure From Play Store.
+2. Open and Complete Tutorial:)
+3. Patch It.
+4. If Any Problem,Clear Data and Repeat from Step 1.
+
+[COPY_FILE]
+{"file_name":"altosadventure.bin"}
+{"to":"/data/data/com.noodlecake.altosadventure/shared_prefs/com.noodlecake.altosadventure.xml"}
+
+[SET_PERMISSIONS]
+{"file_name":"/shared_prefs/com.noodlecake.altosadventure.xml"}
+{"permissions":"660"}
+
+
+[END]
+Patched..!!

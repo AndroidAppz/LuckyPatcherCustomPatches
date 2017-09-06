@@ -1,0 +1,20 @@
+﻿[BEGIN]
+Timesheet v1.6.0.5  (IAP Patch)
+By: (GL) Silent @Mobilism.org
+
+[PACKAGE]
+[CLASSES]
+
+{"original":"71 20 27 20 21 00 0A 01 71 20 D4 24 10 00 54 30"}
+{"replaced":"71 20 27 20 21 00 12 11 71 20 D4 24 10 00 54 30"}
+
+{"original":"41 19 71 20 27 20 26 00 0A 02 5C 62 65 11 55 62 65 11"}
+{"replaced":"41 19 71 20 27 20 26 00 12 12 5C 62 65 11 55 62 65 11"}
+
+{"original":"71 30 28 20 10 07 0A 00"}
+{"replaced":"71 30 28 20 10 07 12 10"}
+
+[END]
+W&O POS IAP Patched!!
+Enjoy & Have Fun
+(GL)Silent

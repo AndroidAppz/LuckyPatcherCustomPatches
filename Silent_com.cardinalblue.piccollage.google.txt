@@ -1,0 +1,16 @@
+[BEGIN]
+Patch By Silent_Assassin @-MM-
+@(GL)Silent @Mobilism
+Pic Collage IAP Patch 
+For 3.6.15+
+note! you'll need to login to a account so that the purchases will stick!
+[PACKAGE]
+
+[CLASSES]
+{"original":"6C 00 00 00 12 01"}
+{"replaced":"6C 00 00 00 12 11"}
+
+[END]
+In App Purchases Patched!!
+Enjoy & Have Fun
+/(GL)Silent

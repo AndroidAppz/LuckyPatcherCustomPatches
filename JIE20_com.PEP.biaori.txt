@@ -1,0 +1,10 @@
+[BEGIN]
+FOR BIAORI 2.0
+[PACKAGE]
+[CLASSES]
+{"original":"33 ?? 06 00 70 10 ?? ?? 06 00"}
+{"replaced":"32 ?? 06 00 70 10 ?? ?? 06 00"}
+[END]
+CONGRATULATIONS!
+PATCH BY wax628@gmail.com
+

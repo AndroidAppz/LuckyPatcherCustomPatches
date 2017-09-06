@@ -1,0 +1,11 @@
+[BEGIN]
+AppSales 4.2.2
+
+[PACKAGE]
+
+[CLASSES]
+
+{"original":"00 28 FE 0F"}
+{"replaced":"10 28 FE 0F"}
+
+[END]

@@ -1,0 +1,26 @@
+[BEGIN]
+4000 Words v2.3.2 (Full Version)
+By B4ltazar@zoho.com
+
+<< Instruction >>
+1. Use this custom patch.
+2. Go to settings, then use "آپدیت دیتابیس" to install the databases. You should install all of them.
+
+
+[PACKAGE]
+[CLASSES]
+{"original":"03 00 0F 00 01 10 28 FE 72 10"}
+{"replaced":"** ** ** ** 12 ** ** ** ** **"}
+[END]
+
+In-App Purchase Patched
+4000 Words v2.3.2 (Full Version)
+By B4ltazar@zoho.com
+
+Congratulations now you're a pirate !!
+Enjoy :D
+
+
+<< Instruction >>
+1. Use this custom patch.
+2. Go to settings, then use "آپدیت دیتابیس" to install the databases. You should install all of them.

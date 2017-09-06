@@ -1,0 +1,24 @@
+[BEGIN]
+CALCU The Ultimate Calculator (In-App Purchase Unlock)
+for version 1.0.6.140526+
+Custom Patch created by (GL)BigBrother at forum.mobilism.org
+
+Instructions:
+1.) Download "CALCU The Ultimate Calculator" from playstore.
+2.) Apply this custom patch or create modified apk from this custom patch.
+3.) Enjoy.
+
+[PACKAGE]
+
+[CLASSES]
+{"original":"4B 02 ?? ?? 04 00 12 10 0F 00 12 00 28 FE 02 00 02 00"}
+{"replaced":"?? ?? ?? ?? ?? ?? ?? ?? ?? ?? 12 10 ?? ?? ?? ?? ?? ??"}
+
+[END]
+In-App purchase Patched
+by (GL)BigBrother at forum.mobilism.org
+
+If Custom patch fails then patch it again.
+or PM me on forum.mobilism.org
+
+Enjoy :D

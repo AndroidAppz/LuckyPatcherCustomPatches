@@ -1,0 +1,21 @@
+[BEGIN]
+Speak English Version 2 (InApp Purchase Unlock)
+By B4ltazar@zoho.com
+
+<< Instruction >>
+1. Use this custom patch.
+2. Use InApp purchase to enable app.
+
+[PACKAGE]
+[CLASSES]
+{"original":"71 20 0B 10 98 00 6E 10 88 12"}
+{"replaced":"28 4b 00 00 00 00 ** ** ** **"}
+[END]
+a9c9e
+a9d34
+Patched!!
+Speak English Version 2 (InApp Purchase Unlock)
+By B4ltazar@zoho.com
+
+Congratulations now you're a pirate !!
+Enjoy :D

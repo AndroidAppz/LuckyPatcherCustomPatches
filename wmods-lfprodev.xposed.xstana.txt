@@ -1,0 +1,17 @@
+[BEGIN]
+Patch for prime version
+Working on version 2.1.5 (And Up)
+Patch by WellingtonMods
+
+[PACKAGE]
+[CLASSES]
+{"search":"12 10 63 ** R00 R01 33 ** ** ** 0F 00 12 00"}
+
+{"original":"13 ** 00 00 6A ** W00 W01"}
+{"replaced":"13 ** 01 00 6A ** ** **"}
+
+{"original":"6A 00 W00 W01 0F 00"}
+{"replaced":"00 00 12 10 0F 00"}
+
+[END]
+Patched

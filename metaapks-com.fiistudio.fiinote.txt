@@ -1,0 +1,16 @@
+[BEGIN]
+FiiNote, note everything(New!)
+version 9.9.4
+Custom Patch created by (GL)MetaApks
+
+[PACKAGE]
+
+[CLASSES]
+{"original":"0F ?? 39 05 04 ?? 12 00"}
+{"replaced":"0F ?? 39 05 04 ?? 12 10"}
+
+[END]
+In App Purchases Patched!!
+/(GL)MetaApks @mobilism.org
+Enjoy ;D
+

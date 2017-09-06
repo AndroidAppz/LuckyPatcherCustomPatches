@@ -1,0 +1,16 @@
+[BEGIN]
+Sidebar Plus (Multi-bars)
+version 3.3.140421+
+Custom Patch created by (GL)MetaApks
+
+[PACKAGE]
+
+[CLASSES]
+{"original":"6E 10 EB 71 ?? ?? 0A 00"}
+{"replaced":"6E 10 EB 71 ?? ?? 12 10"}
+
+[END]
+In App Purchases Patched!!
+/(GL)MetaApks @mobilism.org
+Enjoy ;D
+

@@ -1,0 +1,23 @@
+[BEGIN]
+
+Patch By Jasi2169
+
+For Temple Run 2 v1.10
+
+For Unlmited Coins And Gems And Many More ;)
+
+<<< Instructions >>>
+1. Install Temple Run 2 From Play Store.
+2. Now Open It And Then Close It.
+3. Now Patch It And Guess What "ALL DONE".
+4. If Any Problem,Patch it Again.
+
+[OTHER FILES]
+{"name":"/mnt/sdcard/Android/data/com.imangi.templerun2/files/gamedata.txt"}
+{"original":"7B 22 68 61 73 68 22 3A 22"}
+{"replace_from_file":"JASI2169_Temple_Run_2.bin"}
+
+[END]
+Patched..!!
+Cheers..!!
+By Jasi2169

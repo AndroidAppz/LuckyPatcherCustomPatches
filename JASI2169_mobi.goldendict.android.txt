@@ -1,0 +1,28 @@
+[BEGIN]
+
+Patch By Jasi2169
+
+(www.jasi2169.blogspot.com)
+
+- License Fix For GoldenDict Paid v1.6.5 
+
+Compatible With :-
+- GoldenDict-1.6.5-Android-3.0+-paid.apk ( 1,89 MB )
+- GoldenDict-1.6.5-Android-4.0+-paid.apk ( 1,89 MB )
+- GoldenDict-1.6.5-Android-4.1+-paid.apk ( 1,89 MB )
+- GoldenDict-1.6.5-Android-4.4+-paid.apk ( 1,89 MB )
+- GoldenDict-1.6.5-paid.apk ( 1,91 MB )
+
+For Paid Apks (4PDA Forums) :-
+http://4pda.ru/forum/index.php?showtopic=267685&st=3000#entry37821761 
+
+<< Patch For ART Only Not Dalvik >>
+// For Android 5.0+ Only Not Below It Will Not Work //
+
+[PACKAGE]
+[CLASSES]
+{"original":"12 16 12 01 22 ?? ?? ?? 54 ?? ?? ?? 70"}
+{"replaced":"0E 00 12 01 22 ?? ?? ?? 54 ?? ?? ?? 70"}
+[END]
+Patched ...Fcukeddd..
+Jasi2169

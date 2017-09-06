@@ -1,0 +1,24 @@
+[BEGIN]
+
+Patch By Jasi2169
+
+For PicsArt Photo Studio v4.5.1 (And Up) To Remove Ads And Free Shopping.
+
+<<< Instructions >>>
+1. Install PicsArt From Play Store And Login To Your Account.
+2. Patch It And Ads Got Removed And Your Shop Got Free(No Need To Pay Anymore).
+3. If Any Problem,Patch it Again.
+
+[PACKAGE]
+[CLASSES]
+
+{"original":"11 12 02 71 00 ?? ?? 00 00 0C 00 ?? 10"}
+{"replaced":"10 0F 00 ?? 00 ?? ?? 00 00 ?? ?? ?? ??"}
+
+{"original":"3E ?? 00 00 12 11 12 02 6E 10 ??"}
+{"replaced":"3E 00 ?? ?? ?? 01 ?? 02 ?? ?? ??"}
+
+[END]
+Patched..!!
+Cheers..!!
+By Jasi2169

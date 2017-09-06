@@ -1,0 +1,23 @@
+[BEGIN]
+
+Patch By Legovia171
+
+For Hill Climb Racing 1.30.0 (75):
+- Ad free;
+- All Vehicles Unlocked and Maxed;
+- All Tracks Unlocked.
+
+<<< Instructions >>>
+1. Install Hill Climb Racing From Play Store;
+2. Patch It And Guess What "ALL DONE";
+3. If Any Problem,Reinstall The Game And Patch it Again.
+
+[COPY_FILE]
+{"file_name":"Legovia171_hillclimb.bin"}
+{"to":"/data/data/com.fingersoft.hillclimb/shared_prefs/hillclimbprefs.xml"}
+
+
+[END]
+Patched!!!!
+Cheers!!!!
+By Legovia171

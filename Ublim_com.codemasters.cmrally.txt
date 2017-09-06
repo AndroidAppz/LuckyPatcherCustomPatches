@@ -1,0 +1,21 @@
+[BEGIN]
+Patch for "Colin McRae" 1.02 (and up), (and down)
+Unlock all levels!
+Unlock all car!!
+Unlock all 100% !!!
+
+1- Download, Install "Colin McRae" and "data"
+2- launch and play it
+3- Run this custom patch
+4- Enjoy!
+
+This patch don't work on "create modified apk"
+
+[OTHER FILES]
+{"name":"/mnt/sdcard/Android/data/com.codemasters.cmrally/files/CurrentContents.csv"}
+{"original":"46 41 4c 53 45"}
+{"replaced":"54 52 55 45 20"}
+
+[END]
+All levels and car unlocked
+Patch by Ublim

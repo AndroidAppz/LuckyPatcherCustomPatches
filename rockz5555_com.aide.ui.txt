@@ -1,0 +1,18 @@
+﻿[BEGIN]
+AIDE Premium + Trainer Unlocker v2.9.8
+(Maybe > versions)
+
+Patch by rockz5555
+
+Web:
+http://nizwerfreegallery.blogspot.com
+[PACKAGE]
+[CLASSES]
+{"original":"71 00 2B 49 00 00 0A ?? ?? ?? ?? ??"}
+{"replaced":"?? ?? ?? ?? ?? ?? 12 10 00 00 00 00"}
+[END]
+Now you have → AIDE Premium + Trainer!!
+
+Regards,
+★ rockz5555 ★
+

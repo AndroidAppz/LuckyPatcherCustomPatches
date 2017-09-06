@@ -1,0 +1,8 @@
+[BEGIN]
+for Smart App Protector V 6.5 +
+[CLASSES]
+{"original":"13 ?? ?? ?? 12 ?? 12 ?? 1A 00 00 00"}
+{"replaced":"12 10 0F 00 00 00 00 00 00 00 00 00"}
+[END]
+enjoy!
+PATCHED BY wax628@gmail.com

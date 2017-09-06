@@ -1,0 +1,29 @@
+[BEGIN]
+Sepehr - سپهر
+V:4.4.2-1035858
+By B4ltazar@zoho.com
+
+<< Instruction >>
+Just use this patch
+
+[PACKAGE]
+[CLASSES]
+{"original":"33 1E D6 01 22 01 1B 08"}
+{"replaced":"32 ** ** ** ** ** ** **"}
+
+{"original":"22 01 1B 08 70 20 72 34 21 00 1A 02 45 25 6E 20 79 34 21 00 0C 02 5B C2 9F 18 1A 02 2B 25 6E 20 79 34 21 00 0C 01 54 C2 A1 18 6E 10 E1 3B 02 00 0C 02 6E 20 74 2B 21 00 0A 01 38 01 BE 00"}
+{"replaced":"00 00 00 00 00 00 00 00 00 00 ** ** ** ** 00 00 00 00 00 00 00 00 ** ** ** ** 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00"}
+
+{"original":"6E 30 D6 3B 21 0C 54"}
+{"replaced":"29 00 67 01 ** ** **"}
+
+[END]
+
+Patched!
+
+Sepehr - سپهر
+V:4.4.2-1035858
+By B4ltazar@zoho.com
+
+Congratulations now you're a pirate !!
+Enjoy :D

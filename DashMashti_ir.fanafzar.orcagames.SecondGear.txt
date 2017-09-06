@@ -1,0 +1,31 @@
+[BEGIN]
+*********************************************
+
+* 2nd Gear v 1.6.5
+
+* Note :Install and Run Game And After **CompleteTutorial**  Apply Patch
+
+* Unlimited Gold Coins ,Unlimited Silver Coins ,Unlocked Levels,Unlimited Xps,Unlimited Gas
+
+* Patch By ===> Dash.Mashti
+
+* Email ===>dash.mashtiii@gmail.com
+
+*********************************************
+[SQLITE]
+{"database":"/mnt/sdcard/Android/data/ir.fanafzar.orcagames.SecondGear/files/jamshid.jam"}
+{"execute":" update  G  set c='QBnYLGgMvzifel_aIQ1Z66'  where SUBSTR(b,9,5)='¸«Õ¨' and LENGTH(b)=21"}
+{"execute":" update  G  set c='QBnYLGgMvzifel_aIQ1Z66'  where SUBSTR(b,9,1)='¦'       and LENGTH(b)=17"}
+{"execute":" update  G  set c='QBnYLGgMvzifel_aIQ1Z66'  where SUBSTR(b,9,5)='¯«Ó¨' and LENGTH(b)=21"}
+{"execute":" update  G  set c='QBnYLGgMvzifel_aIQ1Z66'  where SUBSTR(b,9,4)='¸«ß'  and LENGTH(b)=20"}
+{"execute":" update  G  set c='QBnYLGgMvzifel_aIQ1Z66'  where SUBSTR(b,9,5)='¯«ã'  and LENGTH(b)=21"}
+{"execute":" update  G  set c='QBnYLGgMvzifel_aIQ1Z66'  where SUBSTR(b,9,7)='²¹ß­Ð'  and LENGTH(b)=23"}
+[END]
+Congratulations! You have cracked Program!
+
+Good Luck!
+dash.mashtiii@gmail.com
+
+
+
+

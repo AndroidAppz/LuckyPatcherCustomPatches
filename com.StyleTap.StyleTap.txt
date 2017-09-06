@@ -1,0 +1,17 @@
+[BEGIN]
+Patch for StyleTap v1.0. Exit StyleTap before patch.
+
+[LIB]
+{"name":"libStyleTap.so"}
+
+{"original":"A4 6C 05 00 00 B5 8D B0 01 A8 FF F7 59 FE 03 1C 01 20 00 2B 01 D0 0D B0 00 BD FF F7 55 FF 00 04"}
+{"replaced":"A4 6C 05 00 00 B5 8D B0 01 A8 FF F7 59 FE 03 1C 01 20 01 20 01 20 0D B0 00 BD FF F7 55 FF 00 04"}
+
+{"original":"74 36 05 00 00 B5 8D B0 01 A8 FF F7 77 FE 10 B1 01 20 0D B0 00 BD FF F7 65 FF 00 B2 00 28 D4 BF"}
+{"replaced":"74 36 05 00 00 B5 8D B0 01 A8 FF F7 77 FE 01 20 01 20 0D B0 00 BD FF F7 65 FF 00 B2 00 28 D4 BF"}
+
+[ADD-BOOT]
+
+[END]
+StyleTap is Cracked!
+iDapRc

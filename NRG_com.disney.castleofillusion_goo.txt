@@ -1,0 +1,29 @@
+[BEGIN]
+
+Patch By energyps2
+
+For Castle of Illusion v1.1.0 and maybe future updates
+- Infinite Energy
+- Infinite Ammo (you need to have at least ONE).
+
+<<< Instructions >>>
+1. Install Castle of Illusion From Play Store.
+2. Patch It And Guess What "ALL DONE".
+3. If Any Error, Reinstall The Game And Patch it Again.
+
+[LIB]
+{"name":"libViewer_GP.so"}
+
+{"original":"77 EE C7 7A DF ED A0 6A"}
+{"replaced":"C0 46 C0 46 ?? ?? ?? ??"}
+
+{"original":"77 EE C7 7A DF ED A5 6A"}
+{"replaced":"C0 46 C0 46 ?? ?? ?? ??"}
+
+{"original":"01 3B C0 F8 D8 31 D2 E7"}
+{"replaced":"00 ?? ?? ?? ?? ?? ?? ??"}
+
+[END]
+Patched..!!
+Cheers..!!
+By energyps2

@@ -1,0 +1,14 @@
+[BEGIN]
+Downloader & Private Browser v1.9.18+ Patch
+By: (GL)Silent  @Mobilism 
+
+[PACKAGE]
+[CLASSES]
+
+{"original":"12 18 12 07 "}
+{"replaced":"12 18 12 17 "}
+
+[END]
+Premium features are unlocked!!
+Enjoy & Have Fun
+(GL)Silent

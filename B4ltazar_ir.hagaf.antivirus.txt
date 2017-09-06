@@ -1,0 +1,48 @@
+[BEGIN]
+Haghaf Antivirus V:MM.1.0.4 & MM.1.0.5 & MM.1.0.6(Full Version)
+By B4ltazar@zoho.com
+
+<< Instruction >>
+Just use this custom patch to get the full version.
+
+NOTE: if patch does not worked, you can download full version from following url:
+https://userscloud.com/ed98wym601pk
+
+
+[PACKAGE]
+[CLASSES]
+4
+{"group":"2"}
+{"original":"71 10 45 4B 03 00"}
+{"replaced":"00 00 00 00 00 00"}
+5
+{"group":"2"}
+{"original":"71 20 A3 37 10 00 0A 00 39 00 0F 00"}
+{"replaced":"** ** ** ** ** ** ** ** 32 ** ** **"}
+6
+{"group":"2"}
+{"original":"62 00 ** ** 1A 01 ** ** 6E 20 ** ** ** ** 0A 00 0F 00"}
+{"replaced":"** ** ** ** ** ** ** ** ** ** ** ** ** ** 12 10 ** **"}
+4
+{"group":"1"}
+{"original":"62 00 0A 1B 1A 01 AF 53 6E 20 E7 34 10 00 0A 00 0F 00"}
+{"replaced":"** ** ** ** ** ** ** ** 00 00 00 00 00 00 12 10 0F 00"}
+5
+{"group":"1"}
+{"original":"62 00 0A 1B 1A 01 B2 53 6E 20 E7 34 10 00 0A 00 0F 00"}
+{"replaced":"** ** ** ** ** ** ** ** 00 00 00 00 00 00 12 10 0F 00"}
+6
+{"group":"1"}
+{"original":"46 00 00 01 6E 10 ** ** 00 00 0A 00 33 70 ** 00 12 10 0F 00"}
+{"replaced":"** ** ** ** ** ** ** ** ** ** ** ** 33 00 ** ** ** ** ** **"}
+
+[END]
+
+Patched!!
+By B4ltazar@zoho.com
+
+Congratulations now you're a pirate !!
+Enjoy :D
+
+NOTE: if patch does not worked, you can download full version from following url:
+https://userscloud.com/ed98wym601pk

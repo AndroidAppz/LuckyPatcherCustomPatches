@@ -1,0 +1,24 @@
+[BEGIN]
+Burst Mode Camera (In-App Purchase Unlock)
+for version 1.42+
+Custom Patch created by (GL)BigBrother at forum.mobilism.org
+
+Instructions:
+1.) Download Burst Mode Camera from playstore.
+2.) Apply this custom patch or create modified apk from this custom patch.
+3.) Enjoy.
+
+[PACKAGE]
+
+[CLASSES]
+{"original":"28 DA 12 00 28"}
+{"replaced":"28 DA 12 10 28"}
+
+[END]
+In-App purchase Patched
+by (GL)BigBrother at forum.mobilism.org
+
+If Custom patch fails then patch it again.
+or PM me on forum.mobilism.org
+
+Enjoy :D

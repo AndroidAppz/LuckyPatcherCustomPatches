@@ -1,0 +1,19 @@
+[BEGIN]
+Antiban for Gameloft games.
+
+Ignore ban from server.
+
+Worked for many games from Gameloft.
+
+v1.00
+
+[LIB]
+{"name":"libiceage.so"}
+
+{"original":"62 61 6E 6E 65 64 5F 66 72 6F 6D"}
+{"replaced":"?? ?? 61 ?? ?? ?? ?? ?? ?? ?? ??"}
+
+[END]
+Congratulations! Game patched!
+
+Patch created by Enyby for 4pda.ru

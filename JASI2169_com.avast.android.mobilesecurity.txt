@@ -1,0 +1,23 @@
+[BEGIN]
+
+Patch By Jasi2169
+
+For Avast Mobile Security v3.0.7850
+Premium For Lifetime.
+
+<<< Instructions >>>
+1. Install Avast Mobile Security From Play Store.
+2. Now Open it And Close it, Then Patch it. 
+3. Enjoy PREMIUM Features "Application Locking And Ad Detector" For Lifetime.
+4. If Any Problem,Patch it Again.
+
+[PACKAGE]
+[CLASSES]
+
+{"original":"12 01 ?? ?? ?? ?? 02 01 0A 00 0F 00 00 00"}
+{"replaced":"?? ?? ?? ?? ?? ?? ?? ?? 12 10 ?? ?? 00 00"}
+
+[END]
+Patched..!!
+Cheers..!!
+By Jasi2169

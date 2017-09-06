@@ -1,0 +1,26 @@
+[BEGIN]
+
+Patch By energyps2
+
+For Papa Pear Saga v1.15.0 and maybe future updates
+- Infinite Lives.
+- Infinite Boosters (you need to have at least ONE).
+
+<<< Instructions >>>
+1. Install Papa Pear Saga From Play Store.
+2. Patch It And Guess What "ALL DONE".
+3. If Any Error, Reinstall The Game And Patch it Again.
+
+[LIB]
+{"name":"libpapapearsaga.so"}
+
+{"original":"C5 1F C5 E1 00 C0 8D E5"}
+{"replaced":"05 10 A0 E3 ?? ?? ?? ??"}
+
+{"original":"10 00 90 E5 14 10 93 E5 1E FF 2F E1 18 00 90 E5 1E FF 2F E1 1C"}
+{"replaced":"03 ?? A0 E3 ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ??"}
+
+[END]
+Patched..!!
+Cheers..!!
+By energyps2

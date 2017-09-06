@@ -1,0 +1,17 @@
+[BEGIN]
+Moldiv Premium Unlocker v2.4
+(Maybe > versions)
+
+Patch by rockz5555
+
+Web:
+http://nizwerfreegallery.blogspot.com
+[CLASSES]
+{"original":"12 00 6A 00 72 43"}
+{"replaced":"?? 01 ?? ?? ?? ??"}
+[ADD-BOOT]
+[END]
+Now you have → Moldive Premium!!
+
+Regards,
+★ rockz5555 ★

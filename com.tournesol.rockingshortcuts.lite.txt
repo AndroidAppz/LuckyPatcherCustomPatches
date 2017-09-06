@@ -1,0 +1,12 @@
+[BEGIN]
+Patch for Rocking Shortcuts Lite 1.4 or Up.
+[CLASSES]
+{"original":"00 04 6C 69 74 65 00"}
+{"replaced":"** ** ** 6C ** ** **"}
+
+{"original":"12 17 12 06"}
+{"replaced":"** ** ** 16"}
+[ODEX]
+[END]
+Congratulations! Program cracked!
+Good Luck!

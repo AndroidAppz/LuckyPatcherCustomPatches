@@ -1,0 +1,23 @@
+[BEGIN]
+
+Patch By Jasi2169
+
+For Sonic Jump Fever v1.3.0
+
+For Unlimited Red Star Rings And Gold Rings ;)
+
+<<< Instructions >>>
+1. Install Sonic Jump Fever From Play Store.
+2. Now Open It And Then Close It.
+3. Now Patch It And Guess What "ALL DONE".
+4. If Any Problem,Patch it Again.
+
+[OTHER FILES]
+{"name":"/files/profile0.dat"}
+{"original":"07 03 10 6C"}
+{"replace_from_file":"JASI2169_SonicJumpFever.bin"}
+
+[END]
+Patched..!!
+Cheers..!!
+By Jasi2169

@@ -1,0 +1,18 @@
+﻿[BEGIN]
+W&O POS v1.6.9.1 + (IAP Patch)
+By: (GL) Silent @Mobilism.org
+
+[PACKAGE]
+[CLASSES]
+
+{"original":"71 20 ** 24 ** 00 0A 00"}
+{"replaced":"71 20 ** 24 ** 00 12 10"}
+
+{"original":"71 30 ** 24 ** 07 0A 00"}
+{"replaced":"71 30 ** 24 ** 07 12 10"}
+
+[END]
+
+W&O POS IAP Patched!!
+Enjoy & Have Fun
+(GL)Silent

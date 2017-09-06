@@ -1,0 +1,32 @@
+[BEGIN]
+Блокировка встроенной в интерфейс и на стартовую страницу браузера рекламы путем блокировки прав доступа к файлам, содержащим рекламу. 
+© DenisArd 2016 
+[SET_PERMISSIONS]
+{"file_name":"/UCMobile/usdata7/ru/iu_url_input"}
+{"permissions":"000"}
+[END] 
+[SET_PERMISSIONS]
+{"file_name":"/UCMobile/usdata7/ru/sl_rt_menuact"}
+{"permissions":"000"}
+[END]
+[SET_PERMISSIONS]
+{"file_name":"/UCMobile/usdata7/ru/download_whitelist"}
+{"permissions":"000"}
+[END]
+[SET_PERMISSIONS]
+{"file_name":"/UCMobile/usdata7/ru/leftnav_banner"}
+{"permissions":"000"}
+[END]
+[SET_PERMISSIONS]
+{"file_name":"/UCMobile/usdata7/ru/nlp_navi_android7"}
+{"permissions":"000"}
+[END]
+[SET_PERMISSIONS]
+{"file_name":"/UCMobile/usdata7/ru/sl_ad_1300"}
+{"permissions":"000"}
+[END]
+[SET_PERMISSIONS]
+{"file_name":"/splash"}
+{"permissions":"000"}
+[END]
+Рекламные файлы заблокированы!

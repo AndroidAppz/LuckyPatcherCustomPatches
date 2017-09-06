@@ -1,0 +1,42 @@
+[BEGIN]
+*********************************************
+
+* Mobile Security & Antivirus v 3.3.17.0
+
+* Note:First Active Trial and after that Apply patch
+
+* Patch By ===> Dash.Mashti
+
+* Email ===>dash.mashtiii@gmail.com
+
+*********************************************
+[PACKAGE]
+
+[CLASSES]
+
+{"original":"12 10 0F 00 12 00 28 FE  03 00 01 00 01 00 00 00 6C B7 48 00 0C 00 00 00  6E 10 8B 39 02 00 0C 00"}
+{"replaced":"12 00 0F 00 12 00 28 FE  03 00 01 00 01 00 00 00 6C B7 48 00 0C 00 00 00  6E 10 8B 39 02 00 0C 00"}
+
+
+{"original":"39 00 0A 00 18 00 42 EA  E8 D1 77 E6 00 00 71 30 7C 39 09 01 22 00 21 17  44 01 05 0A 70 40 64 9A"}
+{"replaced":"38 00 0A 00 18 00 42 EA  E8 D1 77 E6 00 00 71 30 7C 39 09 01 22 00 21 17  44 01 05 0A 70 40 64 9A"}
+
+{"original":"54 2E 49 00 05 00 00 00 71 00 B5 9A 00 00 0B 00"}
+{"replaced":"54 2E 49 00 05 00 00 00 00 00 00 00 16 00 00 00"}
+
+
+[LIB]
+{"name":"libess.so"}
+{"original":"F8 80 BD E8 00 00 57 E3 07 00 00 0A 84 40 9F E5"}
+{"replaced":"F8 80 BD E8 00 00 57 E3 07 00 00 1A 84 40 9F E5"}
+
+
+[END]
+Congratulations! You have cracked Program!
+
+Good Luck!
+dash.mashtiii@gmail.com
+
+
+
+

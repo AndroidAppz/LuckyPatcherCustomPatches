@@ -1,0 +1,28 @@
+[BEGIN]
+
+Patcher para: Enemy Strike (Todas versão).
+
+1- Ouro e dinheiro ilimitado.
+
+2- Tudo no lvl máximo.
+
+3- Todas as armas com 1.000.000.000 de munição.
+
+<<< Instrução >>>
+1- Instale o Enemy Strike.
+2- Se você tem o jogo instalado apague os dados.
+3- Aplique o Patcher.
+4- Pronto.
+
+Site: http://iAndroidHacker.heck.in
+
+[COPY_FILE]
+{"file_name":"com.KillerBeanStudios.EnemyStrike.xml"}
+{"to":"/data/data/com.KillerBeanStudios.EnemyStrike/shared_prefs/com.KillerBeanStudios.EnemyStrike.xml"}
+
+
+[END]
+Concluído! 
+Parabéns.
+
+Patcher Por: Francisley Walker

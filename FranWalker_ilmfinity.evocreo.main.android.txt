@@ -1,0 +1,26 @@
+[BEGIN]
+
+Patcher para: EvoCreo (Todas versão).
+
+1- 999.999.999 ouro.
+
+2- lvl 100.
+
+<<< Instrução >>>
+1- Instale o EvoCreo.
+2- Se você tem o jogo instalado apague os dados.
+3- Aplique o Patcher.
+4- Pronto.
+
+Site: http://iAndroidHacker.heck.in
+
+[COPY_FILE]
+{"file_name":"com.ilmfinity.evocreo.local.xml"}
+{"to":"/data/data/ilmfinity.evocreo.main.android/shared_prefs/com.ilmfinity.evocreo.local.xml"}
+
+
+[END]
+Concluído! 
+Parabéns.
+
+Patcher Por: Francisley Walker

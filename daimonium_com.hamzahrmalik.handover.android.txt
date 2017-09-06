@@ -1,0 +1,13 @@
+[BEGIN]
+Version: 3.2
+
+Description: patch will upgrade Hand Over 3.2 to Pro Edition (no guarantees that it will work on newest versions)
+
+Creator: Daimonium
+
+[PACKAGE]
+[CLASSES]
+{"original":"1A ** ** ** 6E ** ** ** ** ** 0A ** 39 05 ** ** 1A ** ** ** 6E ** ** ** ** ** 0C ** 1A ** ** ** 6E ** ** ** ** ** 0A 04"}
+{"replaced":"** ** ** ** ** ** ** ** ** ** ** ** 33 55 ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** 12 14"}
+
+[END]

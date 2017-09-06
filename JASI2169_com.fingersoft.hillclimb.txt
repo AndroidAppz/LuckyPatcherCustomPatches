@@ -1,0 +1,29 @@
+[BEGIN]
+
+Patch By Jasi2169
+
+For Hill Climb Racing v1.17.1 For ARMv6 And ARMv7
+- Unlimited Money
+
+<<< Instructions >>>
+1. Install Hill Climb Racing From Play Store.
+2. Patch It And Guess What "ALL DONE".
+3. If Any Problem,Reinstall The Game And Patch it Again.
+
+[LIB]
+{"name":"libgame.so"}
+
+{"group":"1"} // ARMv7
+{"original":"02 21 E0 B3 00 20 83 B5 B7 12 01 EB"}
+{"replaced":"02 ?? ?? E3 ?? ?? ?? E5 ?? ?? ?? ??"}
+
+{"group":"1"} // ARMv6
+{"original":"02 21 E0 B3 03 30 8F E0 00 00 83 E5 00 20 83 B5"}
+{"replaced":"?? ?? ?? E3 ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? E5"}
+
+[ADD-BOOT]
+
+[END]
+Patched..!!
+Cheers..!!
+By Jasi2169

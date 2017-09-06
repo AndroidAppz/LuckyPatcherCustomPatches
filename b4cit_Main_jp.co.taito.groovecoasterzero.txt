@@ -1,0 +1,32 @@
+[BEGIN]
+Groove Coaster 2 (IAP unlock patch) for v1.0.9+
+~Brought to you by b4cit~
+
+*Content*
+-Unlocks 200+ free&paid songs.
+-Unlocks 40+ free&paid avatars.
+
+*Important*
+1. Currently logged in game account will be replaced with a rich one.
+2. Existing song records and items will remain untouched.
+3. Backup this file before applying the patch, if you want to retrieve your account later:
+/data/data/jp.co.taito.groovecoasterzero/shared_prefs/TunePreferences.xml 
+4. There's no warranty of any possible data loss, malfunction, account suspension or legal issues.
+
+*Patch Instruction*
+1. Kill the game from tasks.
+2. Apply this patch.
+3. Run the game with internet connected.
+4. Paid content will be downloaded to your device.
+5. Enjoy!
+
+[COPY_FILE]
+{"file_name":"b4cit_Main_jp.co.taito.groovecoasterzero.bin"}
+{"to":"/data/data/jp.co.taito.groovecoasterzero/shared_prefs/TunePreferences.xml"}
+
+[SET_PERMISSIONS]
+{"file_name":"/data/data/jp.co.taito.groovecoasterzero/shared_prefs/TunePreferences.xml"}
+{"permissions":"777"}
+
+[END]
+Patch ended. Enjoy!

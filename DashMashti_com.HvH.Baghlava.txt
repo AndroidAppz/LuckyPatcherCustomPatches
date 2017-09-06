@@ -1,0 +1,24 @@
+[BEGIN]
+*********************************************
+
+* Baghlava v 1.5.4
+
+* Unlock All Levels ,Unlimited Coins
+
+* Patch By ===> Dash.Mashti
+
+* Email ===>dash.mashtiii@gmail.com
+
+*********************************************
+[COPY_FILE]
+{"file_name":"DashMashti_baghlava.bin"}
+{"to":"/data/data/com.HvH.Baghlava/shared_prefs/com.HvH.Baghlava.xml"}
+[END]
+Congratulations! You have cracked Program!
+
+Good Luck!
+dash.mashtiii@gmail.com
+
+
+
+

@@ -1,0 +1,26 @@
+[BEGIN]
+
+Patch By Jasi2169
+
+For NetQin Vault-Hide SMS, Pics & Videos v5.0.10.22 (And Up) Free To Premium
+For Lifetime (No Subscription Needed)
+
+<<< Instructions >>>
+1. Install NetQin Mobile Vault From Play Store.
+2. Patch It And You Got Premium Version.
+3. All Premium Features Unlocked And Server Sided Sync For Premium Disabled.
+4. If Any Problem,Patch it Again.
+
+[PACKAGE]
+[CLASSES]
+
+{"original":"04 ?? ?? ?? 32 ?? ?? ?? 6E"}
+{"replaced":"?? ?? ?? ?? 33 ?? ?? 00 6E"}
+
+{"original":"10 03 0A 00 ??  F7 ?? ?? ??"}
+{"replaced":"?? ?? 12 10 ?? F7 04 00 ??"}
+
+[END]
+Patched..!!
+Cheers..!!
+By Jasi2169

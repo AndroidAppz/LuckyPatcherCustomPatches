@@ -1,0 +1,34 @@
+[BEGIN]
+Photo Editor by Aviary (All In-App Purchase Unlock)
+for version 3.5.1+
+Custom Patch created by (GL)BigBrother at forum.mobilism.org
+
+Instructions:
+1.) Download "Photo Editor by Aviary" from playstore.
+2.) Apply this custom patch or create modified apk from this custom patch.
+3.) Enjoy.
+
+[PACKAGE]
+
+[CLASSES]
+{"group":"1"}
+{"original":"54 10 ?? ?? 72 20 ?? ?? 20 00 0A 00 0F 00 00 00 01 00 01 00 01 00 00 00 ?? ?? ?? ?? 04 00 00 00 70 10 ?? ?? 00 00 0E 00 03 00"}
+{"replaced":"?? ?? ?? ?? ?? ?? ?? ?? ?? ?? 12 10 ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ??"}
+
+[END]
+All In-App purchase Patched
+by (GL)BigBrother at forum.mobilism.org
+If Custom patch fails then patch it again.
+or PM me on forum.mobilism.org
+Enjoy :D
+
+Instructions:
+
+1.) Go to Aviary Supply Shop.
+
+2.) Wait to load list of Effects, Stickers, and Frames.
+     (If you failed to load list that's mean you have low internet connection or you're not connected to internet or your internet is not working or GOOGLE PLAY BILLING SERVICES is not available in your country)
+
+(you might have to restart app manually)
+
+3.) After that Restore them one by one.

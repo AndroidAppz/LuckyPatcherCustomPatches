@@ -1,0 +1,23 @@
+[BEGIN]
+
+Patch for: The Sushi Spinnery
+Version: All Versions
+Patch type: License Fix
+By: Louie
+
+Instructions:
+
+1. Download a normal apk file of "The Sushi Spinnery" on the web.
+2. Install the package.
+3. Open "Lucky Patcher".
+4. Select the game and apply this patch.
+5. Launch the game! If it closes, just open it again.
+
+Note: If it still doesn't remove the error, apply the "Support Patch for InApp and LVL Emulation". This time it will work.
+
+[CLASSES]
+{"object":"2"}
+[ODEX]
+[END]
+
+You are done☺!

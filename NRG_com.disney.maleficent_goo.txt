@@ -1,0 +1,30 @@
+[BEGIN]
+
+Patch By energyps2
+
+For Maleficent Free Fall v1.6.1 and maybe future updates
+- Infinite Magic (100.000 in fact, you can patch every time you need more)
+- 999 Lives
+
+<<< Instructions >>>
+1. Install Maleficent Free Fall From Play Store.
+2. Open It And Play At Least 1 Level (to receive +6 magic)
+3. Close It, Patch It And Guess What "ALL DONE".
+4. If Any Error, Reinstall The Game And Patch it Again.
+
+[OTHER FILES]
+{"name":"/mnt/sdcard/Android/data/com.disney.maleficent_goo/files/Local.tmp"}
+
+{"original":"?? ?? ?? ?? ?? ?? ?? 00 00"}
+{"replaced":"?? ?? ?? ?? A0 86 01 00 00"}
+
+[OTHER FILES]
+{"name":"/data/data/com.disney.maleficent_goo/shared_prefs/com.disney.maleficent_goo.xml"}
+
+{"original":"22 4C 69 76 65 73 22 20 76 61 6C 75 65 3D 22 ?? 22"}
+{"insert":"?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? 39 39 39 22"}
+
+[END]
+Patched..!!
+Cheers..!!
+By energyps2

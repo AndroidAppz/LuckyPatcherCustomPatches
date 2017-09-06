@@ -1,0 +1,22 @@
+[BEGIN]
+
+Patch By energyps2
+
+For Cut The Rope 2 v1.2.8 and maybe future updates
+- Lots of coins.
+
+<<< Instructions >>>
+1. Install Cut The Rope 2 From Play Store.
+2. Patch It And Guess What "ALL DONE".
+3. If Any Error, Reinstall The Game And Patch it Again.
+
+[LIB]
+{"name":"libctr2.so"}
+
+{"original":"2D E9 00 48 07 48 08 49 78 44 08 44 4F F0 FF 31"}
+{"replaced":"4F F0 7F 50 70 47 2F E1 ?? ?? ?? ?? ?? ?? ?? ??"}
+
+[END]
+Patched..!!
+Cheers..!!
+By energyps2

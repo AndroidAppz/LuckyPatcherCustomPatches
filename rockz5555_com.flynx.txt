@@ -1,0 +1,17 @@
+[BEGIN]
+Flynx v1.2.5 Unlimited Bubbles
+(Maybe > versions)
+
+Patch by rockz5555
+
+Web:
+http://nizwerfreegallery.blogspot.com
+[PACKAGE]
+[CLASSES]
+{"original":"71 20 C2 5A 50 00 0A 00"}
+{"replaced":"13 00 E7 03 00 00 00 00"}
+[END]
+Now you have → Flynx Unlimited Bubbles!!
+
+Regards,
+★ rockz5555 ★

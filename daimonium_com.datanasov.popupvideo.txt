@@ -1,0 +1,13 @@
+[BEGIN]
+Version: 1.1.8
+
+Description: patch will earn the golden ticket for you in Awesome Pop-up Video 1.1.8 (no guarantees that it will work on newest versions)
+
+Creator: Daimonium
+
+[PACKAGE]
+[CLASSES]
+{"original":"62 ** ** ** 1A ** ** ** 12 ** 6E ** ** ** ** ** 0A ** 0F ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** 62 ** ** ** 1A ** ** ** 1A ** ** ** 6E ** ** ** ** ** 0C **"}
+{"replaced":"** ** ** ** ** ** ** ** ** ** 14 00 9A 02 00 00 00 00 0F 00 ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** **"}
+
+[END]

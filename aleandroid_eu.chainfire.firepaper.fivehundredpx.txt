@@ -1,0 +1,23 @@
+[BEGIN]
+Author: AleX @ www.aleandroid.com
+Target: 500 Firepaper v2.71
+Crack: Classes modification
+------------------------------------------------
+Effect: 
+Free to Pro!
+------------------------------------------------
+Instructions:
+Just apply this custom patch 
+or rebuild the app with it.
+------------------------------------------------
+[PACKAGE]
+[CLASSES]
+{"original":"12 01 72 30 51"}
+{"replaced":"12 11 ** ** **"}
+[END]
+------------------------------------------------
+Patched!
+Enjoy ;)
+------------------------------------------------
+AleX
+------------------------------------------------

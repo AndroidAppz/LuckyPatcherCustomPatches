@@ -1,0 +1,29 @@
+[BEGIN]
+
+Patch By energyps2
+
+For Swordigo v1.3 and maybe future updates
+- Infinite Energy.
+- Infinite Mana Spell.
+
+<<< Instructions >>>
+1. Install Swordigo From Play Store.
+2. Patch It And Guess What "ALL DONE".
+3. If Any Error,Reinstall The Game And Patch it Again.
+
+[LIB]
+{"name":"libswordigo.so"}
+
+{"original":"FE F7 3B FA 02 E0 21 46"}
+{"replaced":"00 00 00 00 ?? ?? ?? ??"}
+
+{"original":"FE F7 B4 FD D5 F8 DC 30"}
+{"replaced":"00 00 00 00 ?? ?? ?? ??"}
+
+{"original":"2D 1A 9D 42 A8 BF 1D 46"}
+{"replaced":"00 00 ?? ?? ?? ?? ?? ??"}
+
+[END]
+Patched..!!
+Cheers..!!
+By energyps2

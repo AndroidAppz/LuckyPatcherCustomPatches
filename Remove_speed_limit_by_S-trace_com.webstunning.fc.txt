@@ -1,0 +1,21 @@
+[BEGIN]
+Patch By S-trace
+
+For AutoReader 3D Free v2.2.1
+Remove 300 WPM speed limit (speed will be limited to 5000 WPM). If it's still too slow for you - are you really human??
+
+<<< Instructions >>>
+1. Install AutoReader 3D Free From Play Store https://play.google.com/store/apps/details?id=com.webstunning.fc
+2. Now Patch it.
+3. Enjoy unlimited reading speed.
+4. If Any Problem,Patch it Again.
+
+[PACKAGE]
+[CLASSES]
+
+{"original":"d8 01 01 06"}
+{"replaced":"d8 01 01 64"}
+
+[END]
+Patched..!!
+Cheers..!!

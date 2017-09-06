@@ -1,0 +1,23 @@
+[BEGIN]
+Patch for GO SMS PRO v5.25(159)
+Steps to follow:
+
+1- open go sms pro
+
+2- slide from left to open menu
+
+3- click premium
+
+4- continue until it ask you to add credit/debit card on play store
+
+5- close go sms pro and use this patch
+
+
+[SQLITE]
+{"database":"/data/data/com.jb.gosms/databases/gosms_purchase.db"}
+{"execute":"update expired set expired=0"}
+[END]
+
+Congratulations!
+Enjoy Ad-Free, Premium GO SMS Pro
+Pacth by: FaakhiR

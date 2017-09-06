@@ -1,0 +1,29 @@
+﻿[BEGIN]
+Author: AleX @ www.aleandroid.com
+Target: Benji Bananas v1.xx
+Crack: Savedata modification
+------------------------------------------------
+Effect: 
+One billion coins (bananas actually);
+Unlock bonuses;
+Double bananas;
+Remove ADS.
+------------------------------------------------
+Instructions:
+Just apply this custom patch and run the game.
+------------------------------------------------
+[COPY_FILE]
+
+{"file_name":"aleandroid_com.fingersoft.benjibananas.save"}
+
+{"to":"/data/data/com.fingersoft.benjibananas/app_files/_tf_store.xml"}
+
+
+
+[END]
+------------------------------------------------
+Patched!
+Enjoy ;)
+------------------------------------------------
+AleX
+------------------------------------------------

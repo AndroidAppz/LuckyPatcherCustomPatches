@@ -1,0 +1,23 @@
+[BEGIN]
+SuperBeam Pro Multi Patch
+v3.1 - v4.0.5
+(Maybe > versions)
+
+Patch by rockz5555
+
+Web:
+http://nizwerfreegallery.blogspot.com
+[PACKAGE]
+[CLASSES]
+{"group":"1"}
+{"original":"71 10 46 42 01 00 0A 00"}
+{"replaced":"?? ?? ?? ?? ?? ?? 12 10"}
+
+{"group":"1"}
+{"original":"12 00 28 EC 02 00 01"}
+{"replaced":"?? 10 ?? ?? ?? ?? ??"}
+[END]
+Now you have → SuperBeam Pro!!
+
+Regards,
+★ rockz5555 ★

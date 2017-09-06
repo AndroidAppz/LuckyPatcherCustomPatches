@@ -1,0 +1,23 @@
+[BEGIN]
+
+Patch By Jasi2169
+
+For Subway Surfers v1.29.0
+
+For Unlimited Coins And Keys And Everything Unlocked ;)
+
+<<< Instructions >>>
+1. Install Subway Surfers From Play Store.
+2. Now Open It And Then Close It.
+3. Now Patch It And Guess What "ALL DONE".
+4. If Any Problem,Patch it Again.
+
+[OTHER FILES]
+{"name":"/files/playerdata.2"}
+{"original":"14 00 00 00"}
+{"replace_from_file":"JASI2169_Subway_Surfers.bin"}
+
+[END]
+Patched..!!
+Cheers..!!
+By Jasi2169

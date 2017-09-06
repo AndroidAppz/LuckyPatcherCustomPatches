@@ -1,0 +1,16 @@
+[BEGIN]
+
+Patch by namok o95 (4pda.ru) for Спортсмен PRO 
+(?-)v.1.12(+?)
+ - Разблокировка Pro версии/ Unlock the Pro version
+
+[PACKAGE]
+[CLASSES]
+
+{"original":"1A ** ** ** 12 ** 6E ** ** ** ** ** 0C ** 1A ** ** ** 72 ** ** ** ** ** 0C ** 71 ** ** ** ** ** 0C ** 6E ** ** ** ** ** 0A **"}
+{"replaced":"** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** 12 S1"}
+
+[END]
+Congratulations! You have cracked Program!
+
+Good Luck!

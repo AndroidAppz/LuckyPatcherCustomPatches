@@ -1,0 +1,31 @@
+﻿[BEGIN]
+Author: AleX @ www.aleandroid.com
+Target: Roll the Ball v1.4.x
+Crack: Savedata modification
+------------------------------------------------
+Effect: 
+Unlock paid levels;
+Remove ADS;
+Add 10K hints.
+------------------------------------------------
+Instructions:
+Save your progress with 
+Google Play Games (optional).
+Close the game if open.
+Apply this custom patch.
+------------------------------------------------
+[COPY_FILE]
+
+{"file_name":"aleandroid_com.bitmango.rolltheballunrollme.save"}
+
+{"to":"/data/data/com.bitmango.rolltheballunrollme/shared_prefs/com.bitmango.rolltheballunrollme.xml"}
+
+
+
+[END]
+------------------------------------------------
+Patched!
+Enjoy ;)
+------------------------------------------------
+AleX
+------------------------------------------------

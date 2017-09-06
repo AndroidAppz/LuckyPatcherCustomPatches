@@ -1,0 +1,13 @@
+[BEGIN]
+Version: 2.8.1
+
+Description: patch will subscribe you in Nick Nack Hub 2.8.1 (no guarantees that it will work on newest versions)
+
+Creator: Daimonium
+
+[PACKAGE]
+[CLASSES]
+{"original":"12 ** 12 00 54 ** ** ** 12 ** 6E ** ** ** ** ** 0C ** 1A ** ** ** 12 ** 72 ** ** ** ** ** 0C ** 38 ** ** ** 1A ** ** ** 6E ** ** ** ** ** 0A **"}
+{"replaced":"** ** 12 S1 ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** ** 12 S1"}
+
+[END]

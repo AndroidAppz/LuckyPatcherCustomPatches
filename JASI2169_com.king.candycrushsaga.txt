@@ -1,0 +1,42 @@
+[BEGIN]
+
+Patch By Jasi2169 (Find Me On Xda-Developers.Com)
+
+For Candy Crush Saga v1.39.4 For ARMv7
+- Unlock All Levels And Its Episodes.
+- Unlock Dream World And Its Episodes.
+- Infinite Lives.
+- Infinite Free Switches.
+
+<<< Instructions >>>
+1. Install Candy Crush Saga From Play Store.
+2. Patch It And Guess What "ALL DONE".
+3. If Any Problem,Reinstall The Game And Patch it Again.
+
+[LIB]
+{"name":"libcandycrushsaga.so"}
+
+{"original":"F0 45 2D E9 00 40 50 E2 01 00 A0"}
+{"replaced":"01 00 A0 E3 1E FF 2F E1 ?? ?? ??"}
+
+{"original":"70 40 2D E9 01 40 A0 E1 03 60 A0"}
+{"replaced":"01 00 A0 E3 1E FF 2F E1 ?? ?? ??"}
+
+{"original":"10 40 2D E9 02 40 A0 E1 F3 FF FF"}
+{"replaced":"01 00 A0 E3 1E FF 2F E1 ?? ?? ??"}
+
+{"original":"F0 45 2D E9 00 50 50 E2 01 00 A0"}
+{"replaced":"01 00 A0 E3 1E FF 2F E1 ?? ?? ??"}
+
+{"original":"10 40 2D E9 00 40 A0 E1 B4 FF FF EB E9"}
+{"replaced":"FF 04 E0 E3 1E FF 2F E1 ?? ?? ?? ?? ??"}
+
+{"original":"C4 00 91 E5 1E FF 2F E1"}
+{"replaced":"C4 00 81 E5 1E FF ?? ??"}
+
+[ADD-BOOT]
+
+[END]
+Patched..!!
+Cheers..!!
+By Jasi2169

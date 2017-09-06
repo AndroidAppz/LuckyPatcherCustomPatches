@@ -1,0 +1,20 @@
+[BEGIN]
+
+Patch For Hotspot Shield 4.2.7
+Patch By Robert Smali www.appsmod.net
+
+[PACKAGE]
+[CLASSES]
+
+{"original":"01 70 20 F5 D4 54 00 5C 41 63"}
+{"replaced":"11 ?? ?? ?? ?? ?? ?? ?? ?? ??"}
+
+{"original":"0A 03 5C 63 63 71 54 63 64 71"}
+{"replaced":"12 13 ?? ?? ?? ?? ?? ?? ?? ??"}
+
+
+[END]
+Patched! :D
+Sometimes you need restart the phone for the changes to take effect.
+By Robert Smali
+www.appsmpd.net

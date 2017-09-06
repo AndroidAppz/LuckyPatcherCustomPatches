@@ -1,0 +1,31 @@
+[BEGIN]
+Author: AleX @ www.aleandroid.com
+Target: Karaoke Sing & Record v2.0.293
+Crack: Classes modification
+------------------------------------------------
+Effect: 
+Free VIP subscription;
+ADS Free!
+------------------------------------------------
+Instructions:
+Just apply this custom patch 
+or rebuild the app with it.
+------------------------------------------------
+[PACKAGE]
+[CLASSES]
+{"group":"1"}
+{"original":"50 00 00 0A 00 0F 00 00 00 01"}
+{"replaced":"** ** ** 12 10 ** ** ** ** **"}
+{"group":"1"}
+{"original":"10 00 41 00 00 0A 00"}
+{"replaced":"** ** ** ** ** 12 10"}
+{"group":"1"}
+{"original":"01 21 98 12 02"}
+{"replaced":"** ** ** ** 12"}
+[END]
+------------------------------------------------
+Patched!
+Enjoy ;)
+------------------------------------------------
+AleX
+------------------------------------------------

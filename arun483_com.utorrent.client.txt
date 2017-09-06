@@ -1,0 +1,23 @@
+[BEGIN]
+µTorrent Free to Pro by arun483 👻👻
+For Version: 3.10.195 
+Build : 40913 (and future updates also probably)
+
+                                         ««Instructions»»
+
+1. Download and Install µTorrent from PlayStore.
+2. Run app once and close it.
+3. Patch the application.
+4. All done.
+
+[OTHER FILES]
+{"name":"/data/data/com.utorrent.client/shared_prefs/com.utorrent.client_preferences.xml"}
+{"original":"3c 73 74 72 69 6e 67 20 6e 61 6d 65 3d 22 50"}
+{"insert":"3c 73 74 72 69 6e 67 20 6e 61 6d 65 3d 22 50 72 6f 53 74 61 74 75 73 22 3e 50 52 4f 5f 50 41 49 44 3c 2f 73 74 72 69 6e 67 3e 3c 2f 6d 61 70 3e"}
+
+[END]
+🎆🎆Application Patched🎆🎆
+🎉🎉Congratulations you are a pirate now 🎉🎉
+
+from arun483 (XDA)
+PM me if patch is out of date.

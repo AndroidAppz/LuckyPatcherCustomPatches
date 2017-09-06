@@ -1,0 +1,24 @@
+[BEGIN]
+
+Patch By energyps2
+
+For Frozen Free Fall v2.2.1 and maybe future updates
+- Summer, Halloween, Autumn And Holiday Levels Unlocked (do this only ONCE, otherwise you risk to ruin the game)
+
+<<< Instructions >>>
+1. Install Frozen Free Fall From Play Store.
+2. Open It And Play At Least 1 Level.
+3. Enter And Exit Summer Mode.
+4. Close It, Patch It And Guess What "ALL DONE".
+5. If Any Error, Reinstall The Game And Patch it Again.
+
+[OTHER FILES]
+{"name":"/data/data/com.disney.frozensaga_goo/shared_prefs/com.disney.frozensaga_goo.xml"}
+
+{"original":"49 6E 74 72 6F 22 20 76 61 6C 75 65 3D 22 ?? 22 20 2F 3E 0A"}
+{"insert":"49 6E 74 72 6F 22 20 76 61 6C 75 65 3D 22 ?? 22 20 2F 3E 0A 20 20 20 20 3C 69 6E 74 20 6E 61 6D 65 3D 22 70 4B 65 79 32 22 20 76 61 6C 75 65 3D 22 31 39 39 30 37 30 38 30 33 31 22 20 2F 3E 0A 20 20 20 20 3C 69 6E 74 20 6E 61 6D 65 3D 22 70 4B 65 79 33 22 20 76 61 6C 75 65 3D 22 32 31 34 36 38 30 31 34 37 33 22 20 2F 3E 0A 20 20 20 20 3C 69 6E 74 20 6E 61 6D 65 3D 22 70 4B 65 79 34 22 20 76 61 6C 75 65 3D 22 2D 32 31 30 37 34 33 37 39 22 20 2F 3E 0A 20 20 20 20 3C 69 6E 74 20 6E 61 6D 65 3D 22 70 4B 65 79 35 22 20 76 61 6C 75 65 3D 22 31 38 35 37 35 34 31 35 37 22 20 2F 3E 0A 20 20 20 20 3C 69 6E 74 20 6E 61 6D 65 3D 22 75 6E 6C 6F 63 6B 53 75 6D 6D 65 72 22 20 76 61 6C 75 65 3D 22 31 37 35 31 38 37 30 32 31 30 22 20 2F 3E 0A 20 20 20 20 3C 69 6E 74 20 6E 61 6D 65 3D 22 75 6E 6C 6F 63 6B 48 61 6C 6C 6F 77 65 65 6E 22 20 76 61 6C 75 65 3D 22 31 36 33 31 31 33 39 37 30 38 22 20 2F 3E 0A 20 20 20 20 3C 69 6E 74 20 6E 61 6D 65 3D 22 75 6E 6C 6F 63 6B 41 75 74 75 6D 6E 22 20 76 61 6C 75 65 3D 22 2D 35 32 39 33 34 37 30 36 34 22 20 2F 3E 0A 20 20 20 20 3C 69 6E 74 20 6E 61 6D 65 3D 22 75 6E 6C 6F 63 6B 43 68 72 69 73 74 6D 61 73 22 20 76 61 6C 75 65 3D 22 33 36 36 39 32 30 32 30 38 22 20 2F 3E 0A"}
+
+[END]
+Patched..!!
+Cheers..!!
+By energyps2

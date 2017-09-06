@@ -1,0 +1,23 @@
+[BEGIN]
+
+Patch By arun483
+
+For Lollipop Land (All versions).
+- 5003 Coins(Enough for unlocking all characters).
+
+<<< Instructions >>>
+1. Install Lollipop Land from playstore
+2. Run once and play a little.
+3, Patch it, run game and you will have 5003 coins.
+4. Go ahead unlock all characters.
+
+[COPY_FILE]
+{"file_name":"arun483_alpha.bin"}
+{"to":"/data/data/com.jrummyapps.lollipopland/shared_prefs/com.jrummyapps.lollipopland_preferences.xml"}
+
+[END]
+Patched!!!
+
+Have Fun !!!
+
+by arun483 (xda)

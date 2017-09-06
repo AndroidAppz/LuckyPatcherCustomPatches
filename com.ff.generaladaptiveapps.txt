@@ -1,0 +1,18 @@
+[BEGIN]
+
+Patch for ff
+
+-All levels unlocked (175)
+-Ads removed
+
+by jacknot
+
+[OTHER FILES]
+{"name":"/shared_prefs/com.ff.generaladaptiveapps_preferences.xml"}
+{"original":"3C 3F 78 6D"}
+{"replace_from_file":"com.ff.generaladaptiveapps_preferences.xml"}
+
+
+[END]
+Patched!
+By jacknot

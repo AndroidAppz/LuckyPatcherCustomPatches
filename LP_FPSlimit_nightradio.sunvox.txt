@@ -1,0 +1,12 @@
+[BEGIN] 
+(EN) This patch removes FPS limitation.
+(RU) Этот патч снимает ограничение FPS.
+
+[OTHER FILES] 
+{"name":"/data/data/nightradio.sunvox/files/sunvox_config.ini"} 
+{"search":"6d 61 78 66 70 73 20 ** ** **"} 
+{"original":"6d 61 78 66 70 73 20 ** ** **"} 
+{"insert":"6d 61 78 66 70 73 20 39 39 39"} 
+[END] 
+(EN) Congrats! Limitation removed, FPS raised! :) Patch made by LeetPeople.
+(RU) Поздравляем! Ограничение снято, FPS увеличен! :) Патч сделан LeetPeople.

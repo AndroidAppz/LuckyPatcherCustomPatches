@@ -1,0 +1,19 @@
+[BEGIN]
+
+Patch By Nihon-No-Fanboi @-MM- 
+@(GL)Nihon @Mobilism
+
+For Endomondo sports tracker V10.2.x And Above 
+
+[PACKAGE]
+[CLASSES]
+
+{"original":"02 3D 00 04 00 12 10 0F 00 12 00 28 FE 03 00"}
+{"replaced":"02 3D 00 04 00 12 10 0F 00 12 10 28 FE 03 00"}
+
+
+[END]
+Horray!
+Now you can enjoy ENDOMONDO PREMIUM FOR FREE!
+Without spending a single BUCK!
+
